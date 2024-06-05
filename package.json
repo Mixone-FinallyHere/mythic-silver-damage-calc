@@ -33,6 +33,7 @@
   },
   "scripts": {
     "lint": "subpkg run lint && eslint --cache src --ext js",
+    "gh-deploy": "git push origin :gh-pages && git subtree push --prefix dist origin gh-pages",
     "fix": "subpkg run fix && eslint --fix src --ext js",
     "compile": "subpkg run compile && node build view",
     "bundle": "subpkg run bundle",
