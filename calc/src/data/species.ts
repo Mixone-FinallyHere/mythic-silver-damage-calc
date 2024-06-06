@@ -8995,13 +8995,6 @@ const SV_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   'Zacian-Crowned': {bs: {at: 150}},
   Zamazenta: {bs: {at: 120}},
   'Zamazenta-Crowned': {bs: {at: 120, df: 140, sd: 140}},
-  Ababo: {
-    types: ['Fairy'],
-    bs: {hp: 42, at: 35, df: 27, sa: 35, sd: 35, sp: 38},
-    weightkg: 3.5,
-    abilities: {0: 'Pixilate'},
-    nfe: true,
-  },
   Annihilape: {
     types: ['Fighting', 'Ghost'],
     bs: {hp: 110, at: 115, df: 80, sa: 50, sd: 90, sp: 90},
@@ -10015,7 +10008,66 @@ const SV_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
 
 const SV: {[name: string]: SpeciesData} = extend(true, {}, SS, SV_PATCH, PLA_PATCH);
 
-export const SPECIES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
+const MS_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
+  Articuno: {
+    abilities: {0: 'Ice Body'},
+  },
+  Zapdos: {
+    abilities: {0: 'Volt Absorb'},
+  },
+  Moltres: {
+    abilities: {0: 'Flame Body'},
+  },
+  Lugia: {
+    abilities: {0: 'Multiscale'},
+  },
+  Deoxys: {
+    abilities: {0: 'Competitive'},
+  },
+  Uxie: {
+    types: ['Psychic', 'Electric'],
+  },
+  Mesprit: {
+    types: ['Psychic', 'Poison'],
+  },
+  Azelf: {
+    types: ['Psychic', 'Water'],
+  },
+  'Deoxys-Attack': {
+    abilities: {0: 'Defiant'},
+  },
+  'Deoxys-Defense': {
+    abilities: {0: 'Regenerator'},
+  },
+  'Deoxys-Speed': {
+    abilities: {0: 'Competitive'},
+  },
+  'Great Tusk': {
+    abilities: {0: 'Beast Boost'},
+  },
+  'Slither Wing': {
+    abilities: {0: 'Beast Boost'},
+  },
+  'Iron Thorns': {
+    abilities: {0: 'Beast Boost'},
+  },
+  Koraidon: {
+    abilities: {0: 'Drought'},
+  },
+  Miraidon: {
+    abilities: {0: 'Electric Surge'},
+  },
+  'Walking Wake': {
+    abilities: {0: 'Beast Boost'},
+  },
+  'Raging Bolt': {
+    abilities: {0: 'Beast Boost'},
+  },
+};
+
+const MS: {[name: string]: SpeciesData} = extend(true, {}, SV, MS_PATCH);
+
+export const SPECIES = [{}, GSC, ADV, DPP, BW, XY, SM, SS, SV, MS];
 
 export class Species implements I.Species {
   private readonly gen: I.GenerationNum;
