@@ -162,7 +162,7 @@ function calculateDPP(gen, attacker, defender, move, field) {
     basePower = calculateBPModsDPP(attacker, defender, move, field, desc, basePower);
     var attack = calculateAttackDPP(gen, attacker, defender, move, field, desc, isCritical);
     var defense = calculateDefenseDPP(gen, attacker, defender, move, field, desc, isCritical);
-    var baseDamage = Math.floor(Math.floor((Math.floor((2 * attacker.level) / 5 + 2) * basePower * attack) / 50) / defense);
+    var baseDamage = (0, util_1.getBaseDamage)(attacker.level, basePower, attack, defense);
     if (attacker.hasStatus('brn') && isPhysical && !attacker.hasAbility('Guts')) {
         baseDamage = Math.floor(baseDamage * 0.5);
         desc.isBurned = true;

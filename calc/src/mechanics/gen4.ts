@@ -18,6 +18,7 @@ import {
   checkMultihitBoost,
   countBoosts,
   handleFixedDamageMoves,
+  getBaseDamage,
 } from './util';
 
 export function calculateDPP(
@@ -195,9 +196,13 @@ export function calculateDPP(
   // #endregion
   // #region Damage
 
-  let baseDamage = Math.floor(
-    Math.floor((Math.floor((2 * attacker.level) / 5 + 2) * basePower * attack) / 50) / defense
-  );
+  // Old
+  // let baseDamage = Math.floor(
+  //   Math.floor((Math.floor((2 * attacker.level) / 5 + 2) * basePower * attack) / 50) / defense
+  // );
+
+  // Modern
+  let baseDamage = getBaseDamage(attacker.level, basePower, attack, defense);
 
   if (attacker.hasStatus('brn') && isPhysical && !attacker.hasAbility('Guts')) {
     baseDamage = Math.floor(baseDamage * 0.5);

@@ -1575,7 +1575,12 @@ function calculateBaseDamageSMSSSV(
   desc: RawDesc,
   isCritical = false,
 ) {
-  let baseDamage = getBaseDamage(attacker.level, basePower, attack, defense);
+  // Gen 4
+  let baseDamage = Math.floor(
+    Math.floor((Math.floor((2 * attacker.level) / 5 + 2) * basePower * attack) / 50) / defense
+  );
+  // Modern
+  // let baseDamage = getBaseDamage(attacker.level, basePower, attack, defense);
   const isSpread = field.gameType !== 'Singles' &&
      ['allAdjacent', 'allAdjacentFoes'].includes(move.target);
   if (isSpread) {
