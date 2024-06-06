@@ -1158,7 +1158,7 @@ function calculateDfModsSMSSSV(gen, attacker, defender, move, field, desc, isCri
 exports.calculateDfModsSMSSSV = calculateDfModsSMSSSV;
 function calculateBaseDamageSMSSSV(gen, attacker, defender, basePower, attack, defense, move, field, desc, isCritical) {
     if (isCritical === void 0) { isCritical = false; }
-    var baseDamage = (0, util_2.getBaseDamage)(attacker.level, basePower, attack, defense);
+    var baseDamage = Math.floor(Math.floor((Math.floor((2 * attacker.level) / 5 + 2) * basePower * attack) / 50) / defense);
     var isSpread = field.gameType !== 'Singles' &&
         ['allAdjacent', 'allAdjacentFoes'].includes(move.target);
     if (isSpread) {
