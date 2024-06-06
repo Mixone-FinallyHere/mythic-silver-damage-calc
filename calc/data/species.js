@@ -10047,6 +10047,33 @@ var MS_PATCH = {
     },
     'Deoxys-Attack': {
         abilities: { 0: 'Defiant' }
+    },
+    'Deoxys-Defense': {
+        abilities: { 0: 'Regenerator' }
+    },
+    'Deoxys-Speed': {
+        abilities: { 0: 'Competitive' }
+    },
+    'Great Tusk': {
+        abilities: { 0: 'Beast Boost' }
+    },
+    'Slither Wing': {
+        abilities: { 0: 'Beast Boost' }
+    },
+    'Iron Thorns': {
+        abilities: { 0: 'Beast Boost' }
+    },
+    Koraidon: {
+        abilities: { 0: 'Drought' }
+    },
+    Miraidon: {
+        abilities: { 0: 'Electric Surge' }
+    },
+    'Walking Wake': {
+        abilities: { 0: 'Beast Boost' }
+    },
+    'Raging Bolt': {
+        abilities: { 0: 'Beast Boost' }
     }
 };
 var MS = (0, util_1.extend)(true, {}, SV, MS_PATCH);
