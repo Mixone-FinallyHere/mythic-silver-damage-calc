@@ -9013,13 +9013,6 @@ var SV_PATCH = {
     'Zacian-Crowned': { bs: { at: 150 } },
     Zamazenta: { bs: { at: 120 } },
     'Zamazenta-Crowned': { bs: { at: 120, df: 140, sd: 140 } },
-    Ababo: {
-        types: ['Fairy'],
-        bs: { hp: 42, at: 35, df: 27, sa: 35, sd: 35, sp: 38 },
-        weightkg: 3.5,
-        abilities: { 0: 'Pixilate' },
-        nfe: true
-    },
     Annihilape: {
         types: ['Fighting', 'Ghost'],
         bs: { hp: 110, at: 115, df: 80, sa: 50, sd: 90, sp: 90 },
@@ -10027,7 +10020,37 @@ var SV_PATCH = {
     }
 };
 var SV = (0, util_1.extend)(true, {}, SS, SV_PATCH, PLA_PATCH);
-exports.SPECIES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS, SV];
+var MS_PATCH = {
+    Articuno: {
+        abilities: { 0: 'Ice Body' }
+    },
+    Zapdos: {
+        abilities: { 0: 'Volt Absorb' }
+    },
+    Moltres: {
+        abilities: { 0: 'Flame Body' }
+    },
+    Lugia: {
+        abilities: { 0: 'Multiscale' }
+    },
+    Deoxys: {
+        abilities: { 0: 'Competitive' }
+    },
+    Uxie: {
+        types: ['Psychic', 'Electric']
+    },
+    Mesprit: {
+        types: ['Psychic', 'Poison']
+    },
+    Azelf: {
+        types: ['Psychic', 'Water']
+    },
+    'Deoxys-Attack': {
+        abilities: { 0: 'Defiant' }
+    }
+};
+var MS = (0, util_1.extend)(true, {}, SV, MS_PATCH);
+exports.SPECIES = [{}, GSC, ADV, DPP, BW, XY, SM, SS, SV, MS];
 var Species = (function () {
     function Species(gen) {
         this.gen = gen;
