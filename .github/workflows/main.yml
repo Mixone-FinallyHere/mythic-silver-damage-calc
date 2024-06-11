@@ -4,24 +4,15 @@
 name: Tests
 
 on:
-  workflow_run:
-    workflows: [Update Sets]
-    types: [completed]
-  workflow_dispatch:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [18.x]
-
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
@@ -31,9 +22,8 @@ jobs:
     - run: npm install
       env:
         CI: true
-
   publish:
-    if: ${{ github.repository == 'smogon/damage-calc' && (github.event_name == 'push' || github.event.workflow_run.conclusion == 'success') }}
+    if: ${{ github.event.workflow_run.conclusion == 'success') }}
     needs: build
     runs-on: ubuntu-latest
     permissions:
