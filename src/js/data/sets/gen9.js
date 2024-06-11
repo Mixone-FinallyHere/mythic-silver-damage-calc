@@ -357,6 +357,7 @@ var SETDEX_SV = {
 		 "Youngster Joey": {
 			  "level": "4",
 			  "ability": "Adaptability",
+			  "nickname": "RunKiller",
 			  "item": "None",
 			  "nature": "Impish",
 			  "ivs": {
