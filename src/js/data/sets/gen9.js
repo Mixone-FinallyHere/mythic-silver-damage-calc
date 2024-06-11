@@ -1,6 +1,6 @@
 var SETDEX_SV = {
     "Yanmega": {
-        "Bug Catcher Wade": {
+        "Bug Catcher Wade (Level 22)": {
             "level": "22",
             "ability": "Speed Boost",
             "item": "None",
@@ -30,7 +30,7 @@ var SETDEX_SV = {
         }
     },
     "Charjabug": {
-        "Bug Catcher Wade": {
+        "Bug Catcher Wade (Level 21)": {
             "level": "21",
             "ability": "Battery",
             "item": "Leftovers",
@@ -60,7 +60,7 @@ var SETDEX_SV = {
         }
     },
     "Accelgor": {
-        "Bug Catcher Wade": {
+        "Bug Catcher Wade (Level 22)": {
             "level": "22",
             "ability": "Swarm",
             "item": "Liechi Berry",
@@ -90,7 +90,7 @@ var SETDEX_SV = {
         }
     },
     "Stoutland": {
-        "Beauty Victoria": {
+        "Beauty Victoria (Level 39)": {
             "level": "39",
             "ability": "Intimidate",
             "item": "Eject Button",
@@ -120,7 +120,7 @@ var SETDEX_SV = {
         }
     },
     "Pidgeot": {
-        "Beauty Victoria": {
+        "Beauty Victoria (Level 40)": {
             "level": "40",
             "ability": "Big Pecks",
             "item": "Charti Berry",
@@ -148,7 +148,7 @@ var SETDEX_SV = {
                 "Roost"
             ]
         },
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 44)": {
             "level": "44",
             "ability": "Big Pecks",
             "item": "Sharp Beak",
@@ -176,7 +176,7 @@ var SETDEX_SV = {
                 "Steel Wing"
             ]
         },
-        "School Kid M Sherman": {
+        "School Kid M Sherman (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -204,7 +204,7 @@ var SETDEX_SV = {
                 "Return"
             ]
         },
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 72)": {
             "level": "72",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -234,7 +234,7 @@ var SETDEX_SV = {
         }
     },
     "Ambipom": {
-        "Beauty Victoria": {
+        "Beauty Victoria (Level 38)": {
             "level": "38",
             "ability": "Scrappy",
             "item": "Life Orb",
@@ -264,7 +264,7 @@ var SETDEX_SV = {
         }
     },
     "Growlithe,": {
-        "Policeman Cole": {
+        "Policeman Cole (Level 20)": {
             "level": "20",
             "ability": "Intimidate",
             "item": "Shuca Berry",
@@ -294,7 +294,7 @@ var SETDEX_SV = {
         }
     },
     "Luxio": {
-        "Policeman Cole": {
+        "Policeman Cole (Level 21)": {
             "level": "21",
             "ability": "Intimidate",
             "item": "Magnet",
@@ -322,7 +322,7 @@ var SETDEX_SV = {
                 "Quick Attack"
             ]
         },
-        "Team Rocket G-495": {
+        "Team Rocket G-495 (Level 26)": {
             "level": "26",
             "ability": "Intimidate",
             "item": "Shuca Berry",
@@ -350,7 +350,7 @@ var SETDEX_SV = {
                 "Fire Fang"
             ]
         },
-        "Team Rocket G-499": {
+        "Team Rocket G-499 (Level 26)": {
             "level": "26",
             "ability": "Intimidate",
             "item": "Shuca Berry",
@@ -380,7 +380,7 @@ var SETDEX_SV = {
         }
     },
     "Patrat": {
-        "Youngster Joey": {
+        "Youngster Joey (Level 2)": {
             "level": "2",
             "ability": "Keen Eye",
             "item": "Focus Band",
@@ -410,7 +410,7 @@ var SETDEX_SV = {
         }
     },
     "Eevee": {
-        "Youngster Joey": {
+        "Youngster Joey (Level 4)": {
             "level": "4",
             "ability": "Adaptability",
             "item": "None",
@@ -440,7 +440,7 @@ var SETDEX_SV = {
         }
     },
     "Snom": {
-        "Youngster Joey": {
+        "Youngster Joey (Level 3)": {
             "level": "3",
             "ability": "Filter",
             "item": "None",
@@ -470,11 +470,11 @@ var SETDEX_SV = {
         }
     },
     "Pikachu": {
-        "Pkmn Trainer 9 Red": {
-            "level": "75",
+        "Pkmn Trainer 9 Red (Level 4)": {
+            "level": "4",
             "ability": "Static",
-            "item": "Light Ball",
-            "nature": "Adamant",
+            "item": "Magnet",
+            "nature": "Timid",
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -484,21 +484,21 @@ var SETDEX_SV = {
                 "sd": 31
             },
             "evs": {
-                "hp": 0,
-                "at": 252,
+                "hp": 100,
+                "at": 0,
                 "df": 0,
-                "sp": 252,
+                "sp": 0,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Volt Tackle",
+                "Thunder Shock",
+                "Thunder Wave",
                 "Fake Out",
-                "Aqua Tail",
-                "Volt Switch"
+                "None"
             ]
         },
-        "Pokefan M Derek": {
+        "Pokefan M Derek (Level 18)": {
             "level": "18",
             "ability": "0",
             "item": "",
@@ -526,7 +526,7 @@ var SETDEX_SV = {
                 "Thunder Shock"
             ]
         },
-        "Pokefan F Ruth": {
+        "Pokefan F Ruth (Level 17)": {
             "level": "17",
             "ability": "0",
             "item": "",
@@ -554,7 +554,7 @@ var SETDEX_SV = {
                 "Thunder Shock"
             ]
         },
-        "Picnicker Brooke": {
+        "Picnicker Brooke (Level 16)": {
             "level": "16",
             "ability": "0",
             "item": "",
@@ -582,7 +582,63 @@ var SETDEX_SV = {
                 "Double Team"
             ]
         },
-        "Gentleman Gregory": {
+        "Pkmn Trainer 9 Red (Level 20)": {
+            "level": "20",
+            "ability": "Static",
+            "item": "Magnet",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Shock Wave",
+                "Nuzzle",
+                "Fake Out",
+                "Feint"
+            ]
+        },
+        "Pkmn Trainer 9 Red (Level 45)": {
+            "level": "45",
+            "ability": "Static",
+            "item": "Light Ball",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Fake Out",
+                "Thunderbolt",
+                "Play Rough",
+                "Surf"
+            ]
+        },
+        "Gentleman Gregory (Level 46)": {
             "level": "46",
             "ability": "0",
             "item": "",
@@ -609,10 +665,38 @@ var SETDEX_SV = {
                 "Thunder Wave",
                 "Double Team"
             ]
+        },
+        "Pkmn Trainer 9 Red (Level 75)": {
+            "level": "75",
+            "ability": "Static",
+            "item": "Light Ball",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Volt Tackle",
+                "Fake Out",
+                "Aqua Tail",
+                "Volt Switch"
+            ]
         }
     },
     "Caterpie": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 5)": {
             "level": "5",
             "ability": "Shield Dust",
             "item": "Life Orb",
@@ -642,7 +726,7 @@ var SETDEX_SV = {
         }
     },
     "Pidgey": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 6)": {
             "level": "6",
             "ability": "Keen Eye",
             "item": "None",
@@ -672,7 +756,7 @@ var SETDEX_SV = {
         }
     },
     "Bulbasaur": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 5)": {
             "level": "5",
             "ability": "Overgrow",
             "item": "Miracle Seed",
@@ -700,7 +784,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Ace Trainer F Megan": {
+        "Ace Trainer F Megan (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -728,7 +812,7 @@ var SETDEX_SV = {
                 "Razor Leaf"
             ]
         },
-        "Ace Trainer M Nick": {
+        "Ace Trainer M Nick (Level 26)": {
             "level": "26",
             "ability": "0",
             "item": "",
@@ -758,7 +842,7 @@ var SETDEX_SV = {
         }
     },
     "Mimejr": {
-        "Team Rocket G-101": {
+        "Team Rocket G-101 (Level 7)": {
             "level": "7",
             "ability": "Technician",
             "item": "None",
@@ -788,7 +872,7 @@ var SETDEX_SV = {
         }
     },
     "Spritzee": {
-        "Team Rocket G-101": {
+        "Team Rocket G-101 (Level 6)": {
             "level": "6",
             "ability": "Healer",
             "item": "None",
@@ -818,7 +902,7 @@ var SETDEX_SV = {
         }
     },
     "Marill": {
-        "Team Rocket G-101": {
+        "Team Rocket G-101 (Level 6)": {
             "level": "6",
             "ability": "Thick Fat",
             "item": "None",
@@ -848,7 +932,7 @@ var SETDEX_SV = {
         }
     },
     "Woobat": {
-        "Team Rocket 1 G-114": {
+        "Team Rocket 1 G-114 (Level 6)": {
             "level": "6",
             "ability": "Simple",
             "item": "None",
@@ -878,7 +962,7 @@ var SETDEX_SV = {
         }
     },
     "Spoink": {
-        "Team Rocket 1 G-114": {
+        "Team Rocket 1 G-114 (Level 7)": {
             "level": "7",
             "ability": "Thick Fat",
             "item": "Shell Bell",
@@ -908,7 +992,7 @@ var SETDEX_SV = {
         }
     },
     "Flabebe": {
-        "Team Rocket 1 G-114": {
+        "Team Rocket 1 G-114 (Level 7)": {
             "level": "7",
             "ability": "Flower Veil",
             "item": "None",
@@ -938,7 +1022,7 @@ var SETDEX_SV = {
         }
     },
     "Brionne": {
-        "Fisherman Justin": {
+        "Fisherman Justin (Level 22)": {
             "level": "22",
             "ability": "Liquid Voice",
             "item": "Sitrus Berry",
@@ -968,7 +1052,7 @@ var SETDEX_SV = {
         }
     },
     "Pyukumuku": {
-        "Fisherman Justin": {
+        "Fisherman Justin (Level 24)": {
             "level": "24",
             "ability": "Innards Out",
             "item": "Rowap Berry",
@@ -998,7 +1082,7 @@ var SETDEX_SV = {
         }
     },
     "Quagsire": {
-        "Fisherman Justin": {
+        "Fisherman Justin (Level 23)": {
             "level": "23",
             "ability": "Water Absorb",
             "item": "Mystic Water",
@@ -1026,7 +1110,7 @@ var SETDEX_SV = {
                 "Liquidation"
             ]
         },
-        "Ace Trainer M Blake": {
+        "Ace Trainer M Blake (Level 31)": {
             "level": "31",
             "ability": "32",
             "item": "",
@@ -1054,8 +1138,8 @@ var SETDEX_SV = {
                 "Earthquake"
             ]
         },
-        "Leader 6 Misty": {
-            "level": "56",
+        "Leader 6 Misty (Level 49)": {
+            "level": "49",
             "ability": "32",
             "item": "None",
             "nature": "",
@@ -1082,7 +1166,7 @@ var SETDEX_SV = {
                 "Rain Dance"
             ]
         },
-        "Swimmer M Tyson": {
+        "Swimmer M Tyson (Level 42)": {
             "level": "42",
             "ability": "32",
             "item": "",
@@ -1110,7 +1194,7 @@ var SETDEX_SV = {
                 "Amnesia"
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 35)": {
             "level": "35",
             "ability": "0",
             "item": "",
@@ -1138,7 +1222,91 @@ var SETDEX_SV = {
                 "Earthquake"
             ]
         },
-        "Twins Kay & Tia": {
+        "Twins Kay & Tia (Level 41)": {
+            "level": "41",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Amnesia",
+                "Surf",
+                "Yawn",
+                "None"
+            ]
+        },
+        "Twins Kay & Tia (Level 48)": {
+            "level": "48",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Amnesia",
+                "Surf",
+                "Yawn",
+                "None"
+            ]
+        },
+        "Twins Kay & Tia (Level 53)": {
+            "level": "53",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Amnesia",
+                "Surf",
+                "Muddy Water",
+                "Protect"
+            ]
+        },
+        "Twins Kay & Tia (Level 55)": {
             "level": "55",
             "ability": "0",
             "item": "",
@@ -1165,10 +1333,66 @@ var SETDEX_SV = {
                 "Muddy Water",
                 "Earthquake"
             ]
+        },
+        "Leader 6 Misty (Level 56)": {
+            "level": "56",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Water Pulse",
+                "Amnesia",
+                "Earthquake",
+                "Rain Dance"
+            ]
         }
     },
     "Growlithe": {
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 5)": {
+            "level": "5",
+            "ability": "Flash Fire",
+            "item": "None",
+            "nature": "Relaxed",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 96,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bite",
+                "Howl",
+                "Ember",
+                "Sunny Day"
+            ]
+        },
+        "Leader 12 Blue (Level 20)": {
             "level": "20",
             "ability": "Flash Fire",
             "item": "Shuca Berry",
@@ -1196,7 +1420,7 @@ var SETDEX_SV = {
                 "Will O Wisp"
             ]
         },
-        "Burglar Orson": {
+        "Burglar Orson (Level 26)": {
             "level": "26",
             "ability": "0",
             "item": "",
@@ -1224,7 +1448,7 @@ var SETDEX_SV = {
                 "Bite"
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 35)": {
             "level": "35",
             "ability": "0",
             "item": "",
@@ -1254,7 +1478,7 @@ var SETDEX_SV = {
         }
     },
     "Rhyhorn": {
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 5)": {
             "level": "5",
             "ability": "Solid Rock",
             "item": "None",
@@ -1284,11 +1508,11 @@ var SETDEX_SV = {
         }
     },
     "Exeggcute": {
-        "Leader 12 Blue": {
-            "level": "20",
+        "Leader 12 Blue (Level 4)": {
+            "level": "4",
             "ability": "Chlorophyll",
-            "item": "Focus Sash",
-            "nature": "Calm",
+            "item": "None",
+            "nature": "Relaxed",
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -1298,21 +1522,21 @@ var SETDEX_SV = {
                 "sd": 31
             },
             "evs": {
-                "hp": 252,
+                "hp": 0,
                 "at": 0,
-                "df": 252,
+                "df": 248,
                 "sp": 0,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Giga Drain",
-                "Psybeam",
-                "Explosion",
-                "Ancient Power"
+                "Bullet Seed",
+                "Barrage",
+                "Leech Seed",
+                "None"
             ]
         },
-        "Ace Trainer M Blake": {
+        "Ace Trainer M Blake (Level 31)": {
             "level": "31",
             "ability": "0",
             "item": "",
@@ -1340,7 +1564,63 @@ var SETDEX_SV = {
                 "Solar Beam"
             ]
         },
-        "Psychic M Jared": {
+        "Leader 12 Blue (Level 20)": {
+            "level": "20",
+            "ability": "Chlorophyll",
+            "item": "Focus Sash",
+            "nature": "Calm",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Giga Drain",
+                "Psybeam",
+                "Explosion",
+                "Ancient Power"
+            ]
+        },
+        "Psychic M Jared (Level 42)": {
+            "level": "42",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Skill Swap",
+                "Psychic",
+                "Sleep Powder",
+                "Leech Seed"
+            ]
+        },
+        "Psychic M Jared (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "",
@@ -1370,16 +1650,16 @@ var SETDEX_SV = {
         }
     },
     "Magikarp": {
-        "Leader 12 Blue": {
-            "level": "25",
+        "Leader 12 Blue (Level 6)": {
+            "level": "6",
             "ability": "Swift Swim",
-            "item": "Life Orb",
+            "item": "Focus Band",
             "nature": "Adamant",
             "ivs": {
                 "hp": 31,
                 "at": 31,
                 "df": 31,
-                "sp": 30,
+                "sp": 31,
                 "sa": 31,
                 "sd": 31
             },
@@ -1387,18 +1667,46 @@ var SETDEX_SV = {
                 "hp": 0,
                 "at": 252,
                 "df": 0,
-                "sp": 252,
+                "sp": 0,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Self Destruct",
                 "Flail",
-                "Scald",
-                "Rain Dance"
+                "Water Gun",
+                "None",
+                "None"
             ]
         },
-        "Fisherman Marvin": {
+        "Fisherman Marvin (Level 10)": {
+            "level": "10",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Splash",
+                "Tackle",
+                "None",
+                "None"
+            ]
+        },
+        "Fisherman Marvin (Level 15)": {
             "level": "15",
             "ability": "0",
             "item": "",
@@ -1425,10 +1733,38 @@ var SETDEX_SV = {
                 "None",
                 "None"
             ]
+        },
+        "Leader 12 Blue (Level 25)": {
+            "level": "25",
+            "ability": "Swift Swim",
+            "item": "Life Orb",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 30,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Self Destruct",
+                "Flail",
+                "Scald",
+                "Rain Dance"
+            ]
         }
     },
     "Luxray": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 65)": {
             "level": "65",
             "ability": "Intimidate",
             "item": "Air Balloon",
@@ -1458,7 +1794,7 @@ var SETDEX_SV = {
         }
     },
     "Thundurus": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 64)": {
             "level": "64",
             "ability": "Prankster",
             "item": "Sitrus Berry",
@@ -1488,7 +1824,7 @@ var SETDEX_SV = {
         }
     },
     "Rotom,": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 65)": {
             "level": "65",
             "ability": "Levitate",
             "item": "Life Orb",
@@ -1516,7 +1852,7 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Scientist 1 Ross": {
+        "Scientist 1 Ross (Level 63)": {
             "level": "63",
             "ability": "Levitate",
             "item": "Sitrus Berry",
@@ -1544,7 +1880,35 @@ var SETDEX_SV = {
                 "Volt Switch"
             ]
         },
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 75)": {
+            "level": "75",
+            "ability": "Levitate",
+            "item": "Charti Berry",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Overheat",
+                "Foul Play",
+                "Nasty Plot",
+                "Volt Switch"
+            ]
+        },
+        "Executive Jupiter (Level 27)": {
             "level": "27",
             "ability": "Levitate",
             "item": "Focus Band",
@@ -1572,7 +1936,35 @@ var SETDEX_SV = {
                 "Will O Wisp"
             ]
         },
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 75)": {
+            "level": "75",
+            "ability": "Levitate",
+            "item": "Rindo Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Scald",
+                "Thunderbolt",
+                "Shadow Ball",
+                "Nasty Plot"
+            ]
+        },
+        "Executive 1 Saturn (Level 52)": {
             "level": "52",
             "ability": "Levitate",
             "item": "Rindo Berry",
@@ -1602,7 +1994,7 @@ var SETDEX_SV = {
         }
     },
     "Eelektross": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 65)": {
             "level": "65",
             "ability": "Levitate",
             "item": "Sitrus Berry",
@@ -1632,7 +2024,7 @@ var SETDEX_SV = {
         }
     },
     "Tapu Koko": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 65)": {
             "level": "65",
             "ability": "Electric Surge",
             "item": "Shuca Berry",
@@ -1662,7 +2054,7 @@ var SETDEX_SV = {
         }
     },
     "Manectric": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 64)": {
             "level": "64",
             "ability": "Levitate",
             "item": "Manectite",
@@ -1690,7 +2082,7 @@ var SETDEX_SV = {
                 "Hidden Power"
             ]
         },
-        "Team Rocket 1 G-484": {
+        "Team Rocket 1 G-484 (Level 26)": {
             "level": "26",
             "ability": "Lightning Rod",
             "item": "Shuca Berry",
@@ -1718,7 +2110,7 @@ var SETDEX_SV = {
                 "Psychic Fangs"
             ]
         },
-        "Leader 7 Lt. Surge": {
+        "Leader 7 Lt. Surge (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "Pinap Berry",
@@ -1748,7 +2140,7 @@ var SETDEX_SV = {
         }
     },
     "Houndoom": {
-        "Leader F Flint": {
+        "Leader F Flint (Level 55)": {
             "level": "55",
             "ability": "Solar Power",
             "item": "Houndoominite",
@@ -1776,7 +2168,35 @@ var SETDEX_SV = {
                 "Psychic Fangs"
             ]
         },
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 47)": {
+            "level": "47",
+            "ability": "0",
+            "item": "Sitrus Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Nasty Plot",
+                "Dark Pulse",
+                "Flamethrower",
+                "Crunch"
+            ]
+        },
+        "Elite Four 1 Karen (Level 63)": {
             "level": "63",
             "ability": "0",
             "item": "None",
@@ -1804,7 +2224,7 @@ var SETDEX_SV = {
                 "Sludge Bomb"
             ]
         },
-        "Leader 11 Blaine": {
+        "Leader 11 Blaine (Level 54)": {
             "level": "54",
             "ability": "32",
             "item": "None",
@@ -1834,7 +2254,7 @@ var SETDEX_SV = {
         }
     },
     "Magmortar": {
-        "Leader F Flint": {
+        "Leader F Flint (Level 54)": {
             "level": "54",
             "ability": "Flame Body",
             "item": "Life Orb",
@@ -1862,7 +2282,7 @@ var SETDEX_SV = {
                 "Focus Blast"
             ]
         },
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 34)": {
             "level": "34",
             "ability": "Flame Body",
             "item": "Life Orb",
@@ -1890,7 +2310,7 @@ var SETDEX_SV = {
                 "Will O Wisp"
             ]
         },
-        "Leader 11 Blaine": {
+        "Leader 11 Blaine (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -1920,7 +2340,7 @@ var SETDEX_SV = {
         }
     },
     "Infernape": {
-        "Leader F Flint": {
+        "Leader F Flint (Level 54)": {
             "level": "54",
             "ability": "Blaze",
             "item": "Focus Sash",
@@ -1948,7 +2368,7 @@ var SETDEX_SV = {
                 "Bulk Up"
             ]
         },
-        "Black Belt Yoshi": {
+        "Black Belt Yoshi (Level 29)": {
             "level": "29",
             "ability": "Blaze",
             "item": "Focus Sash",
@@ -1978,7 +2398,7 @@ var SETDEX_SV = {
         }
     },
     "Incineroar": {
-        "Leader F Flint": {
+        "Leader F Flint (Level 52)": {
             "level": "52",
             "ability": "Intimidate",
             "item": "Eject Button",
@@ -2008,7 +2428,7 @@ var SETDEX_SV = {
         }
     },
     "Ceruledge": {
-        "Leader F Flint": {
+        "Leader F Flint (Level 53)": {
             "level": "53",
             "ability": "Weak Armor",
             "item": "Shuca Berry",
@@ -2038,7 +2458,7 @@ var SETDEX_SV = {
         }
     },
     "Entei": {
-        "Leader F Flint": {
+        "Leader F Flint (Level 55)": {
             "level": "55",
             "ability": "Inner Focus",
             "item": "Passho Berry",
@@ -2068,7 +2488,7 @@ var SETDEX_SV = {
         }
     },
     "Grovyle": {
-        "Aroma Lady Cassie": {
+        "Aroma Lady Cassie (Level 23)": {
             "level": "23",
             "ability": "Overgrow",
             "item": "Focus Band",
@@ -2098,7 +2518,7 @@ var SETDEX_SV = {
         }
     },
     "Eldegoss": {
-        "Aroma Lady Cassie": {
+        "Aroma Lady Cassie (Level 24)": {
             "level": "24",
             "ability": "Regenerator",
             "item": "Focus Band",
@@ -2128,7 +2548,7 @@ var SETDEX_SV = {
         }
     },
     "Parasect": {
-        "Aroma Lady Cassie": {
+        "Aroma Lady Cassie (Level 23)": {
             "level": "23",
             "ability": "Dry Skin",
             "item": "Focus Band",
@@ -2156,7 +2576,7 @@ var SETDEX_SV = {
                 "Brick Break"
             ]
         },
-        "Ace Trainer M Jake": {
+        "Ace Trainer M Jake (Level 33)": {
             "level": "33",
             "ability": "32",
             "item": "",
@@ -2184,7 +2604,7 @@ var SETDEX_SV = {
                 "Swords Dance"
             ]
         },
-        "Beauty Julia": {
+        "Beauty Julia (Level 47)": {
             "level": "47",
             "ability": "0",
             "item": "",
@@ -2214,7 +2634,7 @@ var SETDEX_SV = {
         }
     },
     "Gastrodon": {
-        "Hiker Russel": {
+        "Hiker Russel (Level 57)": {
             "level": "57",
             "ability": "Storm Drain",
             "item": "Sitrus Berry",
@@ -2242,7 +2662,7 @@ var SETDEX_SV = {
                 "Recover"
             ]
         },
-        "Hiker Anthony": {
+        "Hiker Anthony (Level 23)": {
             "level": "23",
             "ability": "Storm Drain",
             "item": "Rindo Berry",
@@ -2272,7 +2692,7 @@ var SETDEX_SV = {
         }
     },
     "Rhyperior": {
-        "Hiker Russel": {
+        "Hiker Russel (Level 57)": {
             "level": "57",
             "ability": "Solid Rock",
             "item": "Rindo Berry",
@@ -2300,7 +2720,7 @@ var SETDEX_SV = {
                 "Swords Dance"
             ]
         },
-        "Team Rocket G-999": {
+        "Team Rocket G-999 (Level 72)": {
             "level": "72",
             "ability": "Solid Rock",
             "item": "Weakness Policy",
@@ -2328,35 +2748,35 @@ var SETDEX_SV = {
                 "Ice Punch"
             ]
         },
-        "Leader 12 Blue": {
-            "level": "70",
-            "ability": "32",
-            "item": "None",
-            "nature": "",
+        "Leader 12 Blue (Level 75)": {
+            "level": "75",
+            "ability": "Solid Rock",
+            "item": "Weakness Policy",
+            "nature": "Jolly",
             "ivs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
             },
             "evs": {
                 "hp": 0,
-                "at": 0,
+                "at": 252,
                 "df": 0,
-                "sp": 0,
+                "sp": 252,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Megahorn",
-                "Stone Edge",
-                "Thunder Fang",
-                "Earthquake"
+                "Rock Wrecker",
+                "Earthquake",
+                "Iron Head",
+                "Rock Polish"
             ]
         },
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 35)": {
             "level": "35",
             "ability": "Solid Rock",
             "item": "Passho Berry",
@@ -2383,10 +2803,38 @@ var SETDEX_SV = {
                 "Heavy Slam",
                 "Aqua Tail"
             ]
+        },
+        "Leader 12 Blue (Level 70)": {
+            "level": "70",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Megahorn",
+                "Stone Edge",
+                "Thunder Fang",
+                "Earthquake"
+            ]
         }
     },
     "Mamoswine": {
-        "Hiker Russel": {
+        "Hiker Russel (Level 56)": {
             "level": "56",
             "ability": "Thick Fat",
             "item": "Focus Sash",
@@ -2414,7 +2862,7 @@ var SETDEX_SV = {
                 "Ice Shard"
             ]
         },
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 60)": {
             "level": "60",
             "ability": "32",
             "item": "Sitrus Berry",
@@ -2444,7 +2892,7 @@ var SETDEX_SV = {
         }
     },
     "Kabutops": {
-        "Camper Roland": {
+        "Camper Roland (Level 57)": {
             "level": "57",
             "ability": "Swift Swim",
             "item": "Choice Scarf",
@@ -2472,7 +2920,7 @@ var SETDEX_SV = {
                 "Leech Life"
             ]
         },
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 55)": {
             "level": "55",
             "ability": "32",
             "item": "None",
@@ -2502,7 +2950,7 @@ var SETDEX_SV = {
         }
     },
     "Braviary,": {
-        "Camper Roland": {
+        "Camper Roland (Level 57)": {
             "level": "57",
             "ability": "Tinted Lens",
             "item": "Sitrus Berry",
@@ -2532,7 +2980,7 @@ var SETDEX_SV = {
         }
     },
     "Rapidash,": {
-        "Camper Roland": {
+        "Camper Roland (Level 56)": {
             "level": "56",
             "ability": "Anticipation",
             "item": "Babiri Berry",
@@ -2560,7 +3008,7 @@ var SETDEX_SV = {
                 "Calm Mind"
             ]
         },
-        "Team Rocket G-559": {
+        "Team Rocket G-559 (Level 37)": {
             "level": "37",
             "ability": "Pixilate",
             "item": "Babiri Berry",
@@ -2590,7 +3038,7 @@ var SETDEX_SV = {
         }
     },
     "Exeggutor,": {
-        "Picnicker Liz": {
+        "Picnicker Liz (Level 56)": {
             "level": "56",
             "ability": "Harvest",
             "item": "Yache Berry",
@@ -2620,7 +3068,7 @@ var SETDEX_SV = {
         }
     },
     "Sawsbuck,": {
-        "Picnicker Liz": {
+        "Picnicker Liz (Level 55)": {
             "level": "55",
             "ability": "Chlorophyll",
             "item": "Life Orb",
@@ -2650,7 +3098,7 @@ var SETDEX_SV = {
         }
     },
     "Golduck": {
-        "Picnicker Liz": {
+        "Picnicker Liz (Level 56)": {
             "level": "56",
             "ability": "Cloud Nine",
             "item": "Wacan Berry",
@@ -2678,7 +3126,7 @@ var SETDEX_SV = {
                 "Calm Mind"
             ]
         },
-        "Ace Trainer M Jake": {
+        "Ace Trainer M Jake (Level 35)": {
             "level": "35",
             "ability": "32",
             "item": "",
@@ -2706,7 +3154,7 @@ var SETDEX_SV = {
                 "Fury Swipes"
             ]
         },
-        "Leader 6 Misty": {
+        "Leader 6 Misty (Level 49)": {
             "level": "49",
             "ability": "0",
             "item": "None",
@@ -2734,7 +3182,7 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "Swimmer F Diana": {
+        "Swimmer F Diana (Level 48)": {
             "level": "48",
             "ability": "32",
             "item": "",
@@ -2762,8 +3210,8 @@ var SETDEX_SV = {
                 "Disable"
             ]
         },
-        "Lass Dana": {
-            "level": "51",
+        "Lass Dana (Level 36)": {
+            "level": "36",
             "ability": "0",
             "item": "",
             "nature": "",
@@ -2785,12 +3233,12 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Water Pulse",
-                "Amnesia",
+                "Disable",
                 "Confusion",
                 "Screech"
             ]
         },
-        "Camper Mickey": {
+        "Camper Mickey (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -2818,7 +3266,35 @@ var SETDEX_SV = {
                 "Psych Up"
             ]
         },
-        "Lass Mickey": {
+        "Lass Dana (Level 51)": {
+            "level": "51",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Water Pulse",
+                "Amnesia",
+                "Confusion",
+                "Screech"
+            ]
+        },
+        "Lass Mickey (Level 36)": {
             "level": "36",
             "ability": "0",
             "item": "",
@@ -2846,7 +3322,35 @@ var SETDEX_SV = {
                 "Screech"
             ]
         },
-        "Young Couple Tim & Sue": {
+        "Young Couple Tim & Sue (Level 52)": {
+            "level": "52",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Water Pulse",
+                "Amnesia",
+                "Zen Headbutt",
+                "Blizzard"
+            ]
+        },
+        "Young Couple Tim & Sue (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "",
@@ -2876,7 +3380,7 @@ var SETDEX_SV = {
         }
     },
     "Vaporeon": {
-        "Ace Trainer M Jake": {
+        "Ace Trainer M Jake (Level 33)": {
             "level": "33",
             "ability": "0",
             "item": "",
@@ -2904,7 +3408,7 @@ var SETDEX_SV = {
                 "Surf"
             ]
         },
-        "Kimono Girl Kuni": {
+        "Kimono Girl Kuni (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "None",
@@ -2932,7 +3436,7 @@ var SETDEX_SV = {
                 "Aurora Beam"
             ]
         },
-        "School Kid M Joe": {
+        "School Kid M Joe (Level 42)": {
             "level": "42",
             "ability": "0",
             "item": "None",
@@ -2960,7 +3464,7 @@ var SETDEX_SV = {
                 ""
             ]
         },
-        "Sage Mickey": {
+        "Sage Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -2990,7 +3494,7 @@ var SETDEX_SV = {
         }
     },
     "Unfezant": {
-        "Bird Keeper 1 Rod": {
+        "Bird Keeper 1 Rod (Level 58)": {
             "level": "58",
             "ability": "Super Luck",
             "item": "Power Herb",
@@ -3018,7 +3522,7 @@ var SETDEX_SV = {
                 "Roost"
             ]
         },
-        "Black Belt Manford": {
+        "Black Belt Manford (Level 25)": {
             "level": "25",
             "ability": "Super Luck",
             "item": "Scope Lens",
@@ -3048,7 +3552,7 @@ var SETDEX_SV = {
         }
     },
     "Skarmory": {
-        "Bird Keeper 1 Rod": {
+        "Bird Keeper 1 Rod (Level 57)": {
             "level": "57",
             "ability": "Lightning Rod",
             "item": "Occa Berry",
@@ -3076,7 +3580,35 @@ var SETDEX_SV = {
                 "Roost"
             ]
         },
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 23)": {
+            "level": "23",
+            "ability": "Lightning Rod",
+            "item": "Occa Berry",
+            "nature": "Impish",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Steel Wing",
+                "Spikes",
+                "Toxic Spikes",
+                "Drill Peck"
+            ]
+        },
+        "Leader 2 Jasmine (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -3106,7 +3638,7 @@ var SETDEX_SV = {
         }
     },
     "Gyarados": {
-        "Bird Keeper 1 Rod": {
+        "Bird Keeper 1 Rod (Level 57)": {
             "level": "57",
             "ability": "Moxie",
             "item": "Wacan Berry",
@@ -3134,7 +3666,7 @@ var SETDEX_SV = {
                 "Thunder Fang"
             ]
         },
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "None",
@@ -3162,7 +3694,7 @@ var SETDEX_SV = {
                 "Dragon Pulse"
             ]
         },
-        "Fisherman Marvin": {
+        "Fisherman Marvin (Level 20)": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -3190,35 +3722,35 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Champion Lance": {
-            "level": "68",
-            "ability": "0",
-            "item": "None",
-            "nature": "",
+        "Champion Lance (Level 70)": {
+            "level": "70",
+            "ability": "Intimidate",
+            "item": "Gyaradosite",
+            "nature": "Impish",
             "ivs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
             },
             "evs": {
-                "hp": 0,
-                "at": 0,
+                "hp": 252,
+                "at": 252,
                 "df": 0,
                 "sp": 0,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Thunder Wave",
+                "Aqua Tail",
+                "Crunch",
                 "Ice Fang",
-                "Waterfall",
                 "Dragon Dance"
             ]
         },
-        "Team Rocket G-999": {
+        "Team Rocket G-999 (Level 73)": {
             "level": "73",
             "ability": "Moxie",
             "item": "Wacan Berry",
@@ -3246,7 +3778,7 @@ var SETDEX_SV = {
                 "Dragon Dance"
             ]
         },
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 75)": {
             "level": "75",
             "ability": "Moxie",
             "item": "Wacan Berry",
@@ -3274,7 +3806,7 @@ var SETDEX_SV = {
                 "Dragon Dance"
             ]
         },
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 75)": {
             "level": "75",
             "ability": "Intimidate",
             "item": "Eject Button",
@@ -3301,10 +3833,38 @@ var SETDEX_SV = {
                 "Crunch",
                 "Thunder Wave"
             ]
+        },
+        "Champion Lance (Level 68)": {
+            "level": "68",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Ice Fang",
+                "Waterfall",
+                "Dragon Dance"
+            ]
         }
     },
     "Indeedee,": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 41)": {
             "level": "41",
             "ability": "Psychic Surge",
             "item": "Sitrus Berry",
@@ -3334,7 +3894,7 @@ var SETDEX_SV = {
         }
     },
     "Wyrdeer": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 42)": {
             "level": "42",
             "ability": "Intimidate",
             "item": "Life Orb",
@@ -3364,7 +3924,7 @@ var SETDEX_SV = {
         }
     },
     "Porygon Z": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 41)": {
             "level": "41",
             "ability": "Adaptability",
             "item": "Focus Sash",
@@ -3392,7 +3952,7 @@ var SETDEX_SV = {
                 "Aura Sphere"
             ]
         },
-        "Pkmn Trainer 6 Mira": {
+        "Pkmn Trainer 6 Mira (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -3422,7 +3982,7 @@ var SETDEX_SV = {
         }
     },
     "Miltank": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 42)": {
             "level": "42",
             "ability": "Thick Fat",
             "item": "Leftovers",
@@ -3452,7 +4012,7 @@ var SETDEX_SV = {
         }
     },
     "Audino,": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 41)": {
             "level": "41",
             "ability": "Healer",
             "item": "Leftovers",
@@ -3482,7 +4042,7 @@ var SETDEX_SV = {
         }
     },
     "Regigigas": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 42)": {
             "level": "42",
             "ability": "Pressure",
             "item": "Chople Berry",
@@ -3512,7 +4072,7 @@ var SETDEX_SV = {
         }
     },
     "Lampent": {
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 17)": {
             "level": "17",
             "ability": "Flame Body",
             "item": "Focus Sash",
@@ -3542,7 +4102,7 @@ var SETDEX_SV = {
         }
     },
     "Drifloon": {
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 17)": {
             "level": "17",
             "ability": "Unburden",
             "item": "Sitrus Berry",
@@ -3572,7 +4132,7 @@ var SETDEX_SV = {
         }
     },
     "Zoroark,": {
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 19)": {
             "level": "19",
             "ability": "Illusion",
             "item": "Colbur Berry",
@@ -3602,7 +4162,7 @@ var SETDEX_SV = {
         }
     },
     "Corsola,": {
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 19)": {
             "level": "19",
             "ability": "Cursed Body",
             "item": "Quick Claw",
@@ -3632,7 +4192,7 @@ var SETDEX_SV = {
         }
     },
     "Haunter": {
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 19)": {
             "level": "19",
             "ability": "Levitate",
             "item": "Payapa Berry",
@@ -3660,7 +4220,63 @@ var SETDEX_SV = {
                 "Toxic Spikes"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 37)": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mean Look",
+                "Curse",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
+        "Rival Silver (Level 30)": {
+            "level": "30",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Confuse Ray",
+                "Mean Look",
+                "Curse",
+                "Shadow Ball"
+            ]
+        },
+        "Rival Silver (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -3690,7 +4306,7 @@ var SETDEX_SV = {
         }
     },
     "Amaura": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 13)": {
             "level": "13",
             "ability": "Refrigerate",
             "item": "Charti Berry",
@@ -3720,7 +4336,7 @@ var SETDEX_SV = {
         }
     },
     "Sandslash,": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 11)": {
             "level": "11",
             "ability": "Slush Rush",
             "item": "Jaboca Berry",
@@ -3750,7 +4366,7 @@ var SETDEX_SV = {
         }
     },
     "Sealeo": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 12)": {
             "level": "12",
             "ability": "Thick Fat",
             "item": "Rowap Berry",
@@ -3780,7 +4396,7 @@ var SETDEX_SV = {
         }
     },
     "Delibird": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 13)": {
             "level": "13",
             "ability": "Hustle",
             "item": "Iron Ball",
@@ -3808,7 +4424,7 @@ var SETDEX_SV = {
                 "Power Up Punch"
             ]
         },
-        "Pokefan M Colin": {
+        "Pokefan M Colin (Level 40)": {
             "level": "40",
             "ability": "32",
             "item": "",
@@ -3838,7 +4454,7 @@ var SETDEX_SV = {
         }
     },
     "Quaxly": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 12)": {
             "level": "12",
             "ability": "Moxie",
             "item": "Starf Berry",
@@ -3868,7 +4484,7 @@ var SETDEX_SV = {
         }
     },
     "Klefki": {
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 21)": {
             "level": "21",
             "ability": "Prankster",
             "item": "Light Clay",
@@ -3898,7 +4514,35 @@ var SETDEX_SV = {
         }
     },
     "Empoleon": {
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 22)": {
+            "level": "22",
+            "ability": "Defiant",
+            "item": "Liechi Berry",
+            "nature": "Impish",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Liquidation",
+                "Aqua Jet",
+                "Ice Punch",
+                "Swords Dance"
+            ]
+        },
+        "Leader 2 Jasmine (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -3928,7 +4572,7 @@ var SETDEX_SV = {
         }
     },
     "Duraludon": {
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 22)": {
             "level": "22",
             "ability": "Clear Body",
             "item": "Sitrus Berry",
@@ -3956,7 +4600,7 @@ var SETDEX_SV = {
                 "Rock Polish"
             ]
         },
-        "Team Rocket G-980": {
+        "Team Rocket G-980 (Level 73)": {
             "level": "73",
             "ability": "Clear Body",
             "item": "White Herb",
@@ -3986,7 +4630,7 @@ var SETDEX_SV = {
         }
     },
     "Dugtrio,": {
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 22)": {
             "level": "22",
             "ability": "Sand Force",
             "item": "Focus Sash",
@@ -4016,7 +4660,7 @@ var SETDEX_SV = {
         }
     },
     "Kingambit": {
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 23)": {
             "level": "23",
             "ability": "Defiant",
             "item": "Chople Berry",
@@ -4046,7 +4690,7 @@ var SETDEX_SV = {
         }
     },
     "Sneasler,": {
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 29)": {
             "level": "29",
             "ability": "Unburden",
             "item": "Focus Sash",
@@ -4076,7 +4720,7 @@ var SETDEX_SV = {
         }
     },
     "Passimian": {
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 29)": {
             "level": "29",
             "ability": "Defiant",
             "item": "Focus Sash",
@@ -4106,7 +4750,7 @@ var SETDEX_SV = {
         }
     },
     "Sirfetchd": {
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 29)": {
             "level": "29",
             "ability": "Scrappy",
             "item": "Expert Belt",
@@ -4136,8 +4780,8 @@ var SETDEX_SV = {
         }
     },
     "Dragonair": {
-        "Leader 4 Clair": {
-            "level": "52",
+        "Leader 4 Clair (Level 38)": {
+            "level": "38",
             "ability": "0",
             "item": "None",
             "nature": "",
@@ -4159,12 +4803,12 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Thunder Wave",
-                "Dragon Rush",
-                "Thunderbolt",
-                "Flamethrower"
+                "Aqua Tail",
+                "Slam",
+                "Dragon Pulse"
             ]
         },
-        "Team Rocket 1 G-982": {
+        "Team Rocket 1 G-982 (Level 72)": {
             "level": "72",
             "ability": "Shed Skin",
             "item": "Eviolite",
@@ -4191,10 +4835,94 @@ var SETDEX_SV = {
                 "Icy Wind",
                 "Helping Hand"
             ]
+        },
+        "Leader 4 Clair (Level 52)": {
+            "level": "52",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Dragon Rush",
+                "Thunderbolt",
+                "Flamethrower"
+            ]
         }
     },
     "Kingdra": {
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 41)": {
+            "level": "41",
+            "ability": "32",
+            "item": "Sitrus Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Smokescreen",
+                "Hydro Pump",
+                "Hyper Beam",
+                "Dragon Pulse"
+            ]
+        },
+        "Leader 4 Clair (Level 70)": {
+            "level": "70",
+            "ability": "Swift Swim",
+            "item": "Haban Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Rain Dance",
+                "Draco Meteor",
+                "Hydro Pump",
+                "Flash Cannon"
+            ]
+        },
+        "Leader 4 Clair (Level 56)": {
             "level": "56",
             "ability": "32",
             "item": "None",
@@ -4224,7 +4952,7 @@ var SETDEX_SV = {
         }
     },
     "Ditto": {
-        "Pkmn Breeder M Desmond": {
+        "Pkmn Breeder M Desmond (Level 57)": {
             "level": "57",
             "ability": "Imposter",
             "item": "Red Card",
@@ -4252,7 +4980,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Pkmn Breeder M Coppy": {
+        "Pkmn Breeder M Coppy (Level 20)": {
             "level": "20",
             "ability": "Imposter",
             "item": "Life Orb",
@@ -4280,7 +5008,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "School Kid M Ricky": {
+        "School Kid M Ricky (Level 40)": {
             "level": "40",
             "ability": "0",
             "item": "None",
@@ -4310,7 +5038,7 @@ var SETDEX_SV = {
         }
     },
     "Blissey": {
-        "Pkmn Breeder M Desmond": {
+        "Pkmn Breeder M Desmond (Level 57)": {
             "level": "57",
             "ability": "Natural Cure",
             "item": "Zoom Lens",
@@ -4338,7 +5066,7 @@ var SETDEX_SV = {
                 "Blizzard"
             ]
         },
-        "Pkmn Trainer 2 Cheryl": {
+        "Pkmn Trainer 2 Cheryl (Level 65)": {
             "level": "65",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -4368,7 +5096,7 @@ var SETDEX_SV = {
         }
     },
     "Doublade": {
-        "Gentleman Preston": {
+        "Gentleman Preston (Level 22)": {
             "level": "22",
             "ability": "No Guard",
             "item": "Occa Berry",
@@ -4398,7 +5126,7 @@ var SETDEX_SV = {
         }
     },
     "Perrserker": {
-        "Gentleman Preston": {
+        "Gentleman Preston (Level 22)": {
             "level": "22",
             "ability": "Steely Spirit",
             "item": "Shuca Berry",
@@ -4428,7 +5156,7 @@ var SETDEX_SV = {
         }
     },
     "Copperajah": {
-        "Gentleman Preston": {
+        "Gentleman Preston (Level 21)": {
             "level": "21",
             "ability": "Heavy Metal",
             "item": "Metal Coat",
@@ -4456,7 +5184,7 @@ var SETDEX_SV = {
                 "Stealth Rock"
             ]
         },
-        "Ace Trainer M Kevin": {
+        "Ace Trainer M Kevin (Level 44)": {
             "level": "44",
             "ability": "Sheer Force",
             "item": "Shuca Berry",
@@ -4486,7 +5214,7 @@ var SETDEX_SV = {
         }
     },
     "Shellder": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 13)": {
             "level": "13",
             "ability": "Skill Link",
             "item": "Salac Berry",
@@ -4514,7 +5242,7 @@ var SETDEX_SV = {
                 "Rock Blast"
             ]
         },
-        "Swimmer M Randall": {
+        "Swimmer M Randall (Level 18)": {
             "level": "18",
             "ability": "32",
             "item": "",
@@ -4542,7 +5270,7 @@ var SETDEX_SV = {
                 "Tackle"
             ]
         },
-        "Ace Trainer F Kelly": {
+        "Ace Trainer F Kelly (Level 9)": {
             "level": "9",
             "ability": "Shell Armor",
             "item": "Rindo Berry",
@@ -4570,7 +5298,7 @@ var SETDEX_SV = {
                 "Whirlpool"
             ]
         },
-        "Boarder Gerardo": {
+        "Boarder Gerardo (Level 25)": {
             "level": "25",
             "ability": "0",
             "item": "",
@@ -4600,7 +5328,7 @@ var SETDEX_SV = {
         }
     },
     "Scyther": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 10)": {
             "level": "10",
             "ability": "Technician",
             "item": "Silver Powder",
@@ -4630,7 +5358,35 @@ var SETDEX_SV = {
         }
     },
     "Suicune": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 10)": {
+            "level": "10",
+            "ability": "Inner Focus",
+            "item": "Shell Bell",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Icy Wind",
+                "Water Pulse",
+                "Aqua Ring",
+                "Light Screen"
+            ]
+        },
+        "Pkmn Trainer 11 sauceyaTTa (Level 62)": {
             "level": "62",
             "ability": "Inner Focus",
             "item": "Sitrus Berry",
@@ -4660,7 +5416,7 @@ var SETDEX_SV = {
         }
     },
     "Timburr": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 11)": {
             "level": "11",
             "ability": "Guts",
             "item": "Black Belt",
@@ -4688,7 +5444,7 @@ var SETDEX_SV = {
                 "Rock Tomb"
             ]
         },
-        "Battle Girl Jessica": {
+        "Battle Girl Jessica (Level 6)": {
             "level": "6",
             "ability": "Guts",
             "item": "Black Belt",
@@ -4718,7 +5474,7 @@ var SETDEX_SV = {
         }
     },
     "Sandile": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 11)": {
             "level": "11",
             "ability": "Moxie",
             "item": "Black Glasses",
@@ -4748,7 +5504,7 @@ var SETDEX_SV = {
         }
     },
     "Snorunt": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 12)": {
             "level": "12",
             "ability": "Snow Cloak",
             "item": "Focus Sash",
@@ -4778,7 +5534,7 @@ var SETDEX_SV = {
         }
     },
     "Krookodile": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 60)": {
             "level": "60",
             "ability": "Moxie",
             "item": "Choice Scarf",
@@ -4808,7 +5564,7 @@ var SETDEX_SV = {
         }
     },
     "Scizor": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 60)": {
             "level": "60",
             "ability": "Technician",
             "item": "Life Orb",
@@ -4838,7 +5594,7 @@ var SETDEX_SV = {
         }
     },
     "Cloyster": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 61)": {
             "level": "61",
             "ability": "Skill Link",
             "item": "Focus Sash",
@@ -4866,7 +5622,7 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Boarder Gerardo": {
+        "Boarder Gerardo (Level 26)": {
             "level": "26",
             "ability": "0",
             "item": "",
@@ -4894,7 +5650,7 @@ var SETDEX_SV = {
                 "Toxic Spikes"
             ]
         },
-        "Swimmer F Joy": {
+        "Swimmer F Joy (Level 48)": {
             "level": "48",
             "ability": "32",
             "item": "",
@@ -4924,7 +5680,7 @@ var SETDEX_SV = {
         }
     },
     "Conkeldurr": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 60)": {
             "level": "60",
             "ability": "Guts",
             "item": "Flame Orb",
@@ -4952,7 +5708,7 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 31)": {
             "level": "31",
             "ability": "Iron Fist",
             "item": "Sitrus Berry",
@@ -4982,7 +5738,7 @@ var SETDEX_SV = {
         }
     },
     "Froslass": {
-        "Pkmn Trainer 11 sauceyaTTa": {
+        "Pkmn Trainer 11 sauceyaTTa (Level 61)": {
             "level": "61",
             "ability": "Snow Cloak",
             "item": "Bright Powder",
@@ -5010,7 +5766,7 @@ var SETDEX_SV = {
                 "Will O Wisp"
             ]
         },
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -5040,7 +5796,7 @@ var SETDEX_SV = {
         }
     },
     "Malamar": {
-        "Psychic M Nathan": {
+        "Psychic M Nathan (Level 34)": {
             "level": "34",
             "ability": "Contrary",
             "item": "Tanga Berry",
@@ -5068,7 +5824,7 @@ var SETDEX_SV = {
                 "Flamethrower"
             ]
         },
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 36)": {
             "level": "36",
             "ability": "Contrary",
             "item": "Scope Lens",
@@ -5098,7 +5854,7 @@ var SETDEX_SV = {
         }
     },
     "Indeedee": {
-        "Psychic M Nathan": {
+        "Psychic M Nathan (Level 35)": {
             "level": "35",
             "ability": "Psychic Surge",
             "item": "Colbur Berry",
@@ -5128,7 +5884,7 @@ var SETDEX_SV = {
         }
     },
     "Trevenant": {
-        "Psychic M Nathan": {
+        "Psychic M Nathan (Level 35)": {
             "level": "35",
             "ability": "Harvest",
             "item": "Sitrus Berry",
@@ -5158,7 +5914,7 @@ var SETDEX_SV = {
         }
     },
     "Ponyta,": {
-        "Elder Guide Gent": {
+        "Elder Guide Gent (Level 5)": {
             "level": "5",
             "ability": "Pixilate",
             "item": "None",
@@ -5186,7 +5942,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Team Rocket G-152": {
+        "Team Rocket G-152 (Level 7)": {
             "level": "7",
             "ability": "Synchronize",
             "item": "Rowap Berry",
@@ -5216,7 +5972,7 @@ var SETDEX_SV = {
         }
     },
     "Wooloo": {
-        "Elder Guide Gent": {
+        "Elder Guide Gent (Level 6)": {
             "level": "6",
             "ability": "Fluffy",
             "item": "Life Orb",
@@ -5246,7 +6002,7 @@ var SETDEX_SV = {
         }
     },
     "Zorua,": {
-        "Elder Guide Gent": {
+        "Elder Guide Gent (Level 6)": {
             "level": "6",
             "ability": "Illusion",
             "item": "None",
@@ -5274,7 +6030,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Medium Grace": {
+        "Medium Grace (Level 16)": {
             "level": "16",
             "ability": "Illusion",
             "item": "None",
@@ -5304,7 +6060,7 @@ var SETDEX_SV = {
         }
     },
     "Sprigatito": {
-        "Elder Guide Gent": {
+        "Elder Guide Gent (Level 5)": {
             "level": "5",
             "ability": "Overgrow",
             "item": "Miracle Seed",
@@ -5334,7 +6090,7 @@ var SETDEX_SV = {
         }
     },
     "Banette": {
-        "Medium Martha": {
+        "Medium Martha (Level 18)": {
             "level": "18",
             "ability": "Cursed Body",
             "item": "Quick Claw",
@@ -5362,7 +6118,7 @@ var SETDEX_SV = {
                 "Feint Attack"
             ]
         },
-        "Psychic M Franklin": {
+        "Psychic M Franklin (Level 33)": {
             "level": "33",
             "ability": "Cursed Body",
             "item": "Red Card",
@@ -5392,7 +6148,7 @@ var SETDEX_SV = {
         }
     },
     "Dusclops": {
-        "Medium Martha": {
+        "Medium Martha (Level 18)": {
             "level": "18",
             "ability": "Mummy",
             "item": "None",
@@ -5422,7 +6178,7 @@ var SETDEX_SV = {
         }
     },
     "Litwick": {
-        "Youngster Mikey": {
+        "Youngster Mikey (Level 3)": {
             "level": "3",
             "ability": "Flame Body",
             "item": "None",
@@ -5452,7 +6208,7 @@ var SETDEX_SV = {
         }
     },
     "Starly": {
-        "Youngster Mikey": {
+        "Youngster Mikey (Level 3)": {
             "level": "3",
             "ability": "Intimidate",
             "item": "Starf Berry",
@@ -5482,7 +6238,7 @@ var SETDEX_SV = {
         }
     },
     "Porygon": {
-        "Youngster Mikey": {
+        "Youngster Mikey (Level 3)": {
             "level": "3",
             "ability": "Trace",
             "item": "None",
@@ -5510,7 +6266,7 @@ var SETDEX_SV = {
                 "Screech"
             ]
         },
-        "Super Nerd Pat": {
+        "Super Nerd Pat (Level 47)": {
             "level": "47",
             "ability": "32",
             "item": "None",
@@ -5538,7 +6294,7 @@ var SETDEX_SV = {
                 "Solar Beam"
             ]
         },
-        "Scientist 1 Trenton": {
+        "Scientist 1 Trenton (Level 30)": {
             "level": "30",
             "ability": "32",
             "item": "",
@@ -5566,7 +6322,7 @@ var SETDEX_SV = {
                 "Charge Beam"
             ]
         },
-        "Super Nerd Mickey": {
+        "Super Nerd Mickey (Level 30)": {
             "level": "30",
             "ability": "32",
             "item": "",
@@ -5596,7 +6352,7 @@ var SETDEX_SV = {
         }
     },
     "Silvally": {
-        "Youngster Albert": {
+        "Youngster Albert (Level 55)": {
             "level": "55",
             "ability": "Rks System",
             "item": "Silk Scarf",
@@ -5626,7 +6382,7 @@ var SETDEX_SV = {
         }
     },
     "Staraptor": {
-        "Youngster Albert": {
+        "Youngster Albert (Level 56)": {
             "level": "56",
             "ability": "Intimidate",
             "item": "Focus Sash",
@@ -5656,7 +6412,7 @@ var SETDEX_SV = {
         }
     },
     "Floatzel": {
-        "Youngster Albert": {
+        "Youngster Albert (Level 55)": {
             "level": "55",
             "ability": "Swift Swim",
             "item": "Choice Band",
@@ -5684,7 +6440,7 @@ var SETDEX_SV = {
                 "Ice Punch"
             ]
         },
-        "Leader 6 Misty": {
+        "Leader 6 Misty (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "None",
@@ -5714,7 +6470,7 @@ var SETDEX_SV = {
         }
     },
     "Comfey": {
-        "Sage Nico": {
+        "Sage Nico (Level 44)": {
             "level": "44",
             "ability": "Triage",
             "item": "Light Clay",
@@ -5744,7 +6500,7 @@ var SETDEX_SV = {
         }
     },
     "Togekiss": {
-        "Sage Nico": {
+        "Sage Nico (Level 46)": {
             "level": "46",
             "ability": "Serene Grace",
             "item": "Scope Lens",
@@ -5772,7 +6528,35 @@ var SETDEX_SV = {
                 "Dazzling Gleam"
             ]
         },
-        "Leader 10 Cynthia": {
+        "Leader 10 Cynthia (Level 68)": {
+            "level": "68",
+            "ability": "Serene Grace",
+            "item": "Life Orb",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Air Slash",
+                "Moonblast",
+                "Heat Wave",
+                "Aura Sphere"
+            ]
+        },
+        "Leader 10 Cynthia (Level 75)": {
             "level": "75",
             "ability": "Serene Grace",
             "item": "Salac Berry",
@@ -5800,7 +6584,7 @@ var SETDEX_SV = {
                 "Nasty Plot"
             ]
         },
-        "Pkmn Trainer 6 Mira": {
+        "Pkmn Trainer 6 Mira (Level 63)": {
             "level": "63",
             "ability": "0",
             "item": "None",
@@ -5830,7 +6614,7 @@ var SETDEX_SV = {
         }
     },
     "Wigglytuff": {
-        "Sage Nico": {
+        "Sage Nico (Level 45)": {
             "level": "45",
             "ability": "Competitive",
             "item": "Sitrus Berry",
@@ -5858,7 +6642,7 @@ var SETDEX_SV = {
                 "Psyshock"
             ]
         },
-        "Beauty Callie": {
+        "Beauty Callie (Level 16)": {
             "level": "16",
             "ability": "0",
             "item": "",
@@ -5886,7 +6670,7 @@ var SETDEX_SV = {
                 "Disable"
             ]
         },
-        "Beauty Kassandra": {
+        "Beauty Kassandra (Level 16)": {
             "level": "16",
             "ability": "0",
             "item": "",
@@ -5916,7 +6700,7 @@ var SETDEX_SV = {
         }
     },
     "Archeops": {
-        "Sage Edmond": {
+        "Sage Edmond (Level 47)": {
             "level": "47",
             "ability": "Defeatist",
             "item": "Cell Battery",
@@ -5946,7 +6730,7 @@ var SETDEX_SV = {
         }
     },
     "Braviary": {
-        "Sage Edmond": {
+        "Sage Edmond (Level 46)": {
             "level": "46",
             "ability": "Defiant",
             "item": "Charti Berry",
@@ -5976,7 +6760,7 @@ var SETDEX_SV = {
         }
     },
     "Altaria": {
-        "Sage Edmond": {
+        "Sage Edmond (Level 45)": {
             "level": "45",
             "ability": "Pixilate",
             "item": "Haban Berry",
@@ -6004,7 +6788,7 @@ var SETDEX_SV = {
                 "U Turn"
             ]
         },
-        "Champion Lance": {
+        "Champion Lance (Level 73)": {
             "level": "73",
             "ability": "0",
             "item": "None",
@@ -6032,7 +6816,7 @@ var SETDEX_SV = {
                 "Hyper Beam"
             ]
         },
-        "Leader Whitney": {
+        "Leader Whitney (Level 70)": {
             "level": "70",
             "ability": "Natural Cure",
             "item": "Altarianite",
@@ -6062,7 +6846,7 @@ var SETDEX_SV = {
         }
     },
     "Musharna": {
-        "Sage Jin": {
+        "Sage Jin (Level 45)": {
             "level": "45",
             "ability": "Synchronize",
             "item": "Leftovers",
@@ -6092,7 +6876,7 @@ var SETDEX_SV = {
         }
     },
     "Slowking": {
-        "Sage Jin": {
+        "Sage Jin (Level 45)": {
             "level": "45",
             "ability": "Regenerator",
             "item": "Mystic Water",
@@ -6120,7 +6904,7 @@ var SETDEX_SV = {
                 "Slack Off"
             ]
         },
-        "Ace Trainer F Salma": {
+        "Ace Trainer F Salma (Level 50)": {
             "level": "50",
             "ability": "0",
             "item": "Oran Berry",
@@ -6150,7 +6934,7 @@ var SETDEX_SV = {
         }
     },
     "Gothitelle": {
-        "Sage Jin": {
+        "Sage Jin (Level 46)": {
             "level": "46",
             "ability": "Shadow Tag",
             "item": "Rowap Berry",
@@ -6178,7 +6962,7 @@ var SETDEX_SV = {
                 "Dark Pulse"
             ]
         },
-        "Team Rocket G-931": {
+        "Team Rocket G-931 (Level 71)": {
             "level": "71",
             "ability": "Shadow Tag",
             "item": "Leftovers",
@@ -6208,7 +6992,7 @@ var SETDEX_SV = {
         }
     },
     "Heracross": {
-        "Sage Troy": {
+        "Sage Troy (Level 45)": {
             "level": "45",
             "ability": "Swarm",
             "item": "Rocky Helmet",
@@ -6238,7 +7022,7 @@ var SETDEX_SV = {
         }
     },
     "Pangoro": {
-        "Sage Troy": {
+        "Sage Troy (Level 47)": {
             "level": "47",
             "ability": "Scrappy",
             "item": "Black Belt",
@@ -6268,7 +7052,7 @@ var SETDEX_SV = {
         }
     },
     "Hitmontop": {
-        "Sage Troy": {
+        "Sage Troy (Level 46)": {
             "level": "46",
             "ability": "Intimidate",
             "item": "Coba Berry",
@@ -6296,7 +7080,35 @@ var SETDEX_SV = {
                 "Ice Punch"
             ]
         },
-        "Elite Four 3 Bruno": {
+        "Elite Four 3 Bruno (Level 42)": {
+            "level": "42",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Counter",
+                "Quick Attack",
+                "Dig",
+                "Triple Kick"
+            ]
+        },
+        "Elite Four 3 Bruno (Level 62)": {
             "level": "62",
             "ability": "32",
             "item": "None",
@@ -6326,7 +7138,7 @@ var SETDEX_SV = {
         }
     },
     "Flygon": {
-        "Sage Neal": {
+        "Sage Neal (Level 45)": {
             "level": "45",
             "ability": "Levitate",
             "item": "Yache Berry",
@@ -6354,7 +7166,7 @@ var SETDEX_SV = {
                 "U Turn"
             ]
         },
-        "Team Rocket G-980": {
+        "Team Rocket G-980 (Level 71)": {
             "level": "71",
             "ability": "Levitate",
             "item": "Yache Berry",
@@ -6384,7 +7196,7 @@ var SETDEX_SV = {
         }
     },
     "Appletun": {
-        "Sage Neal": {
+        "Sage Neal (Level 44)": {
             "level": "44",
             "ability": "Thick Fat",
             "item": "Yache Berry",
@@ -6414,7 +7226,7 @@ var SETDEX_SV = {
         }
     },
     "Goodra,": {
-        "Sage Neal": {
+        "Sage Neal (Level 46)": {
             "level": "46",
             "ability": "Sap Sipper",
             "item": "Maranga Berry",
@@ -6442,7 +7254,7 @@ var SETDEX_SV = {
                 "Ice Beam"
             ]
         },
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 70)": {
             "level": "70",
             "ability": "Shell Armor",
             "item": "Leftovers",
@@ -6472,7 +7284,7 @@ var SETDEX_SV = {
         }
     },
     "Qwilfish": {
-        "Fisherman Ralph": {
+        "Fisherman Ralph (Level 23)": {
             "level": "23",
             "ability": "Swift Swim",
             "item": "Shuca Berry",
@@ -6500,7 +7312,7 @@ var SETDEX_SV = {
                 "Toxic"
             ]
         },
-        "Fisherman Mickey": {
+        "Fisherman Mickey (Level 35)": {
             "level": "35",
             "ability": "0",
             "item": "",
@@ -6528,7 +7340,7 @@ var SETDEX_SV = {
                 "Pin Missile"
             ]
         },
-        "Fisherman Tully": {
+        "Fisherman Tully (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "",
@@ -6558,7 +7370,7 @@ var SETDEX_SV = {
         }
     },
     "Seaking": {
-        "Fisherman Ralph": {
+        "Fisherman Ralph (Level 24)": {
             "level": "24",
             "ability": "Lightning Rod",
             "item": "Focus Sash",
@@ -6586,7 +7398,7 @@ var SETDEX_SV = {
                 "Swords Dance"
             ]
         },
-        "Swimmer F Kaylee": {
+        "Swimmer F Kaylee (Level 20)": {
             "level": "20",
             "ability": "32",
             "item": "",
@@ -6614,7 +7426,7 @@ var SETDEX_SV = {
                 "Peck"
             ]
         },
-        "Swimmer F Briana": {
+        "Swimmer F Briana (Level 46)": {
             "level": "46",
             "ability": "32",
             "item": "",
@@ -6642,7 +7454,7 @@ var SETDEX_SV = {
                 "Poison Jab"
             ]
         },
-        "Fisherman Mickey": {
+        "Fisherman Mickey (Level 39)": {
             "level": "39",
             "ability": "0",
             "item": "",
@@ -6670,7 +7482,35 @@ var SETDEX_SV = {
                 "Waterfall"
             ]
         },
-        "Fisherman Tully": {
+        "Fisherman Tully (Level 41)": {
+            "level": "41",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Water Pulse",
+                "Rain Dance",
+                "Waterfall",
+                "Aqua Ring"
+            ]
+        },
+        "Fisherman Tully (Level 50)": {
             "level": "50",
             "ability": "0",
             "item": "",
@@ -6700,7 +7540,7 @@ var SETDEX_SV = {
         }
     },
     "Bibarel": {
-        "Fisherman Ralph": {
+        "Fisherman Ralph (Level 23)": {
             "level": "23",
             "ability": "Simple",
             "item": "Sitrus Berry",
@@ -6730,7 +7570,7 @@ var SETDEX_SV = {
         }
     },
     "Gligar": {
-        "Hiker Anthony": {
+        "Hiker Anthony (Level 23)": {
             "level": "23",
             "ability": "Hyper Cutter",
             "item": "Yache Berry",
@@ -6760,7 +7600,7 @@ var SETDEX_SV = {
         }
     },
     "Clodsire": {
-        "Hiker Anthony": {
+        "Hiker Anthony (Level 24)": {
             "level": "24",
             "ability": "Water Absorb",
             "item": "Shuca Berry",
@@ -6790,7 +7630,7 @@ var SETDEX_SV = {
         }
     },
     "Meganium": {
-        "Youngster Samuel": {
+        "Youngster Samuel (Level 43)": {
             "level": "43",
             "ability": "Overgrow",
             "item": "Light Clay",
@@ -6818,7 +7658,91 @@ var SETDEX_SV = {
                 "Moonblast"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 40)": {
+            "level": "40",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Reflect",
+                "Petal Dance",
+                "Poison Powder",
+                "Synthesis"
+            ]
+        },
+        "Rival Silver (Level 50)": {
+            "level": "50",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Petal Dance",
+                "Poison Powder",
+                "Synthesis",
+                "Light Screen"
+            ]
+        },
+        "Rival Silver (Level 34)": {
+            "level": "34",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Reflect",
+                "Synthesis",
+                "Poison Powder",
+                "Petal Dance"
+            ]
+        },
+        "Rival Silver (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -6848,7 +7772,7 @@ var SETDEX_SV = {
         }
     },
     "Swanna": {
-        "Youngster Samuel": {
+        "Youngster Samuel (Level 42)": {
             "level": "42",
             "ability": "Big Pecks",
             "item": "Power Herb",
@@ -6878,7 +7802,7 @@ var SETDEX_SV = {
         }
     },
     "Heatmor": {
-        "Youngster Samuel": {
+        "Youngster Samuel (Level 45)": {
             "level": "45",
             "ability": "White Smoke",
             "item": "Passho Berry",
@@ -6908,7 +7832,7 @@ var SETDEX_SV = {
         }
     },
     "Boltund": {
-        "Youngster Ian": {
+        "Youngster Ian (Level 43)": {
             "level": "43",
             "ability": "Competitive",
             "item": "Shuca Berry",
@@ -6936,7 +7860,35 @@ var SETDEX_SV = {
                 "Double Team"
             ]
         },
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 75)": {
+            "level": "75",
+            "ability": "Electric Surge",
+            "item": "Air Balloon",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Volt Switch",
+                "Super Fang",
+                "Nuzzle",
+                "Helping Hand"
+            ]
+        },
+        "Executive Jupiter (Level 27)": {
             "level": "27",
             "ability": "Defiant",
             "item": "Starf Berry",
@@ -6966,7 +7918,7 @@ var SETDEX_SV = {
         }
     },
     "Bouffalant": {
-        "Youngster Ian": {
+        "Youngster Ian (Level 43)": {
             "level": "43",
             "ability": "Sap Sipper",
             "item": "Chople Berry",
@@ -6996,7 +7948,7 @@ var SETDEX_SV = {
         }
     },
     "Serperior": {
-        "Picnicker Gina": {
+        "Picnicker Gina (Level 43)": {
             "level": "43",
             "ability": "Contrary",
             "item": "Occa Berry",
@@ -7026,7 +7978,7 @@ var SETDEX_SV = {
         }
     },
     "Tinkaton": {
-        "Picnicker Gina": {
+        "Picnicker Gina (Level 43)": {
             "level": "43",
             "ability": "Mold Breaker",
             "item": "Occa Berry",
@@ -7056,7 +8008,7 @@ var SETDEX_SV = {
         }
     },
     "Maractus": {
-        "Picnicker Gina": {
+        "Picnicker Gina (Level 44)": {
             "level": "44",
             "ability": "Water Absorb",
             "item": "Leftovers",
@@ -7086,7 +8038,7 @@ var SETDEX_SV = {
         }
     },
     "Slaking": {
-        "Beauty Samantha": {
+        "Beauty Samantha (Level 39)": {
             "level": "39",
             "ability": "Truant",
             "item": "Leftovers",
@@ -7116,7 +8068,7 @@ var SETDEX_SV = {
         }
     },
     "Snorlax": {
-        "Beauty Samantha": {
+        "Beauty Samantha (Level 40)": {
             "level": "40",
             "ability": "Gluttony",
             "item": "Custap Berry",
@@ -7144,7 +8096,7 @@ var SETDEX_SV = {
                 "Earthquake"
             ]
         },
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Gluttony",
             "item": "Custap Berry",
@@ -7174,7 +8126,7 @@ var SETDEX_SV = {
         }
     },
     "Drampa": {
-        "Beauty Samantha": {
+        "Beauty Samantha (Level 38)": {
             "level": "38",
             "ability": "Berserk",
             "item": "Sitrus Berry",
@@ -7202,7 +8154,7 @@ var SETDEX_SV = {
                 "Glare"
             ]
         },
-        "Leader Whitney": {
+        "Leader Whitney (Level 68)": {
             "level": "68",
             "ability": "Berserk",
             "item": "Sitrus Berry",
@@ -7232,7 +8184,7 @@ var SETDEX_SV = {
         }
     },
     "Ursaluna": {
-        "Beauty Cathy": {
+        "Beauty Cathy (Level 39)": {
             "level": "39",
             "ability": "Guts",
             "item": "Flame Orb",
@@ -7262,7 +8214,7 @@ var SETDEX_SV = {
         }
     },
     "Porygon2": {
-        "Beauty Cathy": {
+        "Beauty Cathy (Level 40)": {
             "level": "40",
             "ability": "Trace",
             "item": "Eviolite",
@@ -7290,7 +8242,7 @@ var SETDEX_SV = {
                 "Ice Beam"
             ]
         },
-        "Double Team Elan & Ida": {
+        "Double Team Elan & Ida (Level 52)": {
             "level": "52",
             "ability": "32",
             "item": "None",
@@ -7320,7 +8272,7 @@ var SETDEX_SV = {
         }
     },
     "Farigiraf": {
-        "Beauty Cathy": {
+        "Beauty Cathy (Level 38)": {
             "level": "38",
             "ability": "Sap Sipper",
             "item": "Twisted Spoon",
@@ -7350,7 +8302,7 @@ var SETDEX_SV = {
         }
     },
     "Talonflame": {
-        "Bird Keeper 1 Bryan": {
+        "Bird Keeper 1 Bryan (Level 37)": {
             "level": "37",
             "ability": "Gale Wings",
             "item": "Sharp Beak",
@@ -7380,7 +8332,7 @@ var SETDEX_SV = {
         }
     },
     "Hawlucha": {
-        "Bird Keeper 1 Bryan": {
+        "Bird Keeper 1 Bryan (Level 37)": {
             "level": "37",
             "ability": "Unburden",
             "item": "Focus Sash",
@@ -7410,7 +8362,7 @@ var SETDEX_SV = {
         }
     },
     "Nidoqueen": {
-        "Picnicker Cindy": {
+        "Picnicker Cindy (Level 48)": {
             "level": "48",
             "ability": "32",
             "item": "",
@@ -7438,7 +8390,7 @@ var SETDEX_SV = {
                 "Double Kick"
             ]
         },
-        "Picnicker Mickey": {
+        "Picnicker Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -7466,7 +8418,7 @@ var SETDEX_SV = {
                 "Body Slam"
             ]
         },
-        "Ace Trainer F Reena": {
+        "Ace Trainer F Reena (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "",
@@ -7494,7 +8446,7 @@ var SETDEX_SV = {
                 "Body Slam"
             ]
         },
-        "Rocket Boss Giovanni": {
+        "Rocket Boss Giovanni (Level 46)": {
             "level": "46",
             "ability": "0",
             "item": "None",
@@ -7524,7 +8476,7 @@ var SETDEX_SV = {
         }
     },
     "Nidoking": {
-        "Camper Barry": {
+        "Camper Barry (Level 48)": {
             "level": "48",
             "ability": "32",
             "item": "",
@@ -7552,7 +8504,7 @@ var SETDEX_SV = {
                 "Focus Blast"
             ]
         },
-        "Picnicker Mickey": {
+        "Picnicker Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -7580,7 +8532,7 @@ var SETDEX_SV = {
                 "Iron Tail"
             ]
         },
-        "Rocket Boss Giovanni": {
+        "Rocket Boss Giovanni (Level 42)": {
             "level": "42",
             "ability": "0",
             "item": "None",
@@ -7610,7 +8562,7 @@ var SETDEX_SV = {
         }
     },
     "Wartortle": {
-        "Swimmer M Randall": {
+        "Swimmer M Randall (Level 20)": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -7640,7 +8592,7 @@ var SETDEX_SV = {
         }
     },
     "Shuppet": {
-        "Medium Grace": {
+        "Medium Grace (Level 15)": {
             "level": "15",
             "ability": "Cursed Body",
             "item": "Iron Ball",
@@ -7670,7 +8622,7 @@ var SETDEX_SV = {
         }
     },
     "Zorua": {
-        "Medium Grace": {
+        "Medium Grace (Level 16)": {
             "level": "16",
             "ability": "Illusion",
             "item": "Sticky Barb",
@@ -7700,7 +8652,7 @@ var SETDEX_SV = {
         }
     },
     "Rattata,": {
-        "Medium Grace": {
+        "Medium Grace (Level 16)": {
             "level": "16",
             "ability": "Hustle",
             "item": "None",
@@ -7730,7 +8682,35 @@ var SETDEX_SV = {
         }
     },
     "Goldeen": {
-        "Swimmer F Kaylee": {
+        "Swimmer F Kaylee (Level 18)": {
+            "level": "18",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Water Pulse",
+                "Horn Attack",
+                "Supersonic",
+                "Peck"
+            ]
+        },
+        "Swimmer F Kaylee (Level 20)": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -7758,7 +8738,7 @@ var SETDEX_SV = {
                 "Peck"
             ]
         },
-        "Swimmer F Susie": {
+        "Swimmer F Susie (Level 22)": {
             "level": "22",
             "ability": "0",
             "item": "",
@@ -7786,7 +8766,7 @@ var SETDEX_SV = {
                 "Horn Attack"
             ]
         },
-        "Team Rocket G-248": {
+        "Team Rocket G-248 (Level 15)": {
             "level": "15",
             "ability": "Swift Swim",
             "item": "Damp Rock",
@@ -7816,7 +8796,7 @@ var SETDEX_SV = {
         }
     },
     "Psyduck": {
-        "Swimmer F Susie": {
+        "Swimmer F Susie (Level 20)": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -7844,7 +8824,35 @@ var SETDEX_SV = {
                 "Confusion"
             ]
         },
-        "Lass Dana": {
+        "Lass Dana (Level 19)": {
+            "level": "19",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Water Gun",
+                "Tail Whip",
+                "Disable",
+                "Confusion"
+            ]
+        },
+        "Lass Dana (Level 31)": {
             "level": "31",
             "ability": "0",
             "item": "",
@@ -7874,7 +8882,7 @@ var SETDEX_SV = {
         }
     },
     "Horsea": {
-        "Swimmer F Wendy": {
+        "Swimmer F Wendy (Level 21)": {
             "level": "21",
             "ability": "32",
             "item": "",
@@ -7902,7 +8910,7 @@ var SETDEX_SV = {
                 "Bubble Beam"
             ]
         },
-        "Swimmer M Parker": {
+        "Swimmer M Parker (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -7932,7 +8940,7 @@ var SETDEX_SV = {
         }
     },
     "Abra": {
-        "Team Rocket G-130": {
+        "Team Rocket G-130 (Level 7)": {
             "level": "7",
             "ability": "Inner Focus",
             "item": "None",
@@ -7960,7 +8968,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Psychic M Mark": {
+        "Psychic M Mark (Level 14)": {
             "level": "14",
             "ability": "0",
             "item": "",
@@ -7988,7 +8996,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Scientist 1 Mitch": {
+        "Scientist 1 Mitch (Level 6)": {
             "level": "6",
             "ability": "Magic Guard",
             "item": "None",
@@ -8018,7 +9026,7 @@ var SETDEX_SV = {
         }
     },
     "Swirlix": {
-        "Team Rocket G-130": {
+        "Team Rocket G-130 (Level 7)": {
             "level": "7",
             "ability": "Unburden",
             "item": "Rowap Berry",
@@ -8048,7 +9056,7 @@ var SETDEX_SV = {
         }
     },
     "Snubbull": {
-        "Team Rocket G-130": {
+        "Team Rocket G-130 (Level 7)": {
             "level": "7",
             "ability": "Flower Veil",
             "item": "None",
@@ -8078,8 +9086,8 @@ var SETDEX_SV = {
         }
     },
     "Victreebel": {
-        "Ace Trainer M Gaven": {
-            "level": "52",
+        "Ace Trainer M Gaven (Level 32)": {
+            "level": "32",
             "ability": "0",
             "item": "",
             "nature": "",
@@ -8100,13 +9108,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Leaf Storm",
+                "Wrap",
                 "Toxic",
                 "Acid",
-                "Leaf Blade"
+                "Razor Leaf"
             ]
         },
-        "Leader 8 Erika": {
+        "Leader 8 Erika (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "Kelpsy Berry",
@@ -8134,7 +9142,35 @@ var SETDEX_SV = {
                 "Leaf Blade"
             ]
         },
-        "Twins Jo & Zoe": {
+        "Twins Jo & Zoe (Level 47)": {
+            "level": "47",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Giga Drain",
+                "Sleep Powder",
+                "Sludge Bomb",
+                "Protect"
+            ]
+        },
+        "Twins Jo & Zoe (Level 37)": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -8161,10 +9197,178 @@ var SETDEX_SV = {
                 "Sludge Bomb",
                 "Protect"
             ]
+        },
+        "Ace Trainer M Gaven (Level 34)": {
+            "level": "34",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Wrap",
+                "Toxic",
+                "Acid",
+                "Razor Leaf"
+            ]
+        },
+        "Ace Trainer M Gaven (Level 38)": {
+            "level": "38",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Wrap",
+                "Toxic",
+                "Acid",
+                "Razor Leaf"
+            ]
+        },
+        "Ace Trainer M Gaven (Level 52)": {
+            "level": "52",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Leaf Storm",
+                "Toxic",
+                "Acid",
+                "Leaf Blade"
+            ]
         }
     },
     "Kingler": {
-        "Ace Trainer M Gaven": {
+        "Ace Trainer M Gaven (Level 32)": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bubble Beam",
+                "Stomp",
+                "Guillotine",
+                "Protect"
+            ]
+        },
+        "Ace Trainer M Gaven (Level 34)": {
+            "level": "34",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bubble Beam",
+                "Stomp",
+                "Guillotine",
+                "Protect"
+            ]
+        },
+        "Ace Trainer M Gaven (Level 39)": {
+            "level": "39",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Brine",
+                "Stomp",
+                "X Scissor",
+                "Protect"
+            ]
+        },
+        "Ace Trainer M Gaven (Level 49)": {
             "level": "49",
             "ability": "0",
             "item": "",
@@ -8194,8 +9398,8 @@ var SETDEX_SV = {
         }
     },
     "Flareon": {
-        "Ace Trainer M Gaven": {
-            "level": "50",
+        "Ace Trainer M Gaven (Level 32)": {
+            "level": "32",
             "ability": "0",
             "item": "",
             "nature": "",
@@ -8216,13 +9420,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Overheat",
+                "Sand Attack",
                 "Quick Attack",
-                "Will O Wisp",
-                "Attract"
+                "Bite",
+                "Ember"
             ]
         },
-        "Kimono Girl Miki": {
+        "Kimono Girl Miki (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "None",
@@ -8250,7 +9454,63 @@ var SETDEX_SV = {
                 "Will O Wisp"
             ]
         },
-        "Sage Mickey": {
+        "Ace Trainer M Gaven (Level 34)": {
+            "level": "34",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Sand Attack",
+                "Quick Attack",
+                "Bite",
+                "Fire Blast"
+            ]
+        },
+        "Ace Trainer M Gaven (Level 38)": {
+            "level": "38",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Fire Blast",
+                "Quick Attack",
+                "Sand Attack",
+                "Fire Spin"
+            ]
+        },
+        "Sage Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -8278,7 +9538,35 @@ var SETDEX_SV = {
                 "Bite"
             ]
         },
-        "Team Rocket 1 G-650": {
+        "Ace Trainer M Gaven (Level 50)": {
+            "level": "50",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Overheat",
+                "Quick Attack",
+                "Will O Wisp",
+                "Attract"
+            ]
+        },
+        "Team Rocket 1 G-650 (Level 50)": {
             "level": "50",
             "ability": "Guts",
             "item": "Toxic Orb",
@@ -8308,7 +9596,7 @@ var SETDEX_SV = {
         }
     },
     "Magneton": {
-        "Ace Trainer M Blake": {
+        "Ace Trainer M Blake (Level 33)": {
             "level": "33",
             "ability": "32",
             "item": "",
@@ -8336,7 +9624,7 @@ var SETDEX_SV = {
                 "Screech"
             ]
         },
-        "Team Rocket G-499": {
+        "Team Rocket G-499 (Level 26)": {
             "level": "26",
             "ability": "Levitate",
             "item": "Metal Coat",
@@ -8364,7 +9652,7 @@ var SETDEX_SV = {
                 "Hidden Power"
             ]
         },
-        "Leader 7 Lt. Surge": {
+        "Leader 7 Lt. Surge (Level 47)": {
             "level": "47",
             "ability": "0",
             "item": "None",
@@ -8392,7 +9680,35 @@ var SETDEX_SV = {
                 "Mirror Shot"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 37)": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Spark",
+                "Supersonic",
+                "Thunder Wave",
+                "Magnet Bomb"
+            ]
+        },
+        "Rival Silver (Level 46)": {
             "level": "46",
             "ability": "0",
             "item": "",
@@ -8420,7 +9736,7 @@ var SETDEX_SV = {
                 "Magnet Bomb"
             ]
         },
-        "Rival Jupiter": {
+        "Rival Jupiter (Level 55)": {
             "level": "55",
             "ability": "0",
             "item": "None",
@@ -8448,7 +9764,7 @@ var SETDEX_SV = {
                 "Magnet Bomb"
             ]
         },
-        "School Kid M Chad": {
+        "School Kid M Chad (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "",
@@ -8476,7 +9792,7 @@ var SETDEX_SV = {
                 "Magnet Bomb"
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "",
@@ -8506,7 +9822,7 @@ var SETDEX_SV = {
         }
     },
     "Mareep": {
-        "Ace Trainer M Brian": {
+        "Ace Trainer M Brian (Level 35)": {
             "level": "35",
             "ability": "0",
             "item": "",
@@ -8534,7 +9850,7 @@ var SETDEX_SV = {
                 "Tackle"
             ]
         },
-        "Ace Trainer F Lois": {
+        "Ace Trainer F Lois (Level 25)": {
             "level": "25",
             "ability": "0",
             "item": "",
@@ -8564,7 +9880,7 @@ var SETDEX_SV = {
         }
     },
     "Snover": {
-        "Ace Trainer M Ryan": {
+        "Ace Trainer M Ryan (Level 9)": {
             "level": "9",
             "ability": "Ice Body",
             "item": "Chople Berry",
@@ -8594,7 +9910,7 @@ var SETDEX_SV = {
         }
     },
     "Spheal": {
-        "Ace Trainer M Ryan": {
+        "Ace Trainer M Ryan (Level 8)": {
             "level": "8",
             "ability": "Ice Body",
             "item": "None",
@@ -8624,7 +9940,7 @@ var SETDEX_SV = {
         }
     },
     "Vanillite": {
-        "Ace Trainer M Ryan": {
+        "Ace Trainer M Ryan (Level 9)": {
             "level": "9",
             "ability": "Ice Body",
             "item": "None",
@@ -8654,7 +9970,7 @@ var SETDEX_SV = {
         }
     },
     "Sneasel": {
-        "Ace Trainer M Ryan": {
+        "Ace Trainer M Ryan (Level 7)": {
             "level": "7",
             "ability": "Inner Focus",
             "item": "None",
@@ -8682,7 +9998,91 @@ var SETDEX_SV = {
                 "Assurance"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 36)": {
+            "level": "36",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Icy Wind",
+                "Feint Attack",
+                "Fury Swipes"
+            ]
+        },
+        "Rival Silver (Level 32)": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Icy Wind",
+                "Quick Attack",
+                "Fury Swipes",
+                "Feint Attack"
+            ]
+        },
+        "Rival Silver (Level 46)": {
+            "level": "46",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Icy Wind",
+                "Feint Attack",
+                "Shadow Claw"
+            ]
+        },
+        "Rival Silver (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -8710,7 +10110,7 @@ var SETDEX_SV = {
                 "Feint Attack"
             ]
         },
-        "Rival Jupiter": {
+        "Rival Jupiter (Level 55)": {
             "level": "55",
             "ability": "0",
             "item": "None",
@@ -8738,7 +10138,7 @@ var SETDEX_SV = {
                 "Metal Claw"
             ]
         },
-        "Skier Teresa": {
+        "Skier Teresa (Level 15)": {
             "level": "15",
             "ability": "Inner Focus",
             "item": "Chople Berry",
@@ -8768,7 +10168,7 @@ var SETDEX_SV = {
         }
     },
     "Hakamo O": {
-        "Ace Trainer M Paulo": {
+        "Ace Trainer M Paulo (Level 24)": {
             "level": "24",
             "ability": "Bulletproof",
             "item": "Salac Berry",
@@ -8798,7 +10198,7 @@ var SETDEX_SV = {
         }
     },
     "Fraxure": {
-        "Ace Trainer M Paulo": {
+        "Ace Trainer M Paulo (Level 24)": {
             "level": "24",
             "ability": "Mold Breaker",
             "item": "Dragon Fang",
@@ -8826,7 +10226,7 @@ var SETDEX_SV = {
                 "Bulldoze"
             ]
         },
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 15)": {
             "level": "15",
             "ability": "Mold Breaker",
             "item": "Yache Berry",
@@ -8856,7 +10256,7 @@ var SETDEX_SV = {
         }
     },
     "Turtonator": {
-        "Ace Trainer M Paulo": {
+        "Ace Trainer M Paulo (Level 26)": {
             "level": "26",
             "ability": "Shell Armor",
             "item": "Shuca Berry",
@@ -8884,7 +10284,7 @@ var SETDEX_SV = {
                 "Slack Off"
             ]
         },
-        "Team Rocket 1 G-982": {
+        "Team Rocket 1 G-982 (Level 71)": {
             "level": "71",
             "ability": "Shell Armor",
             "item": "Air Balloon",
@@ -8914,8 +10314,8 @@ var SETDEX_SV = {
         }
     },
     "Rapidash": {
-        "Ace Trainer F Jamie": {
-            "level": "56",
+        "Ace Trainer F Jamie (Level 36)": {
+            "level": "36",
             "ability": "32",
             "item": "",
             "nature": "",
@@ -8936,13 +10336,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Bounce",
+                "Stomp",
                 "Fire Spin",
-                "Flare Blitz",
-                "Ember"
+                "Will O Wisp",
+                "Agility"
             ]
         },
-        "Ace Trainer F Lola": {
+        "Ace Trainer F Lola (Level 26)": {
             "level": "26",
             "ability": "Magic Bounce",
             "item": "Expert Belt",
@@ -8970,7 +10370,119 @@ var SETDEX_SV = {
                 "Mystical Fire"
             ]
         },
-        "Leader 11 Blaine": {
+        "Leader 11 Blaine (Level 59)": {
+            "level": "59",
+            "ability": "32",
+            "item": "White Herb",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Flare Blitz",
+                "Bounce",
+                "Overheat"
+            ]
+        },
+        "Ace Trainer F Jamie (Level 38)": {
+            "level": "38",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Stomp",
+                "Fire Spin",
+                "Flame Wheel",
+                "Ember"
+            ]
+        },
+        "Ace Trainer F Jamie (Level 42)": {
+            "level": "42",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Stomp",
+                "Fire Spin",
+                "Fire Blast",
+                "Ember"
+            ]
+        },
+        "Ace Trainer F Jamie (Level 56)": {
+            "level": "56",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bounce",
+                "Fire Spin",
+                "Flare Blitz",
+                "Ember"
+            ]
+        },
+        "Leader 11 Blaine (Level 60)": {
             "level": "60",
             "ability": "32",
             "item": "None",
@@ -9000,7 +10512,7 @@ var SETDEX_SV = {
         }
     },
     "Flaaffy": {
-        "Ace Trainer F Jamie": {
+        "Ace Trainer F Jamie (Level 31)": {
             "level": "31",
             "ability": "0",
             "item": "",
@@ -9028,7 +10540,7 @@ var SETDEX_SV = {
                 "Charge"
             ]
         },
-        "Team Rocket G-401": {
+        "Team Rocket G-401 (Level 23)": {
             "level": "23",
             "ability": "Static",
             "item": "None",
@@ -9056,7 +10568,7 @@ var SETDEX_SV = {
                 "Dazzling Gleam"
             ]
         },
-        "Gentleman Gregory": {
+        "Gentleman Gregory (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -9084,7 +10596,35 @@ var SETDEX_SV = {
                 "Double Team"
             ]
         },
-        "Lass Dana": {
+        "Lass Dana (Level 19)": {
+            "level": "19",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Tackle",
+                "Growl",
+                "Thunder Shock",
+                "Thunder Wave"
+            ]
+        },
+        "Lass Dana (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -9114,7 +10654,7 @@ var SETDEX_SV = {
         }
     },
     "Ivysaur": {
-        "Ace Trainer F Megan": {
+        "Ace Trainer F Megan (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -9142,7 +10682,7 @@ var SETDEX_SV = {
                 "Petal Dance"
             ]
         },
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 20)": {
             "level": "20",
             "ability": "Overgrow",
             "item": "Leftovers",
@@ -9170,7 +10710,7 @@ var SETDEX_SV = {
                 "Hidden Power"
             ]
         },
-        "Ace Trainer F Quinn": {
+        "Ace Trainer F Quinn (Level 47)": {
             "level": "47",
             "ability": "0",
             "item": "",
@@ -9200,7 +10740,7 @@ var SETDEX_SV = {
         }
     },
     "Venusaur": {
-        "Ace Trainer F Megan": {
+        "Ace Trainer F Megan (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -9228,7 +10768,7 @@ var SETDEX_SV = {
                 "Leech Seed"
             ]
         },
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 43)": {
             "level": "43",
             "ability": "Overgrow",
             "item": "Yache Berry",
@@ -9256,7 +10796,7 @@ var SETDEX_SV = {
                 "Weather Ball"
             ]
         },
-        "Picnicker Mickey": {
+        "Picnicker Mickey (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "",
@@ -9286,7 +10826,7 @@ var SETDEX_SV = {
         }
     },
     "Ninetales": {
-        "Ace Trainer F Lois": {
+        "Ace Trainer F Lois (Level 25)": {
             "level": "25",
             "ability": "0",
             "item": "",
@@ -9314,7 +10854,7 @@ var SETDEX_SV = {
                 "Nasty Plot"
             ]
         },
-        "Ace Trainer F Carol": {
+        "Ace Trainer F Carol (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -9342,7 +10882,7 @@ var SETDEX_SV = {
                 "Will O Wisp"
             ]
         },
-        "Scientist 1 Daniel": {
+        "Scientist 1 Daniel (Level 50)": {
             "level": "50",
             "ability": "0",
             "item": "",
@@ -9372,7 +10912,7 @@ var SETDEX_SV = {
         }
     },
     "Mimikyu": {
-        "Ace Trainer F Lola": {
+        "Ace Trainer F Lola (Level 24)": {
             "level": "24",
             "ability": "Disguise",
             "item": "Sitrus Berry",
@@ -9402,7 +10942,7 @@ var SETDEX_SV = {
         }
     },
     "Whimsicott": {
-        "Ace Trainer F Lola": {
+        "Ace Trainer F Lola (Level 23)": {
             "level": "23",
             "ability": "Prankster",
             "item": "Babiri Berry",
@@ -9432,7 +10972,7 @@ var SETDEX_SV = {
         }
     },
     "Swinub": {
-        "Ace Trainer F Kelly": {
+        "Ace Trainer F Kelly (Level 9)": {
             "level": "9",
             "ability": "Snow Cloak",
             "item": "Chople Berry",
@@ -9462,7 +11002,7 @@ var SETDEX_SV = {
         }
     },
     "Vulpix,": {
-        "Ace Trainer F Kelly": {
+        "Ace Trainer F Kelly (Level 10)": {
             "level": "10",
             "ability": "Clear Body",
             "item": "None",
@@ -9490,7 +11030,7 @@ var SETDEX_SV = {
                 "Confuse Ray"
             ]
         },
-        "Skier Teresa": {
+        "Skier Teresa (Level 15)": {
             "level": "15",
             "ability": "Snow Warning",
             "item": "None",
@@ -9520,7 +11060,7 @@ var SETDEX_SV = {
         }
     },
     "Sandshrew,": {
-        "Ace Trainer F Kelly": {
+        "Ace Trainer F Kelly (Level 9)": {
             "level": "9",
             "ability": "Snow Cloak",
             "item": "None",
@@ -9550,7 +11090,7 @@ var SETDEX_SV = {
         }
     },
     "Remoraid": {
-        "Fisherman Edgar": {
+        "Fisherman Edgar (Level 28)": {
             "level": "28",
             "ability": "32",
             "item": "",
@@ -9580,7 +11120,7 @@ var SETDEX_SV = {
         }
     },
     "Wugtrio": {
-        "Lass Linda": {
+        "Lass Linda (Level 58)": {
             "level": "58",
             "ability": "Gooey",
             "item": "Focus Sash",
@@ -9610,7 +11150,7 @@ var SETDEX_SV = {
         }
     },
     "Skeledirge": {
-        "Lass Linda": {
+        "Lass Linda (Level 59)": {
             "level": "59",
             "ability": "Blaze",
             "item": "Charcoal",
@@ -9640,7 +11180,7 @@ var SETDEX_SV = {
         }
     },
     "Cetitan": {
-        "Lass Linda": {
+        "Lass Linda (Level 58)": {
             "level": "58",
             "ability": "Sheer Force",
             "item": "Life Orb",
@@ -9670,7 +11210,7 @@ var SETDEX_SV = {
         }
     },
     "Diglett": {
-        "Hiker Timothy": {
+        "Hiker Timothy (Level 27)": {
             "level": "27",
             "ability": "0",
             "item": "",
@@ -9700,7 +11240,7 @@ var SETDEX_SV = {
         }
     },
     "Dugtrio": {
-        "Hiker Timothy": {
+        "Hiker Timothy (Level 27)": {
             "level": "27",
             "ability": "0",
             "item": "",
@@ -9728,7 +11268,7 @@ var SETDEX_SV = {
                 "Sucker Punch"
             ]
         },
-        "Double Team Zac & Jen": {
+        "Double Team Zac & Jen (Level 47)": {
             "level": "47",
             "ability": "32",
             "item": "",
@@ -9758,7 +11298,7 @@ var SETDEX_SV = {
         }
     },
     "Emboar": {
-        "Black Belt Yoshi": {
+        "Black Belt Yoshi (Level 28)": {
             "level": "28",
             "ability": "Blaze",
             "item": "None",
@@ -9788,7 +11328,7 @@ var SETDEX_SV = {
         }
     },
     "Blaziken": {
-        "Black Belt Yoshi": {
+        "Black Belt Yoshi (Level 30)": {
             "level": "30",
             "ability": "Speed Boost",
             "item": "None",
@@ -9818,7 +11358,7 @@ var SETDEX_SV = {
         }
     },
     "Hitmonchan": {
-        "Black Belt Lao": {
+        "Black Belt Lao (Level 27)": {
             "level": "27",
             "ability": "32",
             "item": "",
@@ -9846,7 +11386,35 @@ var SETDEX_SV = {
                 "Fire Punch"
             ]
         },
-        "Elite Four 3 Bruno": {
+        "Elite Four 3 Bruno (Level 42)": {
+            "level": "42",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch",
+                "Fire Punch",
+                "Bullet Punch"
+            ]
+        },
+        "Elite Four 3 Bruno (Level 61)": {
             "level": "61",
             "ability": "32",
             "item": "None",
@@ -9876,7 +11444,7 @@ var SETDEX_SV = {
         }
     },
     "Chesnaught": {
-        "Black Belt Lung": {
+        "Black Belt Lung (Level 27)": {
             "level": "27",
             "ability": "Bulletproof",
             "item": "Coba Berry",
@@ -9906,7 +11474,7 @@ var SETDEX_SV = {
         }
     },
     "Breloom": {
-        "Black Belt Lung": {
+        "Black Belt Lung (Level 28)": {
             "level": "28",
             "ability": "Poison Heal",
             "item": "Toxic Orb",
@@ -9936,7 +11504,7 @@ var SETDEX_SV = {
         }
     },
     "Lilligant,": {
-        "Black Belt Lung": {
+        "Black Belt Lung (Level 29)": {
             "level": "29",
             "ability": "Rough Skin",
             "item": "Focus Sash",
@@ -9966,7 +11534,7 @@ var SETDEX_SV = {
         }
     },
     "Espeon": {
-        "Kimono Girl Naoko": {
+        "Kimono Girl Naoko (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "None",
@@ -9994,7 +11562,7 @@ var SETDEX_SV = {
                 "Swift"
             ]
         },
-        "Leader 10 Sabrina": {
+        "Leader 10 Sabrina (Level 58)": {
             "level": "58",
             "ability": "32",
             "item": "None",
@@ -10024,7 +11592,7 @@ var SETDEX_SV = {
         }
     },
     "Jolteon": {
-        "Kimono Girl Sayo": {
+        "Kimono Girl Sayo (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "None",
@@ -10052,7 +11620,7 @@ var SETDEX_SV = {
                 "Thunder Wave"
             ]
         },
-        "Team Rocket G-499": {
+        "Team Rocket G-499 (Level 27)": {
             "level": "27",
             "ability": "Volt Absorb",
             "item": "Expert Belt",
@@ -10080,7 +11648,7 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Guitarist Vincent": {
+        "Guitarist Vincent (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "",
@@ -10108,7 +11676,7 @@ var SETDEX_SV = {
                 "Helping Hand"
             ]
         },
-        "Ace Trainer M Shaye": {
+        "Ace Trainer M Shaye (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -10136,7 +11704,7 @@ var SETDEX_SV = {
                 "Sand Attack"
             ]
         },
-        "Scientist 1 Ross": {
+        "Scientist 1 Ross (Level 64)": {
             "level": "64",
             "ability": "Volt Absorb",
             "item": "Choice Specs",
@@ -10164,7 +11732,7 @@ var SETDEX_SV = {
                 "Moonblast"
             ]
         },
-        "Sage Mickey": {
+        "Sage Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -10194,7 +11762,7 @@ var SETDEX_SV = {
         }
     },
     "Umbreon": {
-        "Kimono Girl Zuki": {
+        "Kimono Girl Zuki (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "None",
@@ -10222,10 +11790,10 @@ var SETDEX_SV = {
                 "Shadow Ball"
             ]
         },
-        "Elite Four 1 Karen": {
-            "level": "64",
+        "Elite Four 1 Karen (Level 42)": {
+            "level": "42",
             "ability": "0",
-            "item": "Sitrus Berry",
+            "item": "None",
             "nature": "",
             "ivs": {
                 "hp": 0,
@@ -10244,13 +11812,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Curse",
-                "Payback",
+                "Double Team",
                 "Confuse Ray",
-                "Sucker Punch"
+                "Feint Attack",
+                "Payback"
             ]
         },
-        "Pkmn Trainer 5 Buck": {
+        "Pkmn Trainer 5 Buck (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -10277,10 +11845,38 @@ var SETDEX_SV = {
                 "Confuse Ray",
                 "Double Team"
             ]
+        },
+        "Elite Four 1 Karen (Level 64)": {
+            "level": "64",
+            "ability": "0",
+            "item": "Sitrus Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Curse",
+                "Payback",
+                "Confuse Ray",
+                "Sucker Punch"
+            ]
         }
     },
     "Gloom": {
-        "Lass Alice": {
+        "Lass Alice (Level 41)": {
             "level": "41",
             "ability": "0",
             "item": "",
@@ -10308,7 +11904,7 @@ var SETDEX_SV = {
                 "Drain Punch"
             ]
         },
-        "Lass Laura": {
+        "Lass Laura (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -10338,7 +11934,7 @@ var SETDEX_SV = {
         }
     },
     "Arbok": {
-        "Lass Alice": {
+        "Lass Alice (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "",
@@ -10366,7 +11962,7 @@ var SETDEX_SV = {
                 "Mud Bomb"
             ]
         },
-        "Biker Reese": {
+        "Biker Reese (Level 42)": {
             "level": "42",
             "ability": "0",
             "item": "",
@@ -10394,7 +11990,7 @@ var SETDEX_SV = {
                 "Crunch"
             ]
         },
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 34)": {
             "level": "34",
             "ability": "Intimidate",
             "item": "Eject Button",
@@ -10424,7 +12020,7 @@ var SETDEX_SV = {
         }
     },
     "Vileplume": {
-        "Lass Alice": {
+        "Lass Alice (Level 41)": {
             "level": "41",
             "ability": "0",
             "item": "",
@@ -10452,7 +12048,7 @@ var SETDEX_SV = {
                 "Drain Punch"
             ]
         },
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 42)": {
             "level": "42",
             "ability": "0",
             "item": "None",
@@ -10480,7 +12076,35 @@ var SETDEX_SV = {
                 "Petal Dance"
             ]
         },
-        "Twins Jo & Zoe": {
+        "Twins Jo & Zoe (Level 47)": {
+            "level": "47",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Giga Drain",
+                "Stun Spore",
+                "Drain Punch",
+                "Attract"
+            ]
+        },
+        "Twins Jo & Zoe (Level 37)": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -10508,7 +12132,7 @@ var SETDEX_SV = {
                 "Attract"
             ]
         },
-        "School Kid M Jack": {
+        "School Kid M Jack (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "",
@@ -10536,7 +12160,7 @@ var SETDEX_SV = {
                 "Sunny Day"
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 37)": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -10566,7 +12190,7 @@ var SETDEX_SV = {
         }
     },
     "Dedenne": {
-        "Team Rocket G-145": {
+        "Team Rocket G-145 (Level 7)": {
             "level": "7",
             "ability": "Pickup",
             "item": "None",
@@ -10594,7 +12218,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Team Rocket G-547": {
+        "Team Rocket G-547 (Level 35)": {
             "level": "35",
             "ability": "Static",
             "item": "Shuca Berry",
@@ -10624,7 +12248,7 @@ var SETDEX_SV = {
         }
     },
     "Espurr": {
-        "Team Rocket G-145": {
+        "Team Rocket G-145 (Level 8)": {
             "level": "8",
             "ability": "Keen Eye",
             "item": "None",
@@ -10654,7 +12278,7 @@ var SETDEX_SV = {
         }
     },
     "Elgyem": {
-        "Team Rocket G-145": {
+        "Team Rocket G-145 (Level 7)": {
             "level": "7",
             "ability": "Synchronize",
             "item": "None",
@@ -10684,7 +12308,7 @@ var SETDEX_SV = {
         }
     },
     "Ralts": {
-        "Team Rocket G-152": {
+        "Team Rocket G-152 (Level 8)": {
             "level": "8",
             "ability": "Trace",
             "item": "None",
@@ -10714,7 +12338,7 @@ var SETDEX_SV = {
         }
     },
     "Morelull": {
-        "Team Rocket G-152": {
+        "Team Rocket G-152 (Level 7)": {
             "level": "7",
             "ability": "Effect Spore",
             "item": "None",
@@ -10744,7 +12368,7 @@ var SETDEX_SV = {
         }
     },
     "Lotad": {
-        "Team Rocket G-220": {
+        "Team Rocket G-220 (Level 13)": {
             "level": "13",
             "ability": "Swift Swim",
             "item": "Damp Rock",
@@ -10774,7 +12398,7 @@ var SETDEX_SV = {
         }
     },
     "Wooper": {
-        "Team Rocket G-220": {
+        "Team Rocket G-220 (Level 14)": {
             "level": "14",
             "ability": "Water Absorb",
             "item": "None",
@@ -10804,7 +12428,7 @@ var SETDEX_SV = {
         }
     },
     "Barboach": {
-        "Team Rocket G-220": {
+        "Team Rocket G-220 (Level 15)": {
             "level": "15",
             "ability": "Rain Dish",
             "item": "None",
@@ -10834,7 +12458,7 @@ var SETDEX_SV = {
         }
     },
     "Krabby": {
-        "Team Rocket G-233": {
+        "Team Rocket G-233 (Level 15)": {
             "level": "15",
             "ability": "Hyper Cutter",
             "item": "Oran Berry",
@@ -10862,7 +12486,35 @@ var SETDEX_SV = {
                 "Metal Claw"
             ]
         },
-        "Sailor Kent": {
+        "Sailor Kent (Level 18)": {
+            "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bubble Beam",
+                "Leer",
+                "Vice Grip",
+                "Harden"
+            ]
+        },
+        "Sailor Kent (Level 20)": {
             "level": "20",
             "ability": "32",
             "item": "",
@@ -10892,7 +12544,7 @@ var SETDEX_SV = {
         }
     },
     "Corphish": {
-        "Team Rocket G-233": {
+        "Team Rocket G-233 (Level 14)": {
             "level": "14",
             "ability": "Adaptability",
             "item": "Shell Bell",
@@ -10922,7 +12574,7 @@ var SETDEX_SV = {
         }
     },
     "Clauncher": {
-        "Team Rocket G-233": {
+        "Team Rocket G-233 (Level 14)": {
             "level": "14",
             "ability": "Mega Launcher",
             "item": "Sticky Barb",
@@ -10952,7 +12604,7 @@ var SETDEX_SV = {
         }
     },
     "Piplup": {
-        "Team Rocket G-248": {
+        "Team Rocket G-248 (Level 15)": {
             "level": "15",
             "ability": "Torrent",
             "item": "None",
@@ -10982,7 +12634,7 @@ var SETDEX_SV = {
         }
     },
     "Mudkip": {
-        "Team Rocket G-248": {
+        "Team Rocket G-248 (Level 14)": {
             "level": "14",
             "ability": "Torrent",
             "item": "None",
@@ -11012,7 +12664,7 @@ var SETDEX_SV = {
         }
     },
     "Tirtouga": {
-        "Team Rocket G-261": {
+        "Team Rocket G-261 (Level 15)": {
             "level": "15",
             "ability": "Sturdy",
             "item": "None",
@@ -11042,7 +12694,7 @@ var SETDEX_SV = {
         }
     },
     "Wailmer": {
-        "Team Rocket G-261": {
+        "Team Rocket G-261 (Level 14)": {
             "level": "14",
             "ability": "Rain Dish",
             "item": "None",
@@ -11072,7 +12724,7 @@ var SETDEX_SV = {
         }
     },
     "Tentacool": {
-        "Team Rocket G-261": {
+        "Team Rocket G-261 (Level 14)": {
             "level": "14",
             "ability": "Liquid Ooze",
             "item": "Oran Berry",
@@ -11094,7 +12746,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Wrap",
+                "Whirlpool",
                 "Poison Sting",
                 "Water Gun",
                 "Toxic"
@@ -11102,7 +12754,7 @@ var SETDEX_SV = {
         }
     },
     "Skrelp": {
-        "Team Rocket G-270": {
+        "Team Rocket G-270 (Level 13)": {
             "level": "13",
             "ability": "Poison Point",
             "item": "None",
@@ -11132,7 +12784,7 @@ var SETDEX_SV = {
         }
     },
     "Slowpoke": {
-        "Team Rocket G-270": {
+        "Team Rocket G-270 (Level 14)": {
             "level": "14",
             "ability": "Shell Armor",
             "item": "Shell Bell",
@@ -11160,7 +12812,7 @@ var SETDEX_SV = {
                 "Icy Wind"
             ]
         },
-        "Medium Darcy": {
+        "Medium Darcy (Level 44)": {
             "level": "44",
             "ability": "32",
             "item": "",
@@ -11188,7 +12840,35 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "Psychic M Nelson": {
+        "Psychic M Nelson (Level 17)": {
+            "level": "17",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Tackle",
+                "Growl",
+                "Water Gun",
+                "None"
+            ]
+        },
+        "Psychic M Nelson (Level 20)": {
             "level": "20",
             "ability": "32",
             "item": "",
@@ -11216,7 +12896,7 @@ var SETDEX_SV = {
                 "Confusion"
             ]
         },
-        "Super Nerd Markus": {
+        "Super Nerd Markus (Level 19)": {
             "level": "19",
             "ability": "32",
             "item": "",
@@ -11246,7 +12926,7 @@ var SETDEX_SV = {
         }
     },
     "Buizel": {
-        "Team Rocket G-270": {
+        "Team Rocket G-270 (Level 15)": {
             "level": "15",
             "ability": "Swift Swim",
             "item": "None",
@@ -11276,7 +12956,7 @@ var SETDEX_SV = {
         }
     },
     "Omanyte": {
-        "Team Rocket G-298": {
+        "Team Rocket G-298 (Level 14)": {
             "level": "14",
             "ability": "Shell Armor",
             "item": "Rindo Berry",
@@ -11299,14 +12979,14 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Ancient Power",
-                "Wrap",
+                "Water Pulse",
                 "Mud Shot",
                 "Icy Wind"
             ]
         }
     },
     "Kabuto": {
-        "Team Rocket G-298": {
+        "Team Rocket G-298 (Level 14)": {
             "level": "14",
             "ability": "Shell Armor",
             "item": "Rindo Berry",
@@ -11336,7 +13016,7 @@ var SETDEX_SV = {
         }
     },
     "Frogadier": {
-        "Team Rocket G-298": {
+        "Team Rocket G-298 (Level 16)": {
             "level": "16",
             "ability": "Torrent",
             "item": "None",
@@ -11366,7 +13046,7 @@ var SETDEX_SV = {
         }
     },
     "Torracat": {
-        "Team Rocket G-326": {
+        "Team Rocket G-326 (Level 20)": {
             "level": "20",
             "ability": "Intimidate",
             "item": "Charti Berry",
@@ -11396,7 +13076,7 @@ var SETDEX_SV = {
         }
     },
     "Salazzle": {
-        "Team Rocket G-326": {
+        "Team Rocket G-326 (Level 21)": {
             "level": "21",
             "ability": "Compound Eyes",
             "item": "Passho Berry",
@@ -11426,7 +13106,7 @@ var SETDEX_SV = {
         }
     },
     "Muk,": {
-        "Team Rocket G-370": {
+        "Team Rocket G-370 (Level 19)": {
             "level": "19",
             "ability": "Poison Touch",
             "item": "Black Sludge",
@@ -11456,7 +13136,7 @@ var SETDEX_SV = {
         }
     },
     "Cacturne": {
-        "Team Rocket G-370": {
+        "Team Rocket G-370 (Level 20)": {
             "level": "20",
             "ability": "Water Absorb",
             "item": "Big Root",
@@ -11486,7 +13166,7 @@ var SETDEX_SV = {
         }
     },
     "Overqwil": {
-        "Team Rocket G-370": {
+        "Team Rocket G-370 (Level 21)": {
             "level": "21",
             "ability": "Intimidate",
             "item": "Black Sludge",
@@ -11516,7 +13196,7 @@ var SETDEX_SV = {
         }
     },
     "Pachirisu": {
-        "Team Rocket G-401": {
+        "Team Rocket G-401 (Level 23)": {
             "level": "23",
             "ability": "Volt Absorb",
             "item": "Focus Sash",
@@ -11544,7 +13224,7 @@ var SETDEX_SV = {
                 "Attract"
             ]
         },
-        "Leader F Flint": {
+        "Leader F Flint (Level 6)": {
             "level": "6",
             "ability": "Volt Absorb",
             "item": "None",
@@ -11572,7 +13252,7 @@ var SETDEX_SV = {
                 "Helping Hand"
             ]
         },
-        "Leader 7 Lt. Surge": {
+        "Leader 7 Lt. Surge (Level 58)": {
             "level": "58",
             "ability": "0",
             "item": "None",
@@ -11602,7 +13282,7 @@ var SETDEX_SV = {
         }
     },
     "Eelektrik": {
-        "Team Rocket G-401": {
+        "Team Rocket G-401 (Level 24)": {
             "level": "24",
             "ability": "Levitate",
             "item": "None",
@@ -11630,7 +13310,7 @@ var SETDEX_SV = {
                 "Knock Off"
             ]
         },
-        "Skier Diana": {
+        "Skier Diana (Level 16)": {
             "level": "16",
             "ability": "Levitate",
             "item": "Leftovers",
@@ -11660,7 +13340,7 @@ var SETDEX_SV = {
         }
     },
     "Voltorb,": {
-        "Team Rocket G-420": {
+        "Team Rocket G-420 (Level 22)": {
             "level": "22",
             "ability": "Volt Absorb",
             "item": "None",
@@ -11688,7 +13368,7 @@ var SETDEX_SV = {
                 "Volt Switch"
             ]
         },
-        "Skier Diana": {
+        "Skier Diana (Level 16)": {
             "level": "16",
             "ability": "Static",
             "item": "Magnet",
@@ -11718,7 +13398,7 @@ var SETDEX_SV = {
         }
     },
     "Geodude,": {
-        "Team Rocket G-420": {
+        "Team Rocket G-420 (Level 23)": {
             "level": "23",
             "ability": "Sturdy",
             "item": "None",
@@ -11748,7 +13428,7 @@ var SETDEX_SV = {
         }
     },
     "Helioptile": {
-        "Team Rocket G-420": {
+        "Team Rocket G-420 (Level 24)": {
             "level": "24",
             "ability": "Solar Power",
             "item": "Shuca Berry",
@@ -11778,7 +13458,7 @@ var SETDEX_SV = {
         }
     },
     "Elekid": {
-        "Team Rocket G-420": {
+        "Team Rocket G-420 (Level 23)": {
             "level": "23",
             "ability": "Motor Drive",
             "item": "Shuca Berry",
@@ -11806,7 +13486,7 @@ var SETDEX_SV = {
                 "Cross Chop"
             ]
         },
-        "Leader F Flint": {
+        "Leader F Flint (Level 4)": {
             "level": "4",
             "ability": "Static",
             "item": "None",
@@ -11836,7 +13516,7 @@ var SETDEX_SV = {
         }
     },
     "Stunfisk": {
-        "Team Rocket 1 G-452": {
+        "Team Rocket 1 G-452 (Level 25)": {
             "level": "25",
             "ability": "Static",
             "item": "Shuca Berry",
@@ -11866,7 +13546,7 @@ var SETDEX_SV = {
         }
     },
     "Galvantula": {
-        "Team Rocket 1 G-452": {
+        "Team Rocket 1 G-452 (Level 23)": {
             "level": "23",
             "ability": "Compound Eyes",
             "item": "Charti Berry",
@@ -11896,7 +13576,7 @@ var SETDEX_SV = {
         }
     },
     "Plusle": {
-        "Team Rocket 1 G-481": {
+        "Team Rocket 1 G-481 (Level 23)": {
             "level": "23",
             "ability": "Plus",
             "item": "Shuca Berry",
@@ -11926,7 +13606,7 @@ var SETDEX_SV = {
         }
     },
     "Minun": {
-        "Team Rocket 1 G-481": {
+        "Team Rocket 1 G-481 (Level 23)": {
             "level": "23",
             "ability": "Minus",
             "item": "Shuca Berry",
@@ -11956,7 +13636,7 @@ var SETDEX_SV = {
         }
     },
     "Lanturn": {
-        "Team Rocket 1 G-481": {
+        "Team Rocket 1 G-481 (Level 23)": {
             "level": "23",
             "ability": "Volt Absorb",
             "item": "None",
@@ -11984,7 +13664,7 @@ var SETDEX_SV = {
                 "Icy Wind"
             ]
         },
-        "Fisherman Gideon": {
+        "Fisherman Gideon (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "",
@@ -12012,7 +13692,7 @@ var SETDEX_SV = {
                 "Confuse Ray"
             ]
         },
-        "Leader 6 Misty": {
+        "Leader 6 Misty (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "None",
@@ -12042,7 +13722,7 @@ var SETDEX_SV = {
         }
     },
     "Electabuzz": {
-        "Team Rocket 1 G-484": {
+        "Team Rocket 1 G-484 (Level 26)": {
             "level": "26",
             "ability": "Motor Drive",
             "item": "Shuca Berry",
@@ -12070,7 +13750,7 @@ var SETDEX_SV = {
                 "Dual Chop"
             ]
         },
-        "Leader 7 Lt. Surge": {
+        "Leader 7 Lt. Surge (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -12098,7 +13778,7 @@ var SETDEX_SV = {
                 "Low Kick"
             ]
         },
-        "Double Team Zac & Jen": {
+        "Double Team Zac & Jen (Level 47)": {
             "level": "47",
             "ability": "0",
             "item": "",
@@ -12126,7 +13806,7 @@ var SETDEX_SV = {
                 "Low Kick"
             ]
         },
-        "Double Team Thom & Kae": {
+        "Double Team Thom & Kae (Level 25)": {
             "level": "25",
             "ability": "0",
             "item": "",
@@ -12156,7 +13836,7 @@ var SETDEX_SV = {
         }
     },
     "Charmander": {
-        "Ace Trainer M Nick": {
+        "Ace Trainer M Nick (Level 26)": {
             "level": "26",
             "ability": "0",
             "item": "",
@@ -12186,7 +13866,7 @@ var SETDEX_SV = {
         }
     },
     "Squirtle": {
-        "Ace Trainer M Nick": {
+        "Ace Trainer M Nick (Level 26)": {
             "level": "26",
             "ability": "0",
             "item": "",
@@ -12216,7 +13896,7 @@ var SETDEX_SV = {
         }
     },
     "Audino": {
-        "Beauty Cassie": {
+        "Beauty Cassie (Level 59)": {
             "level": "59",
             "ability": "Regenerator",
             "item": "Sitrus Berry",
@@ -12246,7 +13926,7 @@ var SETDEX_SV = {
         }
     },
     "Lickilicky": {
-        "Beauty Cassie": {
+        "Beauty Cassie (Level 57)": {
             "level": "57",
             "ability": "Thick Fat",
             "item": "Choice Band",
@@ -12274,7 +13954,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Ace Trainer F Salma": {
+        "Ace Trainer F Salma (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "None",
@@ -12304,7 +13984,7 @@ var SETDEX_SV = {
         }
     },
     "Lopunny": {
-        "Beauty Cassie": {
+        "Beauty Cassie (Level 59)": {
             "level": "59",
             "ability": "Limber",
             "item": "Focus Sash",
@@ -12334,7 +14014,7 @@ var SETDEX_SV = {
         }
     },
     "Sliggoo,": {
-        "Lass Connie": {
+        "Lass Connie (Level 22)": {
             "level": "22",
             "ability": "Gooey",
             "item": "Shuca Berry",
@@ -12364,7 +14044,7 @@ var SETDEX_SV = {
         }
     },
     "Metang": {
-        "Lass Connie": {
+        "Lass Connie (Level 22)": {
             "level": "22",
             "ability": "Clear Body",
             "item": "Life Orb",
@@ -12392,7 +14072,7 @@ var SETDEX_SV = {
                 "Psycho Cut"
             ]
         },
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 36)": {
             "level": "36",
             "ability": "Clear Body",
             "item": "Colbur Berry",
@@ -12422,7 +14102,7 @@ var SETDEX_SV = {
         }
     },
     "Electrode,": {
-        "Team Rocket G-495": {
+        "Team Rocket G-495 (Level 27)": {
             "level": "27",
             "ability": "Aftermath",
             "item": "Miracle Seed",
@@ -12450,7 +14130,7 @@ var SETDEX_SV = {
                 "Electroweb"
             ]
         },
-        "Scientist 1 Ross": {
+        "Scientist 1 Ross (Level 63)": {
             "level": "63",
             "ability": "Aftermath",
             "item": "Life Orb",
@@ -12480,7 +14160,7 @@ var SETDEX_SV = {
         }
     },
     "Raichu,": {
-        "Team Rocket G-495": {
+        "Team Rocket G-495 (Level 26)": {
             "level": "26",
             "ability": "Surge Surfer",
             "item": "Magnet",
@@ -12510,7 +14190,7 @@ var SETDEX_SV = {
         }
     },
     "Chatot": {
-        "Bird Keeper 1 Denis": {
+        "Bird Keeper 1 Denis (Level 23)": {
             "level": "23",
             "ability": "Big Pecks",
             "item": "None",
@@ -12540,7 +14220,7 @@ var SETDEX_SV = {
         }
     },
     "Fearow": {
-        "Bird Keeper 1 Denis": {
+        "Bird Keeper 1 Denis (Level 22)": {
             "level": "22",
             "ability": "Sniper",
             "item": "Scope Lens",
@@ -12570,7 +14250,7 @@ var SETDEX_SV = {
         }
     },
     "Emolga": {
-        "Bird Keeper 1 Denis": {
+        "Bird Keeper 1 Denis (Level 23)": {
             "level": "23",
             "ability": "Motor Drive",
             "item": "None",
@@ -12600,7 +14280,7 @@ var SETDEX_SV = {
         }
     },
     "Mr Mime": {
-        "Team Rocket G-504": {
+        "Team Rocket G-504 (Level 34)": {
             "level": "34",
             "ability": "Filter",
             "item": "Wise Glasses",
@@ -12628,7 +14308,7 @@ var SETDEX_SV = {
                 "Energy Ball"
             ]
         },
-        "Juggler Fritz": {
+        "Juggler Fritz (Level 37)": {
             "level": "37",
             "ability": "32",
             "item": "",
@@ -12656,7 +14336,7 @@ var SETDEX_SV = {
                 "Double Slap"
             ]
         },
-        "Psychic M Jared": {
+        "Psychic M Jared (Level 42)": {
             "level": "42",
             "ability": "32",
             "item": "",
@@ -12684,7 +14364,7 @@ var SETDEX_SV = {
                 "Light Screen"
             ]
         },
-        "School Kid M Chad": {
+        "School Kid M Chad (Level 46)": {
             "level": "46",
             "ability": "0",
             "item": "",
@@ -12712,7 +14392,7 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -12740,7 +14420,7 @@ var SETDEX_SV = {
                 "Encore"
             ]
         },
-        "Leader 10 Sabrina": {
+        "Leader 10 Sabrina (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "None",
@@ -12770,7 +14450,7 @@ var SETDEX_SV = {
         }
     },
     "Aromatisse": {
-        "Team Rocket G-504": {
+        "Team Rocket G-504 (Level 36)": {
             "level": "36",
             "ability": "Healer",
             "item": "Babiri Berry",
@@ -12800,7 +14480,7 @@ var SETDEX_SV = {
         }
     },
     "Azumarill": {
-        "Team Rocket G-504": {
+        "Team Rocket G-504 (Level 36)": {
             "level": "36",
             "ability": "Huge Power",
             "item": "Rindo Berry",
@@ -12828,7 +14508,7 @@ var SETDEX_SV = {
                 "Play Rough"
             ]
         },
-        "Swimmer F Chelan": {
+        "Swimmer F Chelan (Level 40)": {
             "level": "40",
             "ability": "32",
             "item": "",
@@ -12856,7 +14536,7 @@ var SETDEX_SV = {
                 "Dig"
             ]
         },
-        "Sailor Eddie": {
+        "Sailor Eddie (Level 48)": {
             "level": "48",
             "ability": "32",
             "item": "",
@@ -12884,7 +14564,7 @@ var SETDEX_SV = {
                 "Aqua Tail"
             ]
         },
-        "Double Team Elan & Ida": {
+        "Double Team Elan & Ida (Level 50)": {
             "level": "50",
             "ability": "32",
             "item": "None",
@@ -12914,7 +14594,7 @@ var SETDEX_SV = {
         }
     },
     "Swoobat": {
-        "Team Rocket G-521": {
+        "Team Rocket G-521 (Level 35)": {
             "level": "35",
             "ability": "Simple",
             "item": "Focus Sash",
@@ -12944,7 +14624,7 @@ var SETDEX_SV = {
         }
     },
     "Grumpig": {
-        "Team Rocket G-521": {
+        "Team Rocket G-521 (Level 36)": {
             "level": "36",
             "ability": "Gluttony",
             "item": "Custap Berry",
@@ -12972,7 +14652,7 @@ var SETDEX_SV = {
                 "Energy Ball"
             ]
         },
-        "Psychic M Herman": {
+        "Psychic M Herman (Level 34)": {
             "level": "34",
             "ability": "Thick Fat",
             "item": "Silk Scarf",
@@ -13000,7 +14680,7 @@ var SETDEX_SV = {
                 "Earth Power"
             ]
         },
-        "Elite Four 0 Will": {
+        "Elite Four 0 Will (Level 59)": {
             "level": "59",
             "ability": "0",
             "item": "None",
@@ -13030,7 +14710,7 @@ var SETDEX_SV = {
         }
     },
     "Florges": {
-        "Team Rocket G-521": {
+        "Team Rocket G-521 (Level 35)": {
             "level": "35",
             "ability": "Flower Veil",
             "item": "Sitrus Berry",
@@ -13060,7 +14740,7 @@ var SETDEX_SV = {
         }
     },
     "Alakazam": {
-        "Team Rocket G-534": {
+        "Team Rocket G-534 (Level 35)": {
             "level": "35",
             "ability": "Magic Guard",
             "item": "Focus Band",
@@ -13088,7 +14768,7 @@ var SETDEX_SV = {
                 "Energy Ball"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 48)": {
             "level": "48",
             "ability": "0",
             "item": "",
@@ -13116,7 +14796,7 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "School Kid M Tommy": {
+        "School Kid M Tommy (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -13144,7 +14824,7 @@ var SETDEX_SV = {
                 "Focus Blast"
             ]
         },
-        "Rival Jupiter": {
+        "Rival Jupiter (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "None",
@@ -13172,7 +14852,7 @@ var SETDEX_SV = {
                 "Reflect"
             ]
         },
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 75)": {
             "level": "75",
             "ability": "Trace",
             "item": "Alakazite",
@@ -13200,7 +14880,7 @@ var SETDEX_SV = {
                 "Nasty Plot"
             ]
         },
-        "Ace Trainer M French": {
+        "Ace Trainer M French (Level 47)": {
             "level": "47",
             "ability": "0",
             "item": "None",
@@ -13228,7 +14908,7 @@ var SETDEX_SV = {
                 "Charge Beam"
             ]
         },
-        "Young Couple Tim & Sue": {
+        "Young Couple Tim & Sue (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "",
@@ -13256,7 +14936,7 @@ var SETDEX_SV = {
                 "Recover"
             ]
         },
-        "Pkmn Trainer 6 Mira": {
+        "Pkmn Trainer 6 Mira (Level 65)": {
             "level": "65",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -13284,7 +14964,7 @@ var SETDEX_SV = {
                 "Hyper Beam"
             ]
         },
-        "Leader 10 Sabrina": {
+        "Leader 10 Sabrina (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -13314,7 +14994,7 @@ var SETDEX_SV = {
         }
     },
     "Slurpuff": {
-        "Team Rocket G-534": {
+        "Team Rocket G-534 (Level 36)": {
             "level": "36",
             "ability": "Unburden",
             "item": "Sitrus Berry",
@@ -13344,7 +15024,7 @@ var SETDEX_SV = {
         }
     },
     "Granbull": {
-        "Team Rocket G-534": {
+        "Team Rocket G-534 (Level 35)": {
             "level": "35",
             "ability": "Intimidate",
             "item": "Eject Button",
@@ -13374,7 +15054,7 @@ var SETDEX_SV = {
         }
     },
     "Meowstic": {
-        "Team Rocket G-547": {
+        "Team Rocket G-547 (Level 34)": {
             "level": "34",
             "ability": "Prankster",
             "item": "Light Clay",
@@ -13404,7 +15084,7 @@ var SETDEX_SV = {
         }
     },
     "Beheeyem": {
-        "Team Rocket G-547": {
+        "Team Rocket G-547 (Level 36)": {
             "level": "36",
             "ability": "Telepathy",
             "item": "Wise Glasses",
@@ -13434,7 +15114,7 @@ var SETDEX_SV = {
         }
     },
     "Gardevoir": {
-        "Team Rocket G-559": {
+        "Team Rocket G-559 (Level 36)": {
             "level": "36",
             "ability": "Trace",
             "item": "Babiri Berry",
@@ -13462,7 +15142,7 @@ var SETDEX_SV = {
                 "Mystical Fire"
             ]
         },
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 75)": {
             "level": "75",
             "ability": "Trace",
             "item": "Twisted Spoon",
@@ -13490,7 +15170,7 @@ var SETDEX_SV = {
                 "Destiny Bond"
             ]
         },
-        "Elite Four 0 Will": {
+        "Elite Four 0 Will (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -13520,7 +15200,7 @@ var SETDEX_SV = {
         }
     },
     "Sylveon": {
-        "Team Rocket G-559": {
+        "Team Rocket G-559 (Level 35)": {
             "level": "35",
             "ability": "Pixilate",
             "item": "Babiri Berry",
@@ -13550,7 +15230,7 @@ var SETDEX_SV = {
         }
     },
     "Gengar": {
-        "Team Rocket G-604": {
+        "Team Rocket G-604 (Level 47)": {
             "level": "47",
             "ability": "Cursed Body",
             "item": "Silk Scarf",
@@ -13578,7 +15258,7 @@ var SETDEX_SV = {
                 "Venoshock"
             ]
         },
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "None",
@@ -13606,7 +15286,35 @@ var SETDEX_SV = {
                 "Destiny Bond"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 48)": {
+            "level": "48",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mean Look",
+                "Curse",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
+        "Rival Jupiter (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "None",
@@ -13634,35 +15342,7 @@ var SETDEX_SV = {
                 "Confuse Ray"
             ]
         },
-        "Rival Jupiter": {
-            "level": "56",
-            "ability": "0",
-            "item": "None",
-            "nature": "",
-            "ivs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Dark Pulse",
-                "Sludge Bomb",
-                "Shadow Ball",
-                "Confuse Ray"
-            ]
-        },
-        "Pkmn Trainer 6 Mira": {
+        "Pkmn Trainer 6 Mira (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -13690,7 +15370,7 @@ var SETDEX_SV = {
                 "Energy Ball"
             ]
         },
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 57)": {
             "level": "57",
             "ability": "0",
             "item": "None",
@@ -13717,10 +15397,38 @@ var SETDEX_SV = {
                 "Thunderbolt",
                 "Destiny Bond"
             ]
+        },
+        "Rival Silver (Level 56)": {
+            "level": "56",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Dark Pulse",
+                "Sludge Bomb",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
         }
     },
     "Dragalge": {
-        "Team Rocket G-604": {
+        "Team Rocket G-604 (Level 46)": {
             "level": "46",
             "ability": "Poison Point",
             "item": "Toxic Orb",
@@ -13750,7 +15458,7 @@ var SETDEX_SV = {
         }
     },
     "Toxapex": {
-        "Team Rocket 1 G-603": {
+        "Team Rocket 1 G-603 (Level 47)": {
             "level": "47",
             "ability": "Poison Point",
             "item": "Leftovers",
@@ -13780,7 +15488,7 @@ var SETDEX_SV = {
         }
     },
     "Scolipede": {
-        "Team Rocket 1 G-603": {
+        "Team Rocket 1 G-603 (Level 48)": {
             "level": "48",
             "ability": "Speed Boost",
             "item": "Focus Sash",
@@ -13810,7 +15518,7 @@ var SETDEX_SV = {
         }
     },
     "Tentacruel": {
-        "Team Rocket 1 G-603": {
+        "Team Rocket 1 G-603 (Level 49)": {
             "level": "49",
             "ability": "Liquid Ooze",
             "item": "Wacan Berry",
@@ -13840,7 +15548,7 @@ var SETDEX_SV = {
         }
     },
     "Meowstic,": {
-        "Psychic M Franklin": {
+        "Psychic M Franklin (Level 34)": {
             "level": "34",
             "ability": "Competitive",
             "item": "Eject Button",
@@ -13870,7 +15578,7 @@ var SETDEX_SV = {
         }
     },
     "Spiritomb": {
-        "Psychic M Franklin": {
+        "Psychic M Franklin (Level 34)": {
             "level": "34",
             "ability": "Infiltrator",
             "item": "Red Card",
@@ -13898,7 +15606,7 @@ var SETDEX_SV = {
                 "Snarl"
             ]
         },
-        "Leader 10 Cynthia": {
+        "Leader 10 Cynthia (Level 75)": {
             "level": "75",
             "ability": "Filter",
             "item": "Leftovers",
@@ -13926,7 +15634,7 @@ var SETDEX_SV = {
                 "Hypnosis"
             ]
         },
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -13956,7 +15664,7 @@ var SETDEX_SV = {
         }
     },
     "Voltorb": {
-        "Guitarist Vincent": {
+        "Guitarist Vincent (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -13984,7 +15692,7 @@ var SETDEX_SV = {
                 "Screech"
             ]
         },
-        "Juggler Irwin": {
+        "Juggler Irwin (Level 40)": {
             "level": "40",
             "ability": "32",
             "item": "",
@@ -14014,7 +15722,7 @@ var SETDEX_SV = {
         }
     },
     "Magnemite": {
-        "Guitarist Vincent": {
+        "Guitarist Vincent (Level 42)": {
             "level": "42",
             "ability": "32",
             "item": "",
@@ -14042,7 +15750,63 @@ var SETDEX_SV = {
                 "Magnet Bomb"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 18)": {
+            "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunder Shock",
+                "Supersonic",
+                "Sonic Boom"
+            ]
+        },
+        "Rival Silver (Level 28)": {
+            "level": "28",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Supersonic",
+                "Spark",
+                "Sonic Boom",
+                "Thunder Wave"
+            ]
+        },
+        "Rival Silver (Level 30)": {
             "level": "30",
             "ability": "0",
             "item": "",
@@ -14070,7 +15834,7 @@ var SETDEX_SV = {
                 "Thunder Wave"
             ]
         },
-        "Super Nerd Shawn": {
+        "Super Nerd Shawn (Level 39)": {
             "level": "39",
             "ability": "0",
             "item": "None",
@@ -14100,7 +15864,7 @@ var SETDEX_SV = {
         }
     },
     "Tangela": {
-        "Ace Trainer M Shaye": {
+        "Ace Trainer M Shaye (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -14128,7 +15892,7 @@ var SETDEX_SV = {
                 "Ingrain"
             ]
         },
-        "Leader 8 Erika": {
+        "Leader 8 Erika (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -14156,7 +15920,7 @@ var SETDEX_SV = {
                 "Sleep Powder"
             ]
         },
-        "School Kid M Joe": {
+        "School Kid M Joe (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -14184,7 +15948,7 @@ var SETDEX_SV = {
                 ""
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -14214,7 +15978,7 @@ var SETDEX_SV = {
         }
     },
     "Tauros": {
-        "Ace Trainer M Shaye": {
+        "Ace Trainer M Shaye (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -14242,7 +16006,7 @@ var SETDEX_SV = {
                 "Scary Face"
             ]
         },
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 75)": {
             "level": "75",
             "ability": "Intimidate",
             "item": "Choice Band",
@@ -14270,7 +16034,7 @@ var SETDEX_SV = {
                 "High Horsepower"
             ]
         },
-        "Ace Trainer M Arabella": {
+        "Ace Trainer M Arabella (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "",
@@ -14300,7 +16064,7 @@ var SETDEX_SV = {
         }
     },
     "Electrode": {
-        "Ace Trainer F Carol": {
+        "Ace Trainer F Carol (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -14328,8 +16092,8 @@ var SETDEX_SV = {
                 "Rain Dance"
             ]
         },
-        "Leader 7 Lt. Surge": {
-            "level": "52",
+        "Leader 7 Lt. Surge (Level 47)": {
+            "level": "47",
             "ability": "32",
             "item": "None",
             "nature": "",
@@ -14350,13 +16114,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Thunder Wave",
+                "Screech",
                 "Double Team",
-                "Thunderbolt",
-                "Explosion"
+                "Self Destruct",
+                "Charge Beam"
             ]
         },
-        "Juggler Horton": {
+        "Juggler Horton (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -14384,7 +16148,7 @@ var SETDEX_SV = {
                 "Rollout"
             ]
         },
-        "School Kid M Jack": {
+        "School Kid M Jack (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -14412,7 +16176,7 @@ var SETDEX_SV = {
                 "Rollout"
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 35)": {
             "level": "35",
             "ability": "0",
             "item": "",
@@ -14440,7 +16204,35 @@ var SETDEX_SV = {
                 "Light Screen"
             ]
         },
-        "Juggler Irwin": {
+        "Juggler Irwin (Level 46)": {
+            "level": "46",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder",
+                "Screech",
+                "Charge Beam",
+                "Rain Dance"
+            ]
+        },
+        "Juggler Irwin (Level 51)": {
             "level": "51",
             "ability": "32",
             "item": "",
@@ -14468,7 +16260,7 @@ var SETDEX_SV = {
                 "Thunder Wave"
             ]
         },
-        "Pkmn Trainer 4 Marley": {
+        "Pkmn Trainer 4 Marley (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -14495,10 +16287,38 @@ var SETDEX_SV = {
                 "Thunder Wave",
                 "Double Team"
             ]
+        },
+        "Leader 7 Lt. Surge (Level 52)": {
+            "level": "52",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Double Team",
+                "Thunderbolt",
+                "Explosion"
+            ]
         }
     },
     "Starmie": {
-        "Ace Trainer F Carol": {
+        "Ace Trainer F Carol (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -14526,10 +16346,10 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "Leader 6 Misty": {
-            "level": "60",
+        "Leader 6 Misty (Level 54)": {
+            "level": "54",
             "ability": "32",
-            "item": "Colbur Berry",
+            "item": "Sitrus Berry",
             "nature": "",
             "ivs": {
                 "hp": 0,
@@ -14548,13 +16368,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Thunderbolt",
-                "Psychic",
-                "Ice Beam",
-                "Surf"
+                "Water Pulse",
+                "Confuse Ray",
+                "Recover",
+                "Ice Beam"
             ]
         },
-        "Swimmer F Lori": {
+        "Swimmer F Lori (Level 42)": {
             "level": "42",
             "ability": "32",
             "item": "",
@@ -14582,7 +16402,7 @@ var SETDEX_SV = {
                 "Blizzard"
             ]
         },
-        "Ace Trainer F Quinn": {
+        "Ace Trainer F Quinn (Level 47)": {
             "level": "47",
             "ability": "32",
             "item": "",
@@ -14610,7 +16430,7 @@ var SETDEX_SV = {
                 "Water Pulse"
             ]
         },
-        "Ace Trainer F Reena": {
+        "Ace Trainer F Reena (Level 56)": {
             "level": "56",
             "ability": "32",
             "item": "",
@@ -14637,10 +16457,38 @@ var SETDEX_SV = {
                 "Cosmic Power",
                 "Psychic"
             ]
+        },
+        "Leader 6 Misty (Level 60)": {
+            "level": "60",
+            "ability": "32",
+            "item": "Colbur Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunderbolt",
+                "Psychic",
+                "Ice Beam",
+                "Surf"
+            ]
         }
     },
     "Magmar": {
-        "Juggler Fritz": {
+        "Juggler Fritz (Level 37)": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -14668,7 +16516,7 @@ var SETDEX_SV = {
                 "Feint Attack"
             ]
         },
-        "Leader 11 Blaine": {
+        "Leader 11 Blaine (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "White Herb",
@@ -14696,7 +16544,7 @@ var SETDEX_SV = {
                 "Confuse Ray"
             ]
         },
-        "Young Couple Vic & Tara": {
+        "Young Couple Vic & Tara (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "",
@@ -14724,7 +16572,7 @@ var SETDEX_SV = {
                 "Fire Spin"
             ]
         },
-        "Scientist 1 Linden": {
+        "Scientist 1 Linden (Level 50)": {
             "level": "50",
             "ability": "0",
             "item": "",
@@ -14752,7 +16600,7 @@ var SETDEX_SV = {
                 "Feint Attack"
             ]
         },
-        "Double Team Thom & Kae": {
+        "Double Team Thom & Kae (Level 25)": {
             "level": "25",
             "ability": "0",
             "item": "",
@@ -14782,7 +16630,7 @@ var SETDEX_SV = {
         }
     },
     "Machoke": {
-        "Juggler Fritz": {
+        "Juggler Fritz (Level 37)": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -14810,7 +16658,7 @@ var SETDEX_SV = {
                 "Revenge"
             ]
         },
-        "Hiker Mickey": {
+        "Hiker Mickey (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -14840,7 +16688,7 @@ var SETDEX_SV = {
         }
     },
     "Tyrantrum": {
-        "Champion Lance": {
+        "Champion Lance (Level 66)": {
             "level": "66",
             "ability": "Rock Head",
             "item": "Haban Berry",
@@ -14870,7 +16718,35 @@ var SETDEX_SV = {
         }
     },
     "Dragonite": {
-        "Champion Lance": {
+        "Champion Lance (Level 70)": {
+            "level": "70",
+            "ability": "Multiscale",
+            "item": "Yache Berry",
+            "nature": "Impish",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Dragon Rush",
+                "Hurricane",
+                "Extreme Speed",
+                "Fire Punch"
+            ]
+        },
+        "Champion Lance (Level 75)": {
             "level": "75",
             "ability": "0",
             "item": "None",
@@ -14898,7 +16774,7 @@ var SETDEX_SV = {
                 "Hyper Beam"
             ]
         },
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -14928,7 +16804,7 @@ var SETDEX_SV = {
         }
     },
     "Aerodactyl": {
-        "Champion Lance": {
+        "Champion Lance (Level 68)": {
             "level": "68",
             "ability": "Unnerve",
             "item": "Power Herb",
@@ -14958,7 +16834,7 @@ var SETDEX_SV = {
         }
     },
     "Hydreigon": {
-        "Champion Lance": {
+        "Champion Lance (Level 68)": {
             "level": "68",
             "ability": "Levitate",
             "item": "Focus Sash",
@@ -14986,7 +16862,7 @@ var SETDEX_SV = {
                 "Thunder Wave"
             ]
         },
-        "Team Rocket 1 G-967": {
+        "Team Rocket 1 G-967 (Level 72)": {
             "level": "72",
             "ability": "Levitate",
             "item": "Life Orb",
@@ -15016,7 +16892,7 @@ var SETDEX_SV = {
         }
     },
     "Druddigon": {
-        "Champion Lance": {
+        "Champion Lance (Level 67)": {
             "level": "67",
             "ability": "Rough Skin",
             "item": "Rocky Helmet",
@@ -15046,8 +16922,36 @@ var SETDEX_SV = {
         }
     },
     "Xatu": {
-        "Elite Four 0 Will": {
-            "level": "62",
+        "Elite Four 0 Will (Level 40)": {
+            "level": "40",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "U Turn",
+                "Me First",
+                "Confuse Ray",
+                "Psychic"
+            ]
+        },
+        "Elite Four 0 Will (Level 42)": {
+            "level": "42",
             "ability": "32",
             "item": "Sitrus Berry",
             "nature": "",
@@ -15068,13 +16972,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Quick Attack",
-                "Shadow Ball",
+                "Aerial Ace",
+                "Ominous Wind",
                 "Confuse Ray",
                 "Psychic"
             ]
         },
-        "Psychic M Fidel": {
+        "Psychic M Fidel (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -15102,7 +17006,7 @@ var SETDEX_SV = {
                 "Me First"
             ]
         },
-        "School Kid M Tommy": {
+        "School Kid M Tommy (Level 41)": {
             "level": "41",
             "ability": "0",
             "item": "",
@@ -15130,7 +17034,7 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 35)": {
             "level": "35",
             "ability": "0",
             "item": "",
@@ -15157,10 +17061,66 @@ var SETDEX_SV = {
                 "Swift",
                 "Future Sight"
             ]
+        },
+        "Elite Four 0 Will (Level 62)": {
+            "level": "62",
+            "ability": "32",
+            "item": "Sitrus Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Shadow Ball",
+                "Confuse Ray",
+                "Psychic"
+            ]
         }
     },
     "Jynx": {
-        "Elite Four 0 Will": {
+        "Elite Four 0 Will (Level 41)": {
+            "level": "41",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Double Slap",
+                "Lovely Kiss",
+                "Ice Punch",
+                "Psychic"
+            ]
+        },
+        "Elite Four 0 Will (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -15188,7 +17148,7 @@ var SETDEX_SV = {
                 "Dream Eater"
             ]
         },
-        "Leader 10 Sabrina": {
+        "Leader 10 Sabrina (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "None",
@@ -15218,7 +17178,7 @@ var SETDEX_SV = {
         }
     },
     "Exeggutor": {
-        "Elite Four 0 Will": {
+        "Elite Four 0 Will (Level 41)": {
             "level": "41",
             "ability": "0",
             "item": "None",
@@ -15246,7 +17206,7 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "Picnicker Tanya": {
+        "Picnicker Tanya (Level 49)": {
             "level": "49",
             "ability": "0",
             "item": "",
@@ -15274,7 +17234,35 @@ var SETDEX_SV = {
                 "Hypnosis"
             ]
         },
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 75)": {
+            "level": "75",
+            "ability": "Chlorophyll",
+            "item": "Focus Sash",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Sunny Day",
+                "Leaf Storm",
+                "Psyshock",
+                "Weather Ball"
+            ]
+        },
+        "Leader 12 Blue (Level 67)": {
             "level": "67",
             "ability": "0",
             "item": "None",
@@ -15304,8 +17292,8 @@ var SETDEX_SV = {
         }
     },
     "Slowbro": {
-        "Elite Four 0 Will": {
-            "level": "60",
+        "Elite Four 0 Will (Level 41)": {
+            "level": "41",
             "ability": "32",
             "item": "None",
             "nature": "",
@@ -15328,11 +17316,11 @@ var SETDEX_SV = {
             "moves": [
                 "Curse",
                 "Amnesia",
-                "Body Slam",
+                "Water Pulse",
                 "Psychic"
             ]
         },
-        "Medium Darcy": {
+        "Medium Darcy (Level 46)": {
             "level": "46",
             "ability": "32",
             "item": "",
@@ -15360,7 +17348,7 @@ var SETDEX_SV = {
                 "Yawn"
             ]
         },
-        "Team Rocket G-931": {
+        "Team Rocket G-931 (Level 70)": {
             "level": "70",
             "ability": "Shell Armor",
             "item": "Sitrus Berry",
@@ -15387,10 +17375,38 @@ var SETDEX_SV = {
                 "Toxic",
                 "Aqua Ring"
             ]
+        },
+        "Elite Four 0 Will (Level 60)": {
+            "level": "60",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Curse",
+                "Amnesia",
+                "Body Slam",
+                "Psychic"
+            ]
         }
     },
     "Murkrow": {
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 44)": {
             "level": "44",
             "ability": "32",
             "item": "None",
@@ -15420,7 +17436,7 @@ var SETDEX_SV = {
         }
     },
     "Ariados": {
-        "Elite Four 2 Koga": {
+        "Elite Four 2 Koga (Level 40)": {
             "level": "40",
             "ability": "32",
             "item": "None",
@@ -15448,7 +17464,35 @@ var SETDEX_SV = {
                 "Giga Drain"
             ]
         },
-        "Leader 9 Janine": {
+        "Leader 9 Janine (Level 47)": {
+            "level": "47",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Pin Missile",
+                "Poison Jab",
+                "Swagger",
+                "Night Shade"
+            ]
+        },
+        "Leader 9 Janine (Level 58)": {
             "level": "58",
             "ability": "0",
             "item": "None",
@@ -15478,8 +17522,8 @@ var SETDEX_SV = {
         }
     },
     "Venomoth": {
-        "Elite Four 2 Koga": {
-            "level": "63",
+        "Elite Four 2 Koga (Level 41)": {
+            "level": "41",
             "ability": "0",
             "item": "None",
             "nature": "",
@@ -15500,14 +17544,14 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Double Team",
-                "Baton Pass",
+                "Supersonic",
+                "Gust",
                 "Psychic",
-                "Silver Wind"
+                "Toxic"
             ]
         },
-        "Leader 9 Janine": {
-            "level": "59",
+        "Leader 9 Janine (Level 50)": {
+            "level": "50",
             "ability": "0",
             "item": "Sitrus Berry",
             "nature": "",
@@ -15528,13 +17572,41 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Sleep Powder",
+                "Sludge Bomb",
                 "Double Team",
-                "Bug Buzz",
+                "Signal Beam",
                 "Psychic"
             ]
         },
-        "Bug Catcher Arnie": {
+        "Bug Catcher Arnie (Level 43)": {
+            "level": "43",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Disable",
+                "Supersonic",
+                "Confusion",
+                "Leech Life"
+            ]
+        },
+        "Bug Catcher Arnie (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "",
@@ -15562,7 +17634,7 @@ var SETDEX_SV = {
                 "Signal Beam"
             ]
         },
-        "Bug Catcher Mickey": {
+        "Bug Catcher Mickey (Level 40)": {
             "level": "40",
             "ability": "0",
             "item": "",
@@ -15589,10 +17661,66 @@ var SETDEX_SV = {
                 "Psychic",
                 "Toxic"
             ]
+        },
+        "Elite Four 2 Koga (Level 63)": {
+            "level": "63",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Double Team",
+                "Baton Pass",
+                "Psychic",
+                "Silver Wind"
+            ]
+        },
+        "Leader 9 Janine (Level 59)": {
+            "level": "59",
+            "ability": "0",
+            "item": "Sitrus Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Sleep Powder",
+                "Double Team",
+                "Bug Buzz",
+                "Psychic"
+            ]
         }
     },
     "Forretress": {
-        "Elite Four 2 Koga": {
+        "Elite Four 2 Koga (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "None",
@@ -15622,8 +17750,8 @@ var SETDEX_SV = {
         }
     },
     "Muk": {
-        "Elite Four 2 Koga": {
-            "level": "62",
+        "Elite Four 2 Koga (Level 42)": {
+            "level": "42",
             "ability": "32",
             "item": "Black Sludge",
             "nature": "",
@@ -15646,11 +17774,11 @@ var SETDEX_SV = {
             "moves": [
                 "Minimize",
                 "Screech",
-                "Swagger",
+                "Gunk Shot",
                 "Toxic"
             ]
         },
-        "Super Nerd Sam": {
+        "Super Nerd Sam (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "Toxic Orb",
@@ -15678,7 +17806,7 @@ var SETDEX_SV = {
                 ""
             ]
         },
-        "Super Nerd Shawn": {
+        "Super Nerd Shawn (Level 41)": {
             "level": "41",
             "ability": "0",
             "item": "Nugget",
@@ -15705,13 +17833,41 @@ var SETDEX_SV = {
                 "",
                 ""
             ]
+        },
+        "Elite Four 2 Koga (Level 62)": {
+            "level": "62",
+            "ability": "32",
+            "item": "Black Sludge",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Minimize",
+                "Screech",
+                "Swagger",
+                "Toxic"
+            ]
         }
     },
     "Crobat": {
-        "Elite Four 2 Koga": {
-            "level": "64",
+        "Elite Four 2 Koga (Level 44)": {
+            "level": "44",
             "ability": "0",
-            "item": "None",
+            "item": "Sitrus Berry",
             "nature": "",
             "ivs": {
                 "hp": 0,
@@ -15730,14 +17886,14 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Toxic",
-                "Mean Look",
-                "Fly",
-                "Cross Poison"
+                "Double Team",
+                "Quick Attack",
+                "Wing Attack",
+                "Poison Fang"
             ]
         },
-        "Leader 9 Janine": {
-            "level": "52",
+        "Leader 9 Janine (Level 47)": {
+            "level": "47",
             "ability": "0",
             "item": "None",
             "nature": "",
@@ -15758,13 +17914,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Heat Wave",
-                "Cross Poison",
+                "Screech",
+                "Supersonic",
                 "Confuse Ray",
-                "U Turn"
+                "Wing Attack"
             ]
         },
-        "Ace Trainer M Kevin": {
+        "Ace Trainer M Kevin (Level 45)": {
             "level": "45",
             "ability": "Inner Focus",
             "item": "Focus Sash",
@@ -15792,7 +17948,7 @@ var SETDEX_SV = {
                 "Air Slash"
             ]
         },
-        "Rival Jupiter": {
+        "Rival Jupiter (Level 58)": {
             "level": "58",
             "ability": "0",
             "item": "None",
@@ -15820,7 +17976,7 @@ var SETDEX_SV = {
                 "Air Cutter"
             ]
         },
-        "Pkmn Trainer 4 Marley": {
+        "Pkmn Trainer 4 Marley (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -15848,7 +18004,63 @@ var SETDEX_SV = {
                 "Double Team"
             ]
         },
-        "Rival Silver": {
+        "Elite Four 2 Koga (Level 64)": {
+            "level": "64",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Toxic",
+                "Mean Look",
+                "Fly",
+                "Cross Poison"
+            ]
+        },
+        "Leader 9 Janine (Level 52)": {
+            "level": "52",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Heat Wave",
+                "Cross Poison",
+                "Confuse Ray",
+                "U Turn"
+            ]
+        },
+        "Rival Silver (Level 58)": {
             "level": "58",
             "ability": "0",
             "item": "None",
@@ -15878,7 +18090,7 @@ var SETDEX_SV = {
         }
     },
     "Throh": {
-        "Black Belt Nob": {
+        "Black Belt Nob (Level 29)": {
             "level": "29",
             "ability": "Guts",
             "item": "Flame Orb",
@@ -15908,7 +18120,7 @@ var SETDEX_SV = {
         }
     },
     "Sawk": {
-        "Black Belt Nob": {
+        "Black Belt Nob (Level 30)": {
             "level": "30",
             "ability": "Sturdy",
             "item": "Expert Belt",
@@ -15938,7 +18150,7 @@ var SETDEX_SV = {
         }
     },
     "Hariyama": {
-        "Black Belt Nob": {
+        "Black Belt Nob (Level 29)": {
             "level": "29",
             "ability": "Thick Fat",
             "item": "Leftovers",
@@ -15966,7 +18178,7 @@ var SETDEX_SV = {
                 "Thunder Punch"
             ]
         },
-        "Pkmn Trainer 2 Cheryl": {
+        "Pkmn Trainer 2 Cheryl (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -15994,7 +18206,7 @@ var SETDEX_SV = {
                 "Stone Edge"
             ]
         },
-        "Elite Four 3 Bruno": {
+        "Elite Four 3 Bruno (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -16024,7 +18236,7 @@ var SETDEX_SV = {
         }
     },
     "Geodude": {
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 6)": {
             "level": "6",
             "ability": "Rock Head",
             "item": "None",
@@ -16054,7 +18266,7 @@ var SETDEX_SV = {
         }
     },
     "Roggenrola": {
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 6)": {
             "level": "6",
             "ability": "Sturdy",
             "item": "None",
@@ -16084,7 +18296,7 @@ var SETDEX_SV = {
         }
     },
     "Dwebble": {
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 6)": {
             "level": "6",
             "ability": "Sturdy",
             "item": "None",
@@ -16114,7 +18326,7 @@ var SETDEX_SV = {
         }
     },
     "Cranidos": {
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 6)": {
             "level": "6",
             "ability": "Mold Breaker",
             "item": "Shell Bell",
@@ -16144,8 +18356,8 @@ var SETDEX_SV = {
         }
     },
     "Lapras": {
-        "Leader 6 Misty": {
-            "level": "56",
+        "Leader 6 Misty (Level 52)": {
+            "level": "52",
             "ability": "0",
             "item": "None",
             "nature": "",
@@ -16166,13 +18378,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Surf",
-                "Perish Song",
-                "Blizzard",
-                "Rain Dance"
+                "Water Pulse",
+                "Sing",
+                "Ice Beam",
+                "Body Slam"
             ]
         },
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Water Absorb",
             "item": "Leftovers",
@@ -16199,10 +18411,66 @@ var SETDEX_SV = {
                 "Horn Drill",
                 "Calm Mind"
             ]
+        },
+        "Leader 6 Misty (Level 56)": {
+            "level": "56",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Surf",
+                "Perish Song",
+                "Blizzard",
+                "Rain Dance"
+            ]
         }
     },
     "Raichu": {
-        "Leader 7 Lt. Surge": {
+        "Leader 7 Lt. Surge (Level 51)": {
+            "level": "51",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Quick Attack",
+                "Shock Wave",
+                "Double Team"
+            ]
+        },
+        "Leader 7 Lt. Surge (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -16232,8 +18500,8 @@ var SETDEX_SV = {
         }
     },
     "Jumpluff": {
-        "Leader 8 Erika": {
-            "level": "53",
+        "Leader 8 Erika (Level 51)": {
+            "level": "51",
             "ability": "0",
             "item": "None",
             "nature": "",
@@ -16255,12 +18523,12 @@ var SETDEX_SV = {
             },
             "moves": [
                 "U Turn",
-                "Memento",
-                "Sleep Powder",
+                "Leech Seed",
+                "Sunny Day",
                 "Giga Drain"
             ]
         },
-        "Lass Michelle": {
+        "Lass Michelle (Level 46)": {
             "level": "46",
             "ability": "0",
             "item": "",
@@ -16288,7 +18556,7 @@ var SETDEX_SV = {
                 "Sunny Day"
             ]
         },
-        "Picnicker Mickey": {
+        "Picnicker Mickey (Level 33)": {
             "level": "33",
             "ability": "0",
             "item": "",
@@ -16315,10 +18583,38 @@ var SETDEX_SV = {
                 "Leech Seed",
                 "Cotton Spore"
             ]
+        },
+        "Leader 8 Erika (Level 53)": {
+            "level": "53",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "U Turn",
+                "Memento",
+                "Sleep Powder",
+                "Giga Drain"
+            ]
         }
     },
     "Bellossom": {
-        "Leader 8 Erika": {
+        "Leader 8 Erika (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "None",
@@ -16346,7 +18642,7 @@ var SETDEX_SV = {
                 "Attract"
             ]
         },
-        "Lass Laura": {
+        "Lass Laura (Level 41)": {
             "level": "41",
             "ability": "0",
             "item": "None",
@@ -16376,8 +18672,8 @@ var SETDEX_SV = {
         }
     },
     "Weezing": {
-        "Leader 9 Janine": {
-            "level": "56",
+        "Leader 9 Janine (Level 44)": {
+            "level": "44",
             "ability": "0",
             "item": "None",
             "nature": "",
@@ -16398,13 +18694,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Thunderbolt",
+                "Double Hit",
                 "Sludge Bomb",
                 "Toxic",
                 "Explosion"
             ]
         },
-        "Firebreather Burt": {
+        "Firebreather Burt (Level 42)": {
             "level": "42",
             "ability": "0",
             "item": "",
@@ -16432,7 +18728,7 @@ var SETDEX_SV = {
                 "Sludge"
             ]
         },
-        "Biker Reese": {
+        "Biker Reese (Level 48)": {
             "level": "48",
             "ability": "0",
             "item": "",
@@ -16459,10 +18755,38 @@ var SETDEX_SV = {
                 "Smokescreen",
                 "Assurance"
             ]
+        },
+        "Leader 9 Janine (Level 56)": {
+            "level": "56",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunderbolt",
+                "Sludge Bomb",
+                "Toxic",
+                "Explosion"
+            ]
         }
     },
     "Dragapult": {
-        "Leader 10 Cynthia": {
+        "Leader 10 Cynthia (Level 69)": {
             "level": "69",
             "ability": "Clear Body",
             "item": "Light Clay",
@@ -16492,7 +18816,35 @@ var SETDEX_SV = {
         }
     },
     "Roserade": {
-        "Leader 10 Cynthia": {
+        "Leader 10 Cynthia (Level 67)": {
+            "level": "67",
+            "ability": "Poison Point",
+            "item": "Focus Sash",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Petal Dance",
+                "Sludge Bomb",
+                "Dazzling Gleam",
+                "Toxic Spikes"
+            ]
+        },
+        "Leader 10 Cynthia (Level 75)": {
             "level": "75",
             "ability": "Technician",
             "item": "Focus Sash",
@@ -16520,7 +18872,7 @@ var SETDEX_SV = {
                 "Grass Whistle"
             ]
         },
-        "Pkmn Trainer 14 Cynthia": {
+        "Pkmn Trainer 14 Cynthia (Level 26)": {
             "level": "26",
             "ability": "Poison Point",
             "item": "Oran Berry",
@@ -16548,7 +18900,7 @@ var SETDEX_SV = {
                 "Leech Seed"
             ]
         },
-        "Leader 8 Erika": {
+        "Leader 8 Erika (Level 55)": {
             "level": "55",
             "ability": "0",
             "item": "None",
@@ -16578,7 +18930,35 @@ var SETDEX_SV = {
         }
     },
     "Lucario": {
-        "Leader 10 Cynthia": {
+        "Leader 10 Cynthia (Level 69)": {
+            "level": "69",
+            "ability": "Inner Focus",
+            "item": "Shuca Berry",
+            "nature": "Jolly",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Close Combat",
+                "Meteor Mash",
+                "Earthquake",
+                "Protect"
+            ]
+        },
+        "Leader 10 Cynthia (Level 75)": {
             "level": "75",
             "ability": "Inner Focus",
             "item": "Air Balloon",
@@ -16606,7 +18986,7 @@ var SETDEX_SV = {
                 "Swords Dance"
             ]
         },
-        "Battle Girl Jenny": {
+        "Battle Girl Jenny (Level 58)": {
             "level": "58",
             "ability": "Inner Focus",
             "item": "Life Orb",
@@ -16634,7 +19014,7 @@ var SETDEX_SV = {
                 "Nasty Plot"
             ]
         },
-        "Pkmn Trainer 3 Riley": {
+        "Pkmn Trainer 3 Riley (Level 65)": {
             "level": "65",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -16662,7 +19042,7 @@ var SETDEX_SV = {
                 "Blaze Kick"
             ]
         },
-        "Pkmn Trainer 14 Cynthia": {
+        "Pkmn Trainer 14 Cynthia (Level 25)": {
             "level": "25",
             "ability": "Inner Focus",
             "item": "Oran Berry",
@@ -16690,7 +19070,7 @@ var SETDEX_SV = {
                 "Vacuum Wave"
             ]
         },
-        "Elite Four 3 Bruno": {
+        "Elite Four 3 Bruno (Level 64)": {
             "level": "64",
             "ability": "32",
             "item": "None",
@@ -16720,7 +19100,35 @@ var SETDEX_SV = {
         }
     },
     "Garchomp": {
-        "Leader 10 Cynthia": {
+        "Leader 10 Cynthia (Level 70)": {
+            "level": "70",
+            "ability": "Rough Skin",
+            "item": "Garchompite",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 252,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Outrage",
+                "Earthquake",
+                "Rock Slide",
+                "Swords Dance"
+            ]
+        },
+        "Leader 10 Cynthia (Level 75)": {
             "level": "75",
             "ability": "Rough Skin",
             "item": "Garchompite",
@@ -16748,7 +19156,7 @@ var SETDEX_SV = {
                 "Swords Dance"
             ]
         },
-        "Champion Lance": {
+        "Champion Lance (Level 72)": {
             "level": "72",
             "ability": "0",
             "item": "None",
@@ -16778,10 +19186,10 @@ var SETDEX_SV = {
         }
     },
     "Magcargo": {
-        "Leader 11 Blaine": {
-            "level": "58",
-            "ability": "0",
-            "item": "None",
+        "Leader 11 Blaine (Level 54)": {
+            "level": "54",
+            "ability": "32",
+            "item": "White Herb",
             "nature": "",
             "ivs": {
                 "hp": 0,
@@ -16800,13 +19208,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Curse",
-                "Gyro Ball",
+                "Sunny Day",
+                "Smog",
                 "Overheat",
-                "Stone Edge"
+                "Rock Slide"
             ]
         },
-        "Firebreather Burt": {
+        "Firebreather Burt (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "",
@@ -16834,7 +19242,7 @@ var SETDEX_SV = {
                 "Recover"
             ]
         },
-        "Camper Mickey": {
+        "Camper Mickey (Level 36)": {
             "level": "36",
             "ability": "0",
             "item": "",
@@ -16862,7 +19270,7 @@ var SETDEX_SV = {
                 "Flamethrower"
             ]
         },
-        "Super Nerd Merle": {
+        "Super Nerd Merle (Level 53)": {
             "level": "53",
             "ability": "32",
             "item": "",
@@ -16890,7 +19298,7 @@ var SETDEX_SV = {
                 "Recover"
             ]
         },
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 34)": {
             "level": "34",
             "ability": "Flame Body",
             "item": "Shuca Berry",
@@ -16917,10 +19325,66 @@ var SETDEX_SV = {
                 "Earth Power",
                 "Explosion"
             ]
+        },
+        "Leader 11 Blaine (Level 58)": {
+            "level": "58",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Curse",
+                "Gyro Ball",
+                "Overheat",
+                "Stone Edge"
+            ]
         }
     },
     "Butterfree": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 20)": {
+            "level": "20",
+            "ability": "Compound Eyes",
+            "item": "Berry Juice",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Air Cutter",
+                "Silver Wind",
+                "Electroweb",
+                "Roost"
+            ]
+        },
+        "Pkmn Trainer 9 Red (Level 45)": {
             "level": "45",
             "ability": "Compound Eyes",
             "item": "Charti Berry",
@@ -16948,7 +19412,35 @@ var SETDEX_SV = {
                 "Air Slash"
             ]
         },
-        "Bug Catcher Wade": {
+        "Bug Catcher Wade (Level 29)": {
+            "level": "29",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Psybeam",
+                "Silver Wind",
+                "Supersonic",
+                "Whirlwind"
+            ]
+        },
+        "Bug Catcher Wade (Level 36)": {
             "level": "36",
             "ability": "0",
             "item": "",
@@ -16976,7 +19468,63 @@ var SETDEX_SV = {
                 "Tailwind"
             ]
         },
-        "Bug Catcher Mickey": {
+        "Bug Catcher Wade (Level 52)": {
+            "level": "52",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bug Buzz",
+                "Stun Spore",
+                "Captivate",
+                "Tailwind"
+            ]
+        },
+        "Bug Catcher Mickey (Level 30)": {
+            "level": "30",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Confusion",
+                "Stun Spore",
+                "Supersonic",
+                "Gust"
+            ]
+        },
+        "Bug Catcher Mickey (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -17006,7 +19554,7 @@ var SETDEX_SV = {
         }
     },
     "Pidgeotto": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 19)": {
             "level": "19",
             "ability": "Keen Eye",
             "item": "Sharp Beak",
@@ -17034,7 +19582,7 @@ var SETDEX_SV = {
                 "Tailwind"
             ]
         },
-        "Lass Laura": {
+        "Lass Laura (Level 41)": {
             "level": "41",
             "ability": "32",
             "item": "None",
@@ -17064,7 +19612,7 @@ var SETDEX_SV = {
         }
     },
     "Charmeleon": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 21)": {
             "level": "21",
             "ability": "Blaze",
             "item": "Choice Band",
@@ -17094,7 +19642,7 @@ var SETDEX_SV = {
         }
     },
     "Rhydon": {
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 20)": {
             "level": "20",
             "ability": "Solid Rock",
             "item": "Passho Berry",
@@ -17122,7 +19670,7 @@ var SETDEX_SV = {
                 "Accelerock"
             ]
         },
-        "Camper Jerry": {
+        "Camper Jerry (Level 50)": {
             "level": "50",
             "ability": "32",
             "item": "",
@@ -17152,7 +19700,7 @@ var SETDEX_SV = {
         }
     },
     "Kadabra": {
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 19)": {
             "level": "19",
             "ability": "Magic Guard",
             "item": "Wise Glasses",
@@ -17180,7 +19728,7 @@ var SETDEX_SV = {
                 "Hidden Power"
             ]
         },
-        "Rival Silver": {
+        "Rival Silver (Level 37)": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -17208,7 +19756,7 @@ var SETDEX_SV = {
                 "Reflect"
             ]
         },
-        "Psychic M Mark": {
+        "Psychic M Mark (Level 16)": {
             "level": "16",
             "ability": "0",
             "item": "",
@@ -17236,7 +19784,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Young Couple Tim & Sue": {
+        "Young Couple Tim & Sue (Level 48)": {
             "level": "48",
             "ability": "0",
             "item": "",
@@ -17266,7 +19814,7 @@ var SETDEX_SV = {
         }
     },
     "Blastoise": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 43)": {
             "level": "43",
             "ability": "Torrent",
             "item": "Leftovers",
@@ -17296,7 +19844,7 @@ var SETDEX_SV = {
         }
     },
     "Charizard": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 43)": {
             "level": "43",
             "ability": "Blaze",
             "item": "Focus Sash",
@@ -17324,7 +19872,7 @@ var SETDEX_SV = {
                 "Solar Beam"
             ]
         },
-        "Champion Lance": {
+        "Champion Lance (Level 68)": {
             "level": "68",
             "ability": "0",
             "item": "None",
@@ -17354,7 +19902,7 @@ var SETDEX_SV = {
         }
     },
     "Gastly": {
-        "Rival Silver": {
+        "Rival Silver (Level 20)": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -17382,7 +19930,7 @@ var SETDEX_SV = {
                 "Curse"
             ]
         },
-        "Medium Georgina": {
+        "Medium Georgina (Level 16)": {
             "level": "16",
             "ability": "Levitate",
             "item": "Iron Ball",
@@ -17412,7 +19960,7 @@ var SETDEX_SV = {
         }
     },
     "Zubat": {
-        "Rival Silver": {
+        "Rival Silver (Level 20)": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -17442,7 +19990,7 @@ var SETDEX_SV = {
         }
     },
     "Bayleef": {
-        "Rival Silver": {
+        "Rival Silver (Level 22)": {
             "level": "22",
             "ability": "0",
             "item": "",
@@ -17472,7 +20020,91 @@ var SETDEX_SV = {
         }
     },
     "Golbat": {
-        "Rival Silver": {
+        "Rival Silver (Level 38)": {
+            "level": "38",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Astonish",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 30)": {
+            "level": "30",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Astonish",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 47)": {
+            "level": "47",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Poison Fang",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -17502,7 +20134,35 @@ var SETDEX_SV = {
         }
     },
     "Quilava": {
-        "Rival Silver": {
+        "Rival Silver (Level 22)": {
+            "level": "22",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Flame Wheel",
+                "Smokescreen",
+                "Ember",
+                "Quick Attack"
+            ]
+        },
+        "Rival Silver (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -17532,7 +20192,63 @@ var SETDEX_SV = {
         }
     },
     "Typhlosion": {
-        "Rival Silver": {
+        "Rival Silver (Level 40)": {
+            "level": "40",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Lava Plume",
+                "Swift",
+                "Quick Attack",
+                "Flame Wheel"
+            ]
+        },
+        "Rival Silver (Level 50)": {
+            "level": "50",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Flamethrower",
+                "Quick Attack",
+                "Flame Wheel",
+                "Swift"
+            ]
+        },
+        "Rival Silver (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -17562,7 +20278,7 @@ var SETDEX_SV = {
         }
     },
     "Croconaw": {
-        "Rival Silver": {
+        "Rival Silver (Level 22)": {
             "level": "22",
             "ability": "0",
             "item": "",
@@ -17592,7 +20308,91 @@ var SETDEX_SV = {
         }
     },
     "Feraligatr": {
-        "Rival Silver": {
+        "Rival Silver (Level 32)": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Ice Fang",
+                "Water Gun",
+                "Crunch",
+                "Thrash"
+            ]
+        },
+        "Rival Silver (Level 40)": {
+            "level": "40",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Waterfall",
+                "Ice Fang",
+                "Crunch",
+                "Slash"
+            ]
+        },
+        "Rival Silver (Level 50)": {
+            "level": "50",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Waterfall",
+                "Ice Fang",
+                "Crunch",
+                "Slash"
+            ]
+        },
+        "Rival Jupiter (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -17620,35 +20420,7 @@ var SETDEX_SV = {
                 "Ice Fang"
             ]
         },
-        "Rival Jupiter": {
-            "level": "60",
-            "ability": "0",
-            "item": "None",
-            "nature": "",
-            "ivs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Crunch",
-                "Aqua Tail",
-                "Slash",
-                "Ice Fang"
-            ]
-        },
-        "Team Rocket G-671": {
+        "Team Rocket G-671 (Level 51)": {
             "level": "51",
             "ability": "Rough Skin",
             "item": "Rocky Helmet",
@@ -17675,10 +20447,38 @@ var SETDEX_SV = {
                 "Dynamic Punch",
                 "Ice Punch"
             ]
+        },
+        "Rival Silver (Level 60)": {
+            "level": "60",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Crunch",
+                "Aqua Tail",
+                "Slash",
+                "Ice Fang"
+            ]
         }
     },
     "Bidoof": {
-        "Youngster Joey": {
+        "Youngster Joey (Level 100)": {
             "level": "100",
             "ability": "Sturdy",
             "item": "Bright Powder",
@@ -17708,7 +20508,35 @@ var SETDEX_SV = {
         }
     },
     "Raticate": {
-        "Youngster Joey": {
+        "Youngster Joey (Level 40)": {
+            "level": "40",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Super Fang",
+                "Quick Attack",
+                "Hyper Fang",
+                "Scary Face"
+            ]
+        },
+        "Youngster Joey (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "",
@@ -17736,7 +20564,7 @@ var SETDEX_SV = {
                 "Endeavor"
             ]
         },
-        "Youngster Mickey": {
+        "Youngster Mickey (Level 37)": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -17766,7 +20594,7 @@ var SETDEX_SV = {
         }
     },
     "Koffing": {
-        "Burglar Orson": {
+        "Burglar Orson (Level 24)": {
             "level": "24",
             "ability": "0",
             "item": "",
@@ -17796,7 +20624,7 @@ var SETDEX_SV = {
         }
     },
     "Hypno": {
-        "Psychic M Herman": {
+        "Psychic M Herman (Level 35)": {
             "level": "35",
             "ability": "Bad Dreams",
             "item": "Lum Berry",
@@ -17824,7 +20652,7 @@ var SETDEX_SV = {
                 "Focus Punch"
             ]
         },
-        "Medium Rebecca": {
+        "Medium Rebecca (Level 45)": {
             "level": "45",
             "ability": "32",
             "item": "",
@@ -17854,7 +20682,7 @@ var SETDEX_SV = {
         }
     },
     "Liepard": {
-        "Psychic M Herman": {
+        "Psychic M Herman (Level 34)": {
             "level": "34",
             "ability": "Prankster",
             "item": "Chople Berry",
@@ -17884,7 +20712,7 @@ var SETDEX_SV = {
         }
     },
     "Oddish": {
-        "School Kid M Dudley": {
+        "School Kid M Dudley (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -17914,7 +20742,7 @@ var SETDEX_SV = {
         }
     },
     "Electrike": {
-        "Gentleman Gregory": {
+        "Gentleman Gregory (Level 42)": {
             "level": "42",
             "ability": "0",
             "item": "",
@@ -17944,7 +20772,7 @@ var SETDEX_SV = {
         }
     },
     "Paras": {
-        "Beauty Julia": {
+        "Beauty Julia (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "",
@@ -17974,7 +20802,7 @@ var SETDEX_SV = {
         }
     },
     "Carnivine": {
-        "Beauty Julia": {
+        "Beauty Julia (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "",
@@ -18004,7 +20832,7 @@ var SETDEX_SV = {
         }
     },
     "Probopass": {
-        "Team Rocket G-620": {
+        "Team Rocket G-620 (Level 48)": {
             "level": "48",
             "ability": "Sturdy",
             "item": "Custap Berry",
@@ -18034,7 +20862,7 @@ var SETDEX_SV = {
         }
     },
     "Kleavor": {
-        "Team Rocket G-620": {
+        "Team Rocket G-620 (Level 49)": {
             "level": "49",
             "ability": "Swarm",
             "item": "Focus Sash",
@@ -18064,7 +20892,7 @@ var SETDEX_SV = {
         }
     },
     "Gigalith": {
-        "Team Rocket G-620": {
+        "Team Rocket G-620 (Level 48)": {
             "level": "48",
             "ability": "Sand Stream",
             "item": "Passho Berry",
@@ -18094,7 +20922,7 @@ var SETDEX_SV = {
         }
     },
     "Skiploom": {
-        "Lass Michelle": {
+        "Lass Michelle (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "",
@@ -18122,7 +20950,7 @@ var SETDEX_SV = {
                 "Sunny Day"
             ]
         },
-        "Beauty Valerie": {
+        "Beauty Valerie (Level 18)": {
             "level": "18",
             "ability": "32",
             "item": "",
@@ -18152,7 +20980,7 @@ var SETDEX_SV = {
         }
     },
     "Hoppip": {
-        "Lass Michelle": {
+        "Lass Michelle (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "",
@@ -18180,7 +21008,7 @@ var SETDEX_SV = {
                 "Bounce"
             ]
         },
-        "Beauty Valerie": {
+        "Beauty Valerie (Level 18)": {
             "level": "18",
             "ability": "0",
             "item": "",
@@ -18210,7 +21038,7 @@ var SETDEX_SV = {
         }
     },
     "Chandelure": {
-        "Ace Trainer M Kevin": {
+        "Ace Trainer M Kevin (Level 45)": {
             "level": "45",
             "ability": "Flame Body",
             "item": "Charcoal",
@@ -18238,7 +21066,7 @@ var SETDEX_SV = {
                 "Giga Drain"
             ]
         },
-        "Team Rocket 1 G-971": {
+        "Team Rocket 1 G-971 (Level 73)": {
             "level": "73",
             "ability": "Flash Fire",
             "item": "Choice Scarf",
@@ -18268,7 +21096,7 @@ var SETDEX_SV = {
         }
     },
     "Grimer": {
-        "Super Nerd Sam": {
+        "Super Nerd Sam (Level 44)": {
             "level": "44",
             "ability": "0",
             "item": "None",
@@ -18298,7 +21126,7 @@ var SETDEX_SV = {
         }
     },
     "Bronzor": {
-        "Medium Rebecca": {
+        "Medium Rebecca (Level 45)": {
             "level": "45",
             "ability": "32",
             "item": "",
@@ -18326,7 +21154,7 @@ var SETDEX_SV = {
                 "Gyro Ball"
             ]
         },
-        "Gentleman Alfred": {
+        "Gentleman Alfred (Level 21)": {
             "level": "21",
             "ability": "Levitate",
             "item": "Lax Incense",
@@ -18356,7 +21184,7 @@ var SETDEX_SV = {
         }
     },
     "Octillery": {
-        "Swimmer M Tyson": {
+        "Swimmer M Tyson (Level 42)": {
             "level": "42",
             "ability": "32",
             "item": "",
@@ -18386,7 +21214,7 @@ var SETDEX_SV = {
         }
     },
     "Seadra": {
-        "Swimmer M Parker": {
+        "Swimmer M Parker (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -18414,7 +21242,7 @@ var SETDEX_SV = {
                 "Agility"
             ]
         },
-        "Super Nerd Hugh": {
+        "Super Nerd Hugh (Level 39)": {
             "level": "39",
             "ability": "0",
             "item": "",
@@ -18444,7 +21272,7 @@ var SETDEX_SV = {
         }
     },
     "Drowzee": {
-        "Psychic M Greg": {
+        "Psychic M Greg (Level 17)": {
             "level": "17",
             "ability": "0",
             "item": "",
@@ -18474,7 +21302,7 @@ var SETDEX_SV = {
         }
     },
     "Lickitung": {
-        "Poke Maniac Issac": {
+        "Poke Maniac Issac (Level 12)": {
             "level": "12",
             "ability": "0",
             "item": "",
@@ -18503,9 +21331,9 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Noctowl": {
-        "Gentleman Alfred": {
-            "level": "58",
+    "Clefairy": {
+        "Picnicker Tiffany (Level 21)": {
+            "level": "21",
             "ability": "0",
             "item": "",
             "nature": "",
@@ -18526,43 +21354,13 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Hypnosis",
-                "Dream Eater",
-                "Air Slash",
-                "Reflect"
+                "Encore",
+                "Sing",
+                "Double Slap",
+                "Minimize"
             ]
         },
-        "Sage Mickey": {
-            "level": "32",
-            "ability": "0",
-            "item": "",
-            "nature": "",
-            "ivs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Foresight",
-                "Hypnosis",
-                "Take Down",
-                "Psychic"
-            ]
-        }
-    },
-    "Clefairy": {
-        "Picnicker Tiffany": {
+        "Picnicker Tiffany (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -18592,7 +21390,7 @@ var SETDEX_SV = {
         }
     },
     "Drapion": {
-        "Team Rocket G-931": {
+        "Team Rocket G-931 (Level 71)": {
             "level": "71",
             "ability": "Sniper",
             "item": "Scope Lens",
@@ -18620,7 +21418,7 @@ var SETDEX_SV = {
                 "Focus Energy"
             ]
         },
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 21)": {
             "level": "21",
             "ability": "Sniper",
             "item": "Scope Lens",
@@ -18648,7 +21446,7 @@ var SETDEX_SV = {
                 "Swords Dance"
             ]
         },
-        "Leader 9 Janine": {
+        "Leader 9 Janine (Level 55)": {
             "level": "55",
             "ability": "0",
             "item": "None",
@@ -18678,7 +21476,7 @@ var SETDEX_SV = {
         }
     },
     "Arcanine": {
-        "Team Rocket 1 G-967": {
+        "Team Rocket 1 G-967 (Level 72)": {
             "level": "72",
             "ability": "Intimidate",
             "item": "Choice Band",
@@ -18706,35 +21504,35 @@ var SETDEX_SV = {
                 "Extreme Speed"
             ]
         },
-        "Leader 12 Blue": {
-            "level": "68",
-            "ability": "0",
-            "item": "None",
-            "nature": "",
+        "Leader 12 Blue (Level 75)": {
+            "level": "75",
+            "ability": "Intimidate",
+            "item": "Charcoal",
+            "nature": "Adamant",
             "ivs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
             },
             "evs": {
-                "hp": 0,
-                "at": 0,
+                "hp": 252,
+                "at": 252,
                 "df": 0,
                 "sp": 0,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Flare Blitz",
+                "Raging Fury",
+                "Wild Charge",
                 "Extreme Speed",
-                "Thunder Fang",
-                "Crunch"
+                "Snarl"
             ]
         },
-        "School Kid M Jack": {
+        "School Kid M Jack (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "",
@@ -18762,7 +21560,7 @@ var SETDEX_SV = {
                 "Reversal"
             ]
         },
-        "Ace Trainer F Reena": {
+        "Ace Trainer F Reena (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "",
@@ -18790,7 +21588,7 @@ var SETDEX_SV = {
                 "Roar"
             ]
         },
-        "Pkmn Trainer 4 Marley": {
+        "Pkmn Trainer 4 Marley (Level 65)": {
             "level": "65",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -18818,7 +21616,7 @@ var SETDEX_SV = {
                 "Thunder Fang"
             ]
         },
-        "Scientist 1 Lowell": {
+        "Scientist 1 Lowell (Level 50)": {
             "level": "50",
             "ability": "0",
             "item": "",
@@ -18845,10 +21643,38 @@ var SETDEX_SV = {
                 "Fire Fang",
                 "Thunder Fang"
             ]
+        },
+        "Leader 12 Blue (Level 68)": {
+            "level": "68",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Flare Blitz",
+                "Extreme Speed",
+                "Thunder Fang",
+                "Crunch"
+            ]
         }
     },
     "Corviknight": {
-        "Team Rocket 1 G-967": {
+        "Team Rocket 1 G-967 (Level 71)": {
             "level": "71",
             "ability": "Unnerve",
             "item": "Leftovers",
@@ -18878,7 +21704,7 @@ var SETDEX_SV = {
         }
     },
     "Bergmite": {
-        "Poke Maniac Zach": {
+        "Poke Maniac Zach (Level 8)": {
             "level": "8",
             "ability": "Ice Body",
             "item": "Never Melt Ice",
@@ -18908,7 +21734,7 @@ var SETDEX_SV = {
         }
     },
     "Cubchoo": {
-        "Poke Maniac Zach": {
+        "Poke Maniac Zach (Level 10)": {
             "level": "10",
             "ability": "Slush Rush",
             "item": "None",
@@ -18938,7 +21764,7 @@ var SETDEX_SV = {
         }
     },
     "Seel": {
-        "Poke Maniac Zach": {
+        "Poke Maniac Zach (Level 8)": {
             "level": "8",
             "ability": "Ice Body",
             "item": "Rowap Berry",
@@ -18966,7 +21792,7 @@ var SETDEX_SV = {
                 "Yawn"
             ]
         },
-        "Boarder Gerardo": {
+        "Boarder Gerardo (Level 25)": {
             "level": "25",
             "ability": "0",
             "item": "",
@@ -18996,7 +21822,7 @@ var SETDEX_SV = {
         }
     },
     "Darumaka,": {
-        "Poke Maniac Zach": {
+        "Poke Maniac Zach (Level 9)": {
             "level": "9",
             "ability": "Hustle",
             "item": "Jaboca Berry",
@@ -19026,7 +21852,7 @@ var SETDEX_SV = {
         }
     },
     "Honedge": {
-        "Ace Trainer M Allen": {
+        "Ace Trainer M Allen (Level 14)": {
             "level": "14",
             "ability": "No Guard",
             "item": "None",
@@ -19054,7 +21880,7 @@ var SETDEX_SV = {
                 "Cut"
             ]
         },
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 13)": {
             "level": "13",
             "ability": "No Guard",
             "item": "Occa Berry",
@@ -19084,7 +21910,7 @@ var SETDEX_SV = {
         }
     },
     "Carbink": {
-        "Ace Trainer M Allen": {
+        "Ace Trainer M Allen (Level 15)": {
             "level": "15",
             "ability": "Sturdy",
             "item": "Babiri Berry",
@@ -19114,7 +21940,7 @@ var SETDEX_SV = {
         }
     },
     "Wooper,": {
-        "Ace Trainer M Allen": {
+        "Ace Trainer M Allen (Level 15)": {
             "level": "15",
             "ability": "Poison Point",
             "item": "Shuca Berry",
@@ -19144,7 +21970,7 @@ var SETDEX_SV = {
         }
     },
     "Clobbopus": {
-        "Ace Trainer F Cybil": {
+        "Ace Trainer F Cybil (Level 15)": {
             "level": "15",
             "ability": "Technician",
             "item": "Oran Berry",
@@ -19172,7 +21998,7 @@ var SETDEX_SV = {
                 "Feint"
             ]
         },
-        "Battle Girl Jessica": {
+        "Battle Girl Jessica (Level 6)": {
             "level": "6",
             "ability": "Technician",
             "item": "None",
@@ -19202,7 +22028,7 @@ var SETDEX_SV = {
         }
     },
     "Kubfu": {
-        "Ace Trainer F Cybil": {
+        "Ace Trainer F Cybil (Level 14)": {
             "level": "14",
             "ability": "Inner Focus",
             "item": "Scope Lens",
@@ -19230,7 +22056,7 @@ var SETDEX_SV = {
                 "Focus Energy"
             ]
         },
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 15)": {
             "level": "15",
             "ability": "Inner Focus",
             "item": "Rowap Berry",
@@ -19260,7 +22086,7 @@ var SETDEX_SV = {
         }
     },
     "Pancham": {
-        "Ace Trainer F Cybil": {
+        "Ace Trainer F Cybil (Level 15)": {
             "level": "15",
             "ability": "Scrappy",
             "item": "Chople Berry",
@@ -19290,7 +22116,7 @@ var SETDEX_SV = {
         }
     },
     "Rowlet": {
-        "Ace Trainer M Brandon": {
+        "Ace Trainer M Brandon (Level 14)": {
             "level": "14",
             "ability": "Overgrow",
             "item": "Focus Sash",
@@ -19320,7 +22146,7 @@ var SETDEX_SV = {
         }
     },
     "Stufful": {
-        "Ace Trainer M Brandon": {
+        "Ace Trainer M Brandon (Level 15)": {
             "level": "15",
             "ability": "Slush Rush",
             "item": "Oran Berry",
@@ -19350,7 +22176,7 @@ var SETDEX_SV = {
         }
     },
     "Lechonk": {
-        "Ace Trainer M Brandon": {
+        "Ace Trainer M Brandon (Level 14)": {
             "level": "14",
             "ability": "Thick Fat",
             "item": "Salac Berry",
@@ -19380,7 +22206,7 @@ var SETDEX_SV = {
         }
     },
     "Swampert": {
-        "Team Rocket 1 G-971": {
+        "Team Rocket 1 G-971 (Level 73)": {
             "level": "73",
             "ability": "Torrent",
             "item": "Choice Scarf",
@@ -19408,7 +22234,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 75)": {
             "level": "75",
             "ability": "Swift Swim",
             "item": "Swampertite",
@@ -19438,7 +22264,7 @@ var SETDEX_SV = {
         }
     },
     "Baxcalibur": {
-        "Team Rocket G-980": {
+        "Team Rocket G-980 (Level 72)": {
             "level": "72",
             "ability": "Ice Body",
             "item": "Life Orb",
@@ -19468,7 +22294,7 @@ var SETDEX_SV = {
         }
     },
     "Kommo O": {
-        "Team Rocket 1 G-982": {
+        "Team Rocket 1 G-982 (Level 73)": {
             "level": "73",
             "ability": "Bulletproof",
             "item": "Life Orb",
@@ -19498,7 +22324,7 @@ var SETDEX_SV = {
         }
     },
     "Typhlosion,": {
-        "Team Rocket G-991": {
+        "Team Rocket G-991 (Level 71)": {
             "level": "71",
             "ability": "Blaze",
             "item": "Shuca Berry",
@@ -19528,7 +22354,7 @@ var SETDEX_SV = {
         }
     },
     "Spectrier": {
-        "Team Rocket G-991": {
+        "Team Rocket G-991 (Level 72)": {
             "level": "72",
             "ability": "Grim Neigh",
             "item": "Focus Sash",
@@ -19558,7 +22384,7 @@ var SETDEX_SV = {
         }
     },
     "Quaquaval": {
-        "Team Rocket G-991": {
+        "Team Rocket G-991 (Level 73)": {
             "level": "73",
             "ability": "Moxie",
             "item": "Life Orb",
@@ -19588,7 +22414,7 @@ var SETDEX_SV = {
         }
     },
     "Sceptile": {
-        "Team Rocket G-999": {
+        "Team Rocket G-999 (Level 73)": {
             "level": "73",
             "ability": "Overgrow",
             "item": "Occa Berry",
@@ -19618,7 +22444,7 @@ var SETDEX_SV = {
         }
     },
     "Electivire": {
-        "Team Rocket G-999": {
+        "Team Rocket G-999 (Level 74)": {
             "level": "74",
             "ability": "Motor Drive",
             "item": "Air Balloon",
@@ -19646,7 +22472,7 @@ var SETDEX_SV = {
                 "Bulk Up"
             ]
         },
-        "Leader 7 Lt. Surge": {
+        "Leader 7 Lt. Surge (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -19676,7 +22502,35 @@ var SETDEX_SV = {
         }
     },
     "Hitmonlee": {
-        "Elite Four 3 Bruno": {
+        "Elite Four 3 Bruno (Level 42)": {
+            "level": "42",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Swagger",
+                "Focus Energy",
+                "High Jump Kick",
+                "Blaze Kick"
+            ]
+        },
+        "Elite Four 3 Bruno (Level 61)": {
             "level": "61",
             "ability": "32",
             "item": "None",
@@ -19706,7 +22560,7 @@ var SETDEX_SV = {
         }
     },
     "Onix": {
-        "Elite Four 3 Bruno": {
+        "Elite Four 3 Bruno (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "None",
@@ -19734,7 +22588,7 @@ var SETDEX_SV = {
                 "Rock Slide"
             ]
         },
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -19764,7 +22618,35 @@ var SETDEX_SV = {
         }
     },
     "Machamp": {
-        "Elite Four 3 Bruno": {
+        "Elite Four 3 Bruno (Level 46)": {
+            "level": "46",
+            "ability": "32",
+            "item": "Sitrus Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Rock Slide",
+                "Foresight",
+                "Revenge",
+                "Cross Chop"
+            ]
+        },
+        "Elite Four 3 Bruno (Level 64)": {
             "level": "64",
             "ability": "32",
             "item": "None",
@@ -19792,7 +22674,7 @@ var SETDEX_SV = {
                 "Dynamic Punch"
             ]
         },
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 30)": {
             "level": "30",
             "ability": "No Guard",
             "item": "Wise Glasses",
@@ -19820,7 +22702,7 @@ var SETDEX_SV = {
                 "Hidden Power"
             ]
         },
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 69)": {
             "level": "69",
             "ability": "32",
             "item": "Iron Ball",
@@ -19850,7 +22732,7 @@ var SETDEX_SV = {
         }
     },
     "Aipom": {
-        "School Kid M Ricky": {
+        "School Kid M Ricky (Level 40)": {
             "level": "40",
             "ability": "0",
             "item": "Hard Stone",
@@ -19880,8 +22762,8 @@ var SETDEX_SV = {
         }
     },
     "Ampharos": {
-        "Ace Trainer F Jamie": {
-            "level": "59",
+        "Ace Trainer F Jamie (Level 37)": {
+            "level": "37",
             "ability": "0",
             "item": "",
             "nature": "",
@@ -19902,14 +22784,14 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Power Gem",
-                "Thunder",
+                "Discharge",
                 "Signal Beam",
-                "Charge"
+                "Charge",
+                "Thunder Punch"
             ]
         },
-        "Lass Dana": {
-            "level": "54",
+        "Ace Trainer F Jamie (Level 40)": {
+            "level": "40",
             "ability": "0",
             "item": "",
             "nature": "",
@@ -19930,13 +22812,41 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Thunder",
+                "Discharge",
+                "Signal Beam",
+                "Charge",
+                "Thunder Wave"
+            ]
+        },
+        "Lass Dana (Level 38)": {
+            "level": "38",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Signal Beam",
                 "Discharge",
                 "Thunder Wave",
-                "Signal Beam"
+                "Cotton Spore"
             ]
         },
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 75)": {
             "level": "75",
             "ability": "Mold Breaker",
             "item": "Ampharosite",
@@ -19964,7 +22874,35 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Lass Mickey": {
+        "Lass Dana (Level 54)": {
+            "level": "54",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder",
+                "Discharge",
+                "Thunder Wave",
+                "Signal Beam"
+            ]
+        },
+        "Lass Mickey (Level 36)": {
             "level": "36",
             "ability": "0",
             "item": "",
@@ -19991,10 +22929,38 @@ var SETDEX_SV = {
                 "Thunder Wave",
                 "Cotton Spore"
             ]
+        },
+        "Ace Trainer F Jamie (Level 59)": {
+            "level": "59",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Power Gem",
+                "Thunder",
+                "Signal Beam",
+                "Charge"
+            ]
         }
     },
     "Metapod": {
-        "Bug Catcher Wade": {
+        "Bug Catcher Wade (Level 18)": {
             "level": "18",
             "ability": "0",
             "item": "",
@@ -20024,7 +22990,7 @@ var SETDEX_SV = {
         }
     },
     "Kakuna": {
-        "Bug Catcher Wade": {
+        "Bug Catcher Wade (Level 22)": {
             "level": "22",
             "ability": "0",
             "item": "",
@@ -20054,7 +23020,35 @@ var SETDEX_SV = {
         }
     },
     "Clefable": {
-        "Picnicker Tiffany": {
+        "Picnicker Tiffany (Level 41)": {
+            "level": "41",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Gravity",
+                "Sing",
+                "Wake Up Slap",
+                "Moonlight"
+            ]
+        },
+        "Picnicker Tiffany (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "",
@@ -20082,7 +23076,7 @@ var SETDEX_SV = {
                 "Thunder"
             ]
         },
-        "Beauty Callie": {
+        "Beauty Callie (Level 16)": {
             "level": "16",
             "ability": "0",
             "item": "",
@@ -20110,7 +23104,7 @@ var SETDEX_SV = {
                 "Metronome"
             ]
         },
-        "Beauty Kassandra": {
+        "Beauty Kassandra (Level 16)": {
             "level": "16",
             "ability": "0",
             "item": "",
@@ -20140,7 +23134,7 @@ var SETDEX_SV = {
         }
     },
     "Mudbray": {
-        "Scientist 1 Mitch": {
+        "Scientist 1 Mitch (Level 5)": {
             "level": "5",
             "ability": "Stamina",
             "item": "None",
@@ -20170,7 +23164,7 @@ var SETDEX_SV = {
         }
     },
     "Grimer,": {
-        "Scientist 1 Mitch": {
+        "Scientist 1 Mitch (Level 5)": {
             "level": "5",
             "ability": "Poison Touch",
             "item": "Black Sludge",
@@ -20200,7 +23194,7 @@ var SETDEX_SV = {
         }
     },
     "Magnezone": {
-        "Scientist 1 Gregg": {
+        "Scientist 1 Gregg (Level 63)": {
             "level": "63",
             "ability": "Sturdy",
             "item": "Air Balloon",
@@ -20228,7 +23222,7 @@ var SETDEX_SV = {
                 "Hidden Power"
             ]
         },
-        "Team Rocket 1 G-636": {
+        "Team Rocket 1 G-636 (Level 51)": {
             "level": "51",
             "ability": "Sturdy",
             "item": "Custap Berry",
@@ -20256,7 +23250,7 @@ var SETDEX_SV = {
                 "Earth Power"
             ]
         },
-        "Pkmn Trainer 6 Mira": {
+        "Pkmn Trainer 6 Mira (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -20284,7 +23278,7 @@ var SETDEX_SV = {
                 "Hyper Beam"
             ]
         },
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 56)": {
             "level": "56",
             "ability": "32",
             "item": "None",
@@ -20312,7 +23306,7 @@ var SETDEX_SV = {
                 "Metal Sound"
             ]
         },
-        "Leader 7 Lt. Surge": {
+        "Leader 7 Lt. Surge (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -20342,7 +23336,7 @@ var SETDEX_SV = {
         }
     },
     "Vikavolt": {
-        "Scientist 1 Gregg": {
+        "Scientist 1 Gregg (Level 64)": {
             "level": "64",
             "ability": "Levitate",
             "item": "Magnet",
@@ -20370,7 +23364,7 @@ var SETDEX_SV = {
                 "Flash Cannon"
             ]
         },
-        "Team Rocket 1 G-625": {
+        "Team Rocket 1 G-625 (Level 49)": {
             "level": "49",
             "ability": "Levitate",
             "item": "Charti Berry",
@@ -20400,7 +23394,7 @@ var SETDEX_SV = {
         }
     },
     "Golem,": {
-        "Scientist 1 Gregg": {
+        "Scientist 1 Gregg (Level 65)": {
             "level": "65",
             "ability": "Sturdy",
             "item": "Custap Berry",
@@ -20430,7 +23424,7 @@ var SETDEX_SV = {
         }
     },
     "Xurkitree": {
-        "Scientist 1 Garett": {
+        "Scientist 1 Garett (Level 64)": {
             "level": "64",
             "ability": "Beast Boost",
             "item": "Shuca Berry",
@@ -20460,7 +23454,7 @@ var SETDEX_SV = {
         }
     },
     "Regieleki": {
-        "Scientist 1 Garett": {
+        "Scientist 1 Garett (Level 64)": {
             "level": "64",
             "ability": "Transistor",
             "item": "Focus Sash",
@@ -20488,7 +23482,35 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 75)": {
+            "level": "75",
+            "ability": "Transistor",
+            "item": "Magnet",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 30,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Electroweb",
+                "Volt Switch",
+                "Hidden Power",
+                "Protect"
+            ]
+        },
+        "Executive Jupiter (Level 28)": {
             "level": "28",
             "ability": "Transistor",
             "item": "Shuca Berry",
@@ -20518,7 +23540,7 @@ var SETDEX_SV = {
         }
     },
     "Honchkrow": {
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 22)": {
             "level": "22",
             "ability": "Super Luck",
             "item": "Scope Lens",
@@ -20546,7 +23568,7 @@ var SETDEX_SV = {
                 "Roost"
             ]
         },
-        "Black Belt Manford": {
+        "Black Belt Manford (Level 25)": {
             "level": "25",
             "ability": "Super Luck",
             "item": "Scope Lens",
@@ -20574,7 +23596,7 @@ var SETDEX_SV = {
                 "U Turn"
             ]
         },
-        "Rocket Boss Giovanni": {
+        "Rocket Boss Giovanni (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "None",
@@ -20602,7 +23624,7 @@ var SETDEX_SV = {
                 "Shadow Ball"
             ]
         },
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 64)": {
             "level": "64",
             "ability": "32",
             "item": "None",
@@ -20632,7 +23654,7 @@ var SETDEX_SV = {
         }
     },
     "Vullaby": {
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 21)": {
             "level": "21",
             "ability": "Weak Armor",
             "item": "White Herb",
@@ -20662,7 +23684,7 @@ var SETDEX_SV = {
         }
     },
     "Persian,": {
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 22)": {
             "level": "22",
             "ability": "Fur Coat",
             "item": "Chople Berry",
@@ -20692,7 +23714,35 @@ var SETDEX_SV = {
         }
     },
     "Heliolisk": {
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 75)": {
+            "level": "75",
+            "ability": "Solar Power",
+            "item": "Life Orb",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunderbolt",
+                "Hyper Voice",
+                "Grass Knot",
+                "Dragon Pulse"
+            ]
+        },
+        "Executive Jupiter (Level 27)": {
             "level": "27",
             "ability": "Solar Power",
             "item": "Chople Berry",
@@ -20722,7 +23772,7 @@ var SETDEX_SV = {
         }
     },
     "Groudon": {
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 75)": {
             "level": "75",
             "ability": "Drought",
             "item": "Soft Sand",
@@ -20752,7 +23802,7 @@ var SETDEX_SV = {
         }
     },
     "Graveler,": {
-        "Skier Diana": {
+        "Skier Diana (Level 17)": {
             "level": "17",
             "ability": "Sturdy",
             "item": "Passho Berry",
@@ -20782,7 +23832,63 @@ var SETDEX_SV = {
         }
     },
     "Sableye": {
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 13)": {
+            "level": "13",
+            "ability": "Prankster",
+            "item": "Oran Berry",
+            "nature": "Impish",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Embargo",
+                "Memento",
+                "Will O Wisp",
+                "Disable"
+            ]
+        },
+        "Executive 0 Cyrus (Level 52)": {
+            "level": "52",
+            "ability": "Prankster",
+            "item": "Sitrus Berry",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Will O Wisp",
+                "Recover",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
+        "Executive 0 Cyrus (Level 75)": {
             "level": "75",
             "ability": "Magic Bounce",
             "item": "Sablenite",
@@ -20810,7 +23916,7 @@ var SETDEX_SV = {
                 "Fake Out"
             ]
         },
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -20840,7 +23946,7 @@ var SETDEX_SV = {
         }
     },
     "Larvitar": {
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 16)": {
             "level": "16",
             "ability": "Sand Stream",
             "item": "Passho Berry",
@@ -20870,7 +23976,7 @@ var SETDEX_SV = {
         }
     },
     "Lombre": {
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 16)": {
             "level": "16",
             "ability": "Rain Dish",
             "item": "Coba Berry",
@@ -20900,7 +24006,7 @@ var SETDEX_SV = {
         }
     },
     "Wingull": {
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 15)": {
             "level": "15",
             "ability": "Drizzle",
             "item": "Wacan Berry",
@@ -20930,7 +24036,7 @@ var SETDEX_SV = {
         }
     },
     "Palpitoad": {
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 13)": {
             "level": "13",
             "ability": "Swift Swim",
             "item": "Rindo Berry",
@@ -20960,7 +24066,7 @@ var SETDEX_SV = {
         }
     },
     "Dewott": {
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 16)": {
             "level": "16",
             "ability": "Torrent",
             "item": "Mystic Water",
@@ -20990,7 +24096,7 @@ var SETDEX_SV = {
         }
     },
     "Duosion": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 8)": {
             "level": "8",
             "ability": "Magic Guard",
             "item": "Leftovers",
@@ -21020,7 +24126,7 @@ var SETDEX_SV = {
         }
     },
     "Inkay": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 8)": {
             "level": "8",
             "ability": "Contrary",
             "item": "None",
@@ -21044,13 +24150,13 @@ var SETDEX_SV = {
             "moves": [
                 "Trick Room",
                 "Metronome",
-                "Wrap",
-                "Payback"
+                "Payback",
+                "None"
             ]
         }
     },
     "Beldum": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 9)": {
             "level": "9",
             "ability": "Clear Body",
             "item": "None",
@@ -21080,7 +24186,7 @@ var SETDEX_SV = {
         }
     },
     "Braixen": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 10)": {
             "level": "10",
             "ability": "Blaze",
             "item": "None",
@@ -21110,7 +24216,7 @@ var SETDEX_SV = {
         }
     },
     "Kyogre": {
-        "Executive Jupiter": {
+        "Executive Jupiter (Level 25)": {
             "level": "25",
             "ability": "Drizzle",
             "item": "None",
@@ -21138,7 +24244,7 @@ var SETDEX_SV = {
                 "None"
             ]
         },
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 75)": {
             "level": "75",
             "ability": "Drizzle",
             "item": "Mystic Water",
@@ -21168,7 +24274,7 @@ var SETDEX_SV = {
         }
     },
     "Reuniclus": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 37)": {
             "level": "37",
             "ability": "Magic Guard",
             "item": "Leftovers",
@@ -21198,7 +24304,35 @@ var SETDEX_SV = {
         }
     },
     "Delphox": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 37)": {
+            "level": "37",
+            "ability": "Blaze",
+            "item": "Passho Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Flamethrower",
+                "Psyshock",
+                "Foul Play",
+                "Will O Wisp"
+            ]
+        },
+        "Executive 2 Mars (Level 75)": {
             "level": "75",
             "ability": "Blaze",
             "item": "Focus Sash",
@@ -21228,7 +24362,7 @@ var SETDEX_SV = {
         }
     },
     "Grimmsnarl": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 37)": {
             "level": "37",
             "ability": "Prankster",
             "item": "Light Clay",
@@ -21258,7 +24392,35 @@ var SETDEX_SV = {
         }
     },
     "Tyranitar": {
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 53)": {
+            "level": "53",
+            "ability": "Sand Stream",
+            "item": "Chople Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Crunch",
+                "Stone Edge",
+                "Low Kick",
+                "Dragon Dance"
+            ]
+        },
+        "Executive 0 Cyrus (Level 75)": {
             "level": "75",
             "ability": "Sand Stream",
             "item": "Chople Berry",
@@ -21286,7 +24448,7 @@ var SETDEX_SV = {
                 "Dragon Tail"
             ]
         },
-        "Leader 12 Blue": {
+        "Leader 12 Blue (Level 70)": {
             "level": "70",
             "ability": "0",
             "item": "None",
@@ -21316,7 +24478,35 @@ var SETDEX_SV = {
         }
     },
     "Urshifu": {
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 54)": {
+            "level": "54",
+            "ability": "Unseen Fist",
+            "item": "Black Glasses",
+            "nature": "Jolly",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Wicked Blow",
+                "Close Combat",
+                "Sucker Punch",
+                "U Turn"
+            ]
+        },
+        "Executive 0 Cyrus (Level 75)": {
             "level": "75",
             "ability": "Unseen Fist",
             "item": "Focus Sash",
@@ -21346,7 +24536,35 @@ var SETDEX_SV = {
         }
     },
     "Archaludon": {
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 54)": {
+            "level": "54",
+            "ability": "Stamina",
+            "item": "White Herb",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Flash Cannon",
+                "Body Press",
+                "Draco Meteor",
+                "Thunderbolt"
+            ]
+        },
+        "Executive 0 Cyrus (Level 75)": {
             "level": "75",
             "ability": "Stamina",
             "item": "White Herb",
@@ -21376,7 +24594,35 @@ var SETDEX_SV = {
         }
     },
     "Haxorus": {
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 53)": {
+            "level": "53",
+            "ability": "Mold Breaker",
+            "item": "Yache Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Dragon Rush",
+                "Earthquake",
+                "Guillotine",
+                "Dragon Dance"
+            ]
+        },
+        "Executive 0 Cyrus (Level 75)": {
             "level": "75",
             "ability": "Mold Breaker",
             "item": "Choice Scarf",
@@ -21406,7 +24652,7 @@ var SETDEX_SV = {
         }
     },
     "Metagross": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 75)": {
             "level": "75",
             "ability": "Tough Claws",
             "item": "Metagrossite",
@@ -21434,7 +24680,7 @@ var SETDEX_SV = {
                 "Earthquake"
             ]
         },
-        "Pkmn Trainer 3 Riley": {
+        "Pkmn Trainer 3 Riley (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -21462,7 +24708,7 @@ var SETDEX_SV = {
                 "Bullet Punch"
             ]
         },
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -21492,7 +24738,7 @@ var SETDEX_SV = {
         }
     },
     "Alcremie": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 75)": {
             "level": "75",
             "ability": "Pixilate",
             "item": "Sitrus Berry",
@@ -21522,7 +24768,7 @@ var SETDEX_SV = {
         }
     },
     "Hatterene": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 75)": {
             "level": "75",
             "ability": "Magic Bounce",
             "item": "Life Orb",
@@ -21552,7 +24798,7 @@ var SETDEX_SV = {
         }
     },
     "Rayquaza": {
-        "Executive 2 Mars": {
+        "Executive 2 Mars (Level 75)": {
             "level": "75",
             "ability": "Air Lock",
             "item": "Yache Berry",
@@ -21582,7 +24828,7 @@ var SETDEX_SV = {
         }
     },
     "Yamask": {
-        "Medium Edith": {
+        "Medium Edith (Level 17)": {
             "level": "17",
             "ability": "Mummy",
             "item": "None",
@@ -21612,7 +24858,7 @@ var SETDEX_SV = {
         }
     },
     "Pumpkaboo": {
-        "Medium Edith": {
+        "Medium Edith (Level 18)": {
             "level": "18",
             "ability": "Frisk",
             "item": "Quick Claw",
@@ -21642,7 +24888,7 @@ var SETDEX_SV = {
         }
     },
     "Golett": {
-        "Medium Edith": {
+        "Medium Edith (Level 16)": {
             "level": "16",
             "ability": "Iron Fist",
             "item": "None",
@@ -21672,7 +24918,7 @@ var SETDEX_SV = {
         }
     },
     "Duskull": {
-        "Medium Georgina": {
+        "Medium Georgina (Level 16)": {
             "level": "16",
             "ability": "Levitate",
             "item": "None",
@@ -21702,7 +24948,7 @@ var SETDEX_SV = {
         }
     },
     "Phantump": {
-        "Medium Georgina": {
+        "Medium Georgina (Level 17)": {
             "level": "17",
             "ability": "Natural Cure",
             "item": "None",
@@ -21732,7 +24978,35 @@ var SETDEX_SV = {
         }
     },
     "Ludicolo": {
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 75)": {
+            "level": "75",
+            "ability": "Swift Swim",
+            "item": "Leftovers",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Fake Out",
+                "Leech Seed",
+                "Hydro Pump",
+                "Icy Wind"
+            ]
+        },
+        "Executive 1 Saturn (Level 51)": {
             "level": "51",
             "ability": "Swift Swim",
             "item": "Coba Berry",
@@ -21762,11 +25036,11 @@ var SETDEX_SV = {
         }
     },
     "Politoed": {
-        "Executive 1 Saturn": {
-            "level": "52",
+        "Executive 1 Saturn (Level 75)": {
+            "level": "75",
             "ability": "Drizzle",
-            "item": "Rindo Berry",
-            "nature": "Modest",
+            "item": "Wacan Berry",
+            "nature": "Calm",
             "ivs": {
                 "hp": 31,
                 "at": 31,
@@ -21781,16 +25055,16 @@ var SETDEX_SV = {
                 "df": 0,
                 "sp": 0,
                 "sa": 0,
-                "sd": 0
+                "sd": 252
             },
             "moves": [
-                "Perish Song",
-                "Scald",
-                "Bounce",
-                "Wish"
+                "Hydro Pump",
+                "Ice Beam",
+                "Hypnosis",
+                "Perish Song"
             ]
         },
-        "Sailor Huey": {
+        "Sailor Huey (Level 48)": {
             "level": "48",
             "ability": "0",
             "item": "",
@@ -21817,10 +25091,38 @@ var SETDEX_SV = {
                 "Body Slam",
                 "Perish Song"
             ]
+        },
+        "Executive 1 Saturn (Level 52)": {
+            "level": "52",
+            "ability": "Drizzle",
+            "item": "Rindo Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Perish Song",
+                "Scald",
+                "Bounce",
+                "Wish"
+            ]
         }
     },
     "Kyurem,": {
-        "Executive 0 Cyrus": {
+        "Executive 0 Cyrus (Level 75)": {
             "level": "75",
             "ability": "Teravolt",
             "item": "Life Orb",
@@ -21850,7 +25152,7 @@ var SETDEX_SV = {
         }
     },
     "Blastoise,": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Mega Launcher",
             "item": "Blastoisinite",
@@ -21880,7 +25182,7 @@ var SETDEX_SV = {
         }
     },
     "Charizard,": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Drought",
             "item": "Charizardite Y",
@@ -21910,7 +25212,7 @@ var SETDEX_SV = {
         }
     },
     "Venusaur,": {
-        "Pkmn Trainer 9 Red": {
+        "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Thick Fat",
             "item": "Venusaurite",
@@ -21940,7 +25242,7 @@ var SETDEX_SV = {
         }
     },
     "Sandaconda": {
-        "Team Rocket G-630": {
+        "Team Rocket G-630 (Level 50)": {
             "level": "50",
             "ability": "Sand Veil",
             "item": "Bright Powder",
@@ -21970,7 +25272,7 @@ var SETDEX_SV = {
         }
     },
     "Mudsdale": {
-        "Team Rocket G-630": {
+        "Team Rocket G-630 (Level 49)": {
             "level": "49",
             "ability": "Stamina",
             "item": "Leftovers",
@@ -22000,7 +25302,7 @@ var SETDEX_SV = {
         }
     },
     "Gliscor": {
-        "Team Rocket G-630": {
+        "Team Rocket G-630 (Level 51)": {
             "level": "51",
             "ability": "Sand Veil",
             "item": "Shell Bell",
@@ -22030,7 +25332,7 @@ var SETDEX_SV = {
         }
     },
     "Necrozma,": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Neuroforce",
             "item": "None",
@@ -22060,7 +25362,7 @@ var SETDEX_SV = {
         }
     },
     "Zacian,": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Intrepid Sword",
             "item": "Rusted Sword",
@@ -22090,7 +25392,7 @@ var SETDEX_SV = {
         }
     },
     "Mewtwo,": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Insomnia",
             "item": "Mewtwonite Y",
@@ -22120,7 +25422,7 @@ var SETDEX_SV = {
         }
     },
     "Rayquaza,": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Delta Stream",
             "item": "Yache Berry",
@@ -22150,7 +25452,7 @@ var SETDEX_SV = {
         }
     },
     "Arceus": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Multitype",
             "item": "Pixie Plate",
@@ -22180,7 +25482,7 @@ var SETDEX_SV = {
         }
     },
     "Darkrai": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Bad Dreams",
             "item": "Chople Berry",
@@ -22210,7 +25512,7 @@ var SETDEX_SV = {
         }
     },
     "Milotic": {
-        "Leader 10 Cynthia": {
+        "Leader 10 Cynthia (Level 75)": {
             "level": "75",
             "ability": "Competitive",
             "item": "Sitrus Berry",
@@ -22238,7 +25540,7 @@ var SETDEX_SV = {
                 "Hypnosis"
             ]
         },
-        "Leader 6 Misty": {
+        "Leader 6 Misty (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -22268,7 +25570,7 @@ var SETDEX_SV = {
         }
     },
     "Dratini": {
-        "Twins Clea & Gil": {
+        "Twins Clea & Gil (Level 35)": {
             "level": "35",
             "ability": "0",
             "item": "",
@@ -22296,7 +25598,7 @@ var SETDEX_SV = {
                 "Headbutt"
             ]
         },
-        "Twins Mickey": {
+        "Twins Mickey (Level 38)": {
             "level": "38",
             "ability": "0",
             "item": "",
@@ -22326,7 +25628,7 @@ var SETDEX_SV = {
         }
     },
     "Yanma": {
-        "School Kid M Mickey": {
+        "School Kid M Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -22356,7 +25658,7 @@ var SETDEX_SV = {
         }
     },
     "Poliwrath": {
-        "Sailor Huey": {
+        "Sailor Huey (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "",
@@ -22386,7 +25688,7 @@ var SETDEX_SV = {
         }
     },
     "Beedrill": {
-        "Bug Catcher Wade": {
+        "Bug Catcher Wade (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -22414,7 +25716,7 @@ var SETDEX_SV = {
                 "Bug Bite"
             ]
         },
-        "Bug Catcher Mickey": {
+        "Bug Catcher Mickey (Level 32)": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -22444,7 +25746,7 @@ var SETDEX_SV = {
         }
     },
     "Nincada": {
-        "Bug Catcher Arnie": {
+        "Bug Catcher Arnie (Level 45)": {
             "level": "45",
             "ability": "0",
             "item": "",
@@ -22474,7 +25776,7 @@ var SETDEX_SV = {
         }
     },
     "Weepinbell": {
-        "Picnicker Mickey": {
+        "Picnicker Mickey (Level 30)": {
             "level": "30",
             "ability": "0",
             "item": "",
@@ -22504,7 +25806,7 @@ var SETDEX_SV = {
         }
     },
     "Graveler": {
-        "Hiker Mickey": {
+        "Hiker Mickey (Level 34)": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -22532,7 +25834,7 @@ var SETDEX_SV = {
                 "Rollout"
             ]
         },
-        "Camper Mickey": {
+        "Camper Mickey (Level 33)": {
             "level": "33",
             "ability": "0",
             "item": "",
@@ -22562,7 +25864,7 @@ var SETDEX_SV = {
         }
     },
     "Golem": {
-        "Hiker Mickey": {
+        "Hiker Mickey (Level 36)": {
             "level": "36",
             "ability": "0",
             "item": "",
@@ -22590,7 +25892,7 @@ var SETDEX_SV = {
                 "Rollout"
             ]
         },
-        "Hiker Edwin": {
+        "Hiker Edwin (Level 50)": {
             "level": "50",
             "ability": "0",
             "item": "",
@@ -22618,7 +25920,7 @@ var SETDEX_SV = {
                 "Roar"
             ]
         },
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 55)": {
             "level": "55",
             "ability": "32",
             "item": "None",
@@ -22647,8 +25949,66 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Noctowl": {
+        "Sage Mickey (Level 32)": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Foresight",
+                "Hypnosis",
+                "Take Down",
+                "Psychic"
+            ]
+        },
+        "Gentleman Alfred (Level 58)": {
+            "level": "58",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Hypnosis",
+                "Dream Eater",
+                "Air Slash",
+                "Reflect"
+            ]
+        }
+    },
     "Absol": {
-        "Ace Trainer M French": {
+        "Ace Trainer M French (Level 47)": {
             "level": "47",
             "ability": "32",
             "item": "None",
@@ -22676,7 +26036,7 @@ var SETDEX_SV = {
                 "Quick Attack"
             ]
         },
-        "Black Belt Manford": {
+        "Black Belt Manford (Level 25)": {
             "level": "25",
             "ability": "Super Luck",
             "item": "Scope Lens",
@@ -22704,7 +26064,7 @@ var SETDEX_SV = {
                 "Sucker Punch"
             ]
         },
-        "Pkmn Trainer 3 Riley": {
+        "Pkmn Trainer 3 Riley (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -22732,7 +26092,7 @@ var SETDEX_SV = {
                 "Quick Attack"
             ]
         },
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 62)": {
             "level": "62",
             "ability": "32",
             "item": "None",
@@ -22762,7 +26122,7 @@ var SETDEX_SV = {
         }
     },
     "Furret": {
-        "School Kid M Sherman": {
+        "School Kid M Sherman (Level 43)": {
             "level": "43",
             "ability": "0",
             "item": "",
@@ -22792,7 +26152,7 @@ var SETDEX_SV = {
         }
     },
     "Toxicroak": {
-        "Black Belt Manford": {
+        "Black Belt Manford (Level 25)": {
             "level": "25",
             "ability": "Dry Skin",
             "item": "Scope Lens",
@@ -22820,7 +26180,7 @@ var SETDEX_SV = {
                 "Swords Dance"
             ]
         },
-        "Elite Four 2 Koga": {
+        "Elite Four 2 Koga (Level 60)": {
             "level": "60",
             "ability": "32",
             "item": "None",
@@ -22848,7 +26208,7 @@ var SETDEX_SV = {
                 "Gunk Shot"
             ]
         },
-        "Leader 9 Janine": {
+        "Leader 9 Janine (Level 52)": {
             "level": "52",
             "ability": "32",
             "item": "None",
@@ -22878,7 +26238,7 @@ var SETDEX_SV = {
         }
     },
     "Sunflora": {
-        "Young Couple Vic & Tara": {
+        "Young Couple Vic & Tara (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -22908,7 +26268,7 @@ var SETDEX_SV = {
         }
     },
     "Zigzagoon": {
-        "Teacher Clarice": {
+        "Teacher Clarice (Level 41)": {
             "level": "41",
             "ability": "32",
             "item": "Sitrus Berry",
@@ -22936,7 +26296,7 @@ var SETDEX_SV = {
                 "Iron Tail"
             ]
         },
-        "School Kid M Connor": {
+        "School Kid M Connor (Level 42)": {
             "level": "42",
             "ability": "32",
             "item": "Chesto Berry",
@@ -22966,7 +26326,7 @@ var SETDEX_SV = {
         }
     },
     "Roselia": {
-        "Teacher Clarice": {
+        "Teacher Clarice (Level 43)": {
             "level": "43",
             "ability": "32",
             "item": "None",
@@ -22994,7 +26354,7 @@ var SETDEX_SV = {
                 "Petal Dance"
             ]
         },
-        "Pkmn Trainer 14 Cynthia": {
+        "Pkmn Trainer 14 Cynthia (Level 21)": {
             "level": "21",
             "ability": "Poison Point",
             "item": "Occa Berry",
@@ -23024,7 +26384,7 @@ var SETDEX_SV = {
         }
     },
     "Budew": {
-        "School Kid M Travis": {
+        "School Kid M Travis (Level 42)": {
             "level": "42",
             "ability": "32",
             "item": "",
@@ -23054,7 +26414,7 @@ var SETDEX_SV = {
         }
     },
     "Gulpin": {
-        "Biker Dale": {
+        "Biker Dale (Level 47)": {
             "level": "47",
             "ability": "32",
             "item": "Black Sludge",
@@ -23084,7 +26444,7 @@ var SETDEX_SV = {
         }
     },
     "Linoone": {
-        "Camper Pedro": {
+        "Camper Pedro (Level 45)": {
             "level": "45",
             "ability": "32",
             "item": "Sitrus Berry",
@@ -23114,7 +26474,7 @@ var SETDEX_SV = {
         }
     },
     "Mantine": {
-        "Fisherman Gideon": {
+        "Fisherman Gideon (Level 40)": {
             "level": "40",
             "ability": "0",
             "item": "",
@@ -23144,7 +26504,7 @@ var SETDEX_SV = {
         }
     },
     "Klinklang": {
-        "Team Rocket 1 G-636": {
+        "Team Rocket 1 G-636 (Level 50)": {
             "level": "50",
             "ability": "Clear Body",
             "item": "Metal Coat",
@@ -23174,7 +26534,7 @@ var SETDEX_SV = {
         }
     },
     "Golisopod": {
-        "Team Rocket 1 G-625": {
+        "Team Rocket 1 G-625 (Level 50)": {
             "level": "50",
             "ability": "Swarm",
             "item": "Charti Berry",
@@ -23204,7 +26564,7 @@ var SETDEX_SV = {
         }
     },
     "Armaldo": {
-        "Team Rocket 1 G-625": {
+        "Team Rocket 1 G-625 (Level 47)": {
             "level": "47",
             "ability": "Battle Armor",
             "item": "Charti Berry",
@@ -23234,7 +26594,7 @@ var SETDEX_SV = {
         }
     },
     "Mienshao": {
-        "Battle Girl Jenny": {
+        "Battle Girl Jenny (Level 57)": {
             "level": "57",
             "ability": "Regenerator",
             "item": "None",
@@ -23262,7 +26622,7 @@ var SETDEX_SV = {
                 "U Turn"
             ]
         },
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 30)": {
             "level": "30",
             "ability": "Regenerator",
             "item": "Focus Sash",
@@ -23292,7 +26652,7 @@ var SETDEX_SV = {
         }
     },
     "Annihilape": {
-        "Battle Girl Jenny": {
+        "Battle Girl Jenny (Level 59)": {
             "level": "59",
             "ability": "Defiant",
             "item": "Leftovers",
@@ -23320,7 +26680,7 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 32)": {
             "level": "32",
             "ability": "Defiant",
             "item": "Coba Berry",
@@ -23350,7 +26710,7 @@ var SETDEX_SV = {
         }
     },
     "Armarouge": {
-        "Team Rocket 1 G-650": {
+        "Team Rocket 1 G-650 (Level 51)": {
             "level": "51",
             "ability": "Weak Armor",
             "item": "Sitrus Berry",
@@ -23380,7 +26740,7 @@ var SETDEX_SV = {
         }
     },
     "Cinderace": {
-        "Team Rocket 1 G-650": {
+        "Team Rocket 1 G-650 (Level 50)": {
             "level": "50",
             "ability": "Protean",
             "item": "Charcoal",
@@ -23410,7 +26770,7 @@ var SETDEX_SV = {
         }
     },
     "Flapple": {
-        "Team Rocket 1 G-658": {
+        "Team Rocket 1 G-658 (Level 50)": {
             "level": "50",
             "ability": "Hustle",
             "item": "Yache Berry",
@@ -23440,7 +26800,7 @@ var SETDEX_SV = {
         }
     },
     "Rillaboom": {
-        "Team Rocket 1 G-658": {
+        "Team Rocket 1 G-658 (Level 50)": {
             "level": "50",
             "ability": "Grassy Surge",
             "item": "Grassy Seed",
@@ -23470,7 +26830,7 @@ var SETDEX_SV = {
         }
     },
     "Torterra": {
-        "Team Rocket 1 G-658": {
+        "Team Rocket 1 G-658 (Level 50)": {
             "level": "50",
             "ability": "Overgrow",
             "item": "Yache Berry",
@@ -23500,7 +26860,7 @@ var SETDEX_SV = {
         }
     },
     "Clawitzer": {
-        "Team Rocket G-671": {
+        "Team Rocket G-671 (Level 51)": {
             "level": "51",
             "ability": "Mega Launcher",
             "item": "Wacan Berry",
@@ -23530,7 +26890,7 @@ var SETDEX_SV = {
         }
     },
     "Walrein": {
-        "Team Rocket G-671": {
+        "Team Rocket G-671 (Level 51)": {
             "level": "51",
             "ability": "Thick Fat",
             "item": "Sitrus Berry",
@@ -23558,7 +26918,7 @@ var SETDEX_SV = {
                 "Slack Off"
             ]
         },
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 54)": {
             "level": "54",
             "ability": "32",
             "item": "None",
@@ -23588,7 +26948,7 @@ var SETDEX_SV = {
         }
     },
     "Wobbuffet": {
-        "Pkmn Trainer 2 Cheryl": {
+        "Pkmn Trainer 2 Cheryl (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -23616,7 +26976,7 @@ var SETDEX_SV = {
                 "Encore"
             ]
         },
-        "Leader 10 Sabrina": {
+        "Leader 10 Sabrina (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "None",
@@ -23646,7 +27006,7 @@ var SETDEX_SV = {
         }
     },
     "Drifblim": {
-        "Pkmn Trainer 2 Cheryl": {
+        "Pkmn Trainer 2 Cheryl (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -23674,7 +27034,7 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 52)": {
             "level": "52",
             "ability": "32",
             "item": "Sitrus Berry",
@@ -23704,7 +27064,7 @@ var SETDEX_SV = {
         }
     },
     "Wailord": {
-        "Pkmn Trainer 2 Cheryl": {
+        "Pkmn Trainer 2 Cheryl (Level 63)": {
             "level": "63",
             "ability": "0",
             "item": "None",
@@ -23734,7 +27094,7 @@ var SETDEX_SV = {
         }
     },
     "Ninjask": {
-        "Pkmn Trainer 4 Marley": {
+        "Pkmn Trainer 4 Marley (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -23764,7 +27124,7 @@ var SETDEX_SV = {
         }
     },
     "Weavile": {
-        "Pkmn Trainer 4 Marley": {
+        "Pkmn Trainer 4 Marley (Level 63)": {
             "level": "63",
             "ability": "0",
             "item": "None",
@@ -23792,7 +27152,7 @@ var SETDEX_SV = {
                 "Aerial Ace"
             ]
         },
-        "Elite Four 1 Karen": {
+        "Elite Four 1 Karen (Level 62)": {
             "level": "62",
             "ability": "0",
             "item": "None",
@@ -23822,7 +27182,7 @@ var SETDEX_SV = {
         }
     },
     "Ursaring": {
-        "Pkmn Trainer 3 Riley": {
+        "Pkmn Trainer 3 Riley (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -23852,7 +27212,7 @@ var SETDEX_SV = {
         }
     },
     "Salamence": {
-        "Pkmn Trainer 3 Riley": {
+        "Pkmn Trainer 3 Riley (Level 63)": {
             "level": "63",
             "ability": "0",
             "item": "None",
@@ -23880,7 +27240,7 @@ var SETDEX_SV = {
                 "Thunder Fang"
             ]
         },
-        "Champion Lance": {
+        "Champion Lance (Level 72)": {
             "level": "72",
             "ability": "0",
             "item": "Lum Berry",
@@ -23910,7 +27270,7 @@ var SETDEX_SV = {
         }
     },
     "Shuckle": {
-        "Pkmn Trainer 5 Buck": {
+        "Pkmn Trainer 5 Buck (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -23940,7 +27300,7 @@ var SETDEX_SV = {
         }
     },
     "Torkoal": {
-        "Pkmn Trainer 5 Buck": {
+        "Pkmn Trainer 5 Buck (Level 61)": {
             "level": "61",
             "ability": "0",
             "item": "None",
@@ -23968,7 +27328,7 @@ var SETDEX_SV = {
                 "Protect"
             ]
         },
-        "Super Nerd Cary": {
+        "Super Nerd Cary (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "",
@@ -23996,7 +27356,7 @@ var SETDEX_SV = {
                 "Iron Defense"
             ]
         },
-        "Leader 11 Blaine": {
+        "Leader 11 Blaine (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "None",
@@ -24026,7 +27386,7 @@ var SETDEX_SV = {
         }
     },
     "Dusknoir": {
-        "Pkmn Trainer 5 Buck": {
+        "Pkmn Trainer 5 Buck (Level 63)": {
             "level": "63",
             "ability": "0",
             "item": "None",
@@ -24054,7 +27414,7 @@ var SETDEX_SV = {
                 "Shadow Ball"
             ]
         },
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -24084,7 +27444,7 @@ var SETDEX_SV = {
         }
     },
     "Claydol": {
-        "Pkmn Trainer 5 Buck": {
+        "Pkmn Trainer 5 Buck (Level 65)": {
             "level": "65",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -24114,7 +27474,7 @@ var SETDEX_SV = {
         }
     },
     "Meltan": {
-        "Gentleman Alfred": {
+        "Gentleman Alfred (Level 22)": {
             "level": "22",
             "ability": "Heavy Metal",
             "item": "Iron Ball",
@@ -24144,7 +27504,7 @@ var SETDEX_SV = {
         }
     },
     "Ferroseed": {
-        "Gentleman Alfred": {
+        "Gentleman Alfred (Level 21)": {
             "level": "21",
             "ability": "Iron Barbs",
             "item": "Leftovers",
@@ -24174,7 +27534,7 @@ var SETDEX_SV = {
         }
     },
     "Klink": {
-        "Gentleman Alfred": {
+        "Gentleman Alfred (Level 21)": {
             "level": "21",
             "ability": "Clear Body",
             "item": "Starf Berry",
@@ -24204,7 +27564,7 @@ var SETDEX_SV = {
         }
     },
     "Togetic": {
-        "Pkmn Trainer 14 Cynthia": {
+        "Pkmn Trainer 14 Cynthia (Level 20)": {
             "level": "20",
             "ability": "Serene Grace",
             "item": "Charti Berry",
@@ -24234,7 +27594,35 @@ var SETDEX_SV = {
         }
     },
     "Gabite": {
-        "Pkmn Trainer 14 Cynthia": {
+        "Pkmn Trainer 14 Cynthia (Level 20)": {
+            "level": "20",
+            "ability": "Rough Skin",
+            "item": "Soft Sand",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Dual Chop",
+                "Sand Tomb",
+                "Fire Fang",
+                "Protect"
+            ]
+        },
+        "Pkmn Trainer 14 Cynthia (Level 27)": {
             "level": "27",
             "ability": "Rough Skin",
             "item": "Oran Berry",
@@ -24264,7 +27652,7 @@ var SETDEX_SV = {
         }
     },
     "Stantler": {
-        "Ace Trainer M Arabella": {
+        "Ace Trainer M Arabella (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "",
@@ -24294,7 +27682,7 @@ var SETDEX_SV = {
         }
     },
     "Spinda": {
-        "Ace Trainer M Bonita": {
+        "Ace Trainer M Bonita (Level 50)": {
             "level": "50",
             "ability": "0",
             "item": "",
@@ -24324,7 +27712,7 @@ var SETDEX_SV = {
         }
     },
     "Sudowoodo": {
-        "Ace Trainer M Bonita": {
+        "Ace Trainer M Bonita (Level 52)": {
             "level": "52",
             "ability": "32",
             "item": "",
@@ -24354,7 +27742,7 @@ var SETDEX_SV = {
         }
     },
     "Finneon": {
-        "Skier Teresa": {
+        "Skier Teresa (Level 15)": {
             "level": "15",
             "ability": "Storm Drain",
             "item": "Mystic Water",
@@ -24384,7 +27772,7 @@ var SETDEX_SV = {
         }
     },
     "Numel": {
-        "Super Nerd Waldo": {
+        "Super Nerd Waldo (Level 53)": {
             "level": "53",
             "ability": "32",
             "item": "",
@@ -24414,7 +27802,7 @@ var SETDEX_SV = {
         }
     },
     "Kangaskhan": {
-        "Rocket Boss Giovanni": {
+        "Rocket Boss Giovanni (Level 40)": {
             "level": "40",
             "ability": "32",
             "item": "None",
@@ -24444,7 +27832,7 @@ var SETDEX_SV = {
         }
     },
     "Bronzong": {
-        "Elite Four 0 Will": {
+        "Elite Four 0 Will (Level 58)": {
             "level": "58",
             "ability": "32",
             "item": "None",
@@ -24472,7 +27860,7 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 50)": {
             "level": "50",
             "ability": "32",
             "item": "None",
@@ -24502,7 +27890,7 @@ var SETDEX_SV = {
         }
     },
     "Skuntank": {
-        "Elite Four 2 Koga": {
+        "Elite Four 2 Koga (Level 61)": {
             "level": "61",
             "ability": "32",
             "item": "None",
@@ -24532,7 +27920,7 @@ var SETDEX_SV = {
         }
     },
     "Swalot": {
-        "Elite Four 2 Koga": {
+        "Elite Four 2 Koga (Level 62)": {
             "level": "62",
             "ability": "32",
             "item": "Leftovers",
@@ -24562,7 +27950,7 @@ var SETDEX_SV = {
         }
     },
     "Seismitoad": {
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 51)": {
             "level": "51",
             "ability": "Swift Swim",
             "item": "Rindo Berry",
@@ -24592,7 +27980,7 @@ var SETDEX_SV = {
         }
     },
     "Samurott": {
-        "Executive 1 Saturn": {
+        "Executive 1 Saturn (Level 53)": {
             "level": "53",
             "ability": "Torrent",
             "item": "Mystic Water",
@@ -24622,7 +28010,7 @@ var SETDEX_SV = {
         }
     },
     "Aggron": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 35)": {
             "level": "35",
             "ability": "Sturdy",
             "item": "Shuca Berry",
@@ -24652,7 +28040,7 @@ var SETDEX_SV = {
         }
     },
     "Mismagius": {
-        "Tower Tycoon Darkrai": {
+        "Tower Tycoon Darkrai (Level 33)": {
             "level": "33",
             "ability": "Levitate",
             "item": "Focus Sash",
@@ -24680,7 +28068,7 @@ var SETDEX_SV = {
                 "Hypnosis"
             ]
         },
-        "Leader 0 Morty": {
+        "Leader 0 Morty (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "None",
@@ -24710,7 +28098,7 @@ var SETDEX_SV = {
         }
     },
     "Magby": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 4)": {
             "level": "4",
             "ability": "Flame Body",
             "item": "None",
@@ -24740,7 +28128,7 @@ var SETDEX_SV = {
         }
     },
     "Houndour": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 5)": {
             "level": "5",
             "ability": "Intimidate",
             "item": "Chople Berry",
@@ -24770,7 +28158,7 @@ var SETDEX_SV = {
         }
     },
     "Chimchar": {
-        "Leader M Volkner": {
+        "Leader M Volkner (Level 6)": {
             "level": "6",
             "ability": "Blaze",
             "item": "Charcoal",
@@ -24800,7 +28188,7 @@ var SETDEX_SV = {
         }
     },
     "Shinx": {
-        "Leader F Flint": {
+        "Leader F Flint (Level 5)": {
             "level": "5",
             "ability": "Intimidate",
             "item": "Magnet",
@@ -24830,7 +28218,7 @@ var SETDEX_SV = {
         }
     },
     "Cyclizar": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 67)": {
             "level": "67",
             "ability": "Regenerator",
             "item": "Choice Scarf",
@@ -24860,7 +28248,7 @@ var SETDEX_SV = {
         }
     },
     "Hydrapple": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 68)": {
             "level": "68",
             "ability": "Regenerator",
             "item": "Yache Berry",
@@ -24890,7 +28278,7 @@ var SETDEX_SV = {
         }
     },
     "Goodra": {
-        "Leader Whitney": {
+        "Leader Whitney (Level 69)": {
             "level": "69",
             "ability": "Shell Armor",
             "item": "Chople Berry",
@@ -24920,7 +28308,7 @@ var SETDEX_SV = {
         }
     },
     "Abomasnow": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 56)": {
             "level": "56",
             "ability": "0",
             "item": "None",
@@ -24950,7 +28338,7 @@ var SETDEX_SV = {
         }
     },
     "Dewgong": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 58)": {
             "level": "58",
             "ability": "0",
             "item": "Lum Berry",
@@ -24980,7 +28368,7 @@ var SETDEX_SV = {
         }
     },
     "Glalie": {
-        "Leader 1 Pryce": {
+        "Leader 1 Pryce (Level 52)": {
             "level": "52",
             "ability": "0",
             "item": "None",
@@ -25010,7 +28398,7 @@ var SETDEX_SV = {
         }
     },
     "Steelix": {
-        "Leader 2 Jasmine": {
+        "Leader 2 Jasmine (Level 62)": {
             "level": "62",
             "ability": "32",
             "item": "None",
@@ -25040,7 +28428,7 @@ var SETDEX_SV = {
         }
     },
     "Decidueye,": {
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 32)": {
             "level": "32",
             "ability": "Overgrow",
             "item": "Coba Berry",
@@ -25070,7 +28458,7 @@ var SETDEX_SV = {
         }
     },
     "Scrafty": {
-        "Leader 3 Chuck": {
+        "Leader 3 Chuck (Level 31)": {
             "level": "31",
             "ability": "Moxie",
             "item": "Salac Berry",
@@ -25100,7 +28488,7 @@ var SETDEX_SV = {
         }
     },
     "Latios,": {
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 70)": {
             "level": "70",
             "ability": "Levitate",
             "item": "Latiosite",
@@ -25130,7 +28518,7 @@ var SETDEX_SV = {
         }
     },
     "Latias,": {
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 70)": {
             "level": "70",
             "ability": "Levitate",
             "item": "Latiasite",
@@ -25160,7 +28548,7 @@ var SETDEX_SV = {
         }
     },
     "Regidrago": {
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 70)": {
             "level": "70",
             "ability": "Dragons Maw",
             "item": "Yache Berry",
@@ -25190,7 +28578,7 @@ var SETDEX_SV = {
         }
     },
     "Heatran": {
-        "Leader 4 Clair": {
+        "Leader 4 Clair (Level 70)": {
             "level": "70",
             "ability": "Flash Fire",
             "item": "Air Balloon",
@@ -25220,7 +28608,7 @@ var SETDEX_SV = {
         }
     },
     "Relicanth": {
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 54)": {
             "level": "54",
             "ability": "32",
             "item": "Lum Berry",
@@ -25250,7 +28638,7 @@ var SETDEX_SV = {
         }
     },
     "Omastar": {
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 56)": {
             "level": "56",
             "ability": "32",
             "item": "None",
@@ -25280,7 +28668,7 @@ var SETDEX_SV = {
         }
     },
     "Rampardos": {
-        "Leader 5 Brock": {
+        "Leader 5 Brock (Level 57)": {
             "level": "57",
             "ability": "0",
             "item": "None",
@@ -25310,7 +28698,7 @@ var SETDEX_SV = {
         }
     },
     "Shiftry": {
-        "Leader 8 Erika": {
+        "Leader 8 Erika (Level 54)": {
             "level": "54",
             "ability": "0",
             "item": "None",
@@ -25340,7 +28728,7 @@ var SETDEX_SV = {
         }
     },
     "Tangrowth": {
-        "Leader 8 Erika": {
+        "Leader 8 Erika (Level 60)": {
             "level": "60",
             "ability": "0",
             "item": "None",
@@ -25370,7 +28758,7 @@ var SETDEX_SV = {
         }
     },
     "Gallade": {
-        "Leader 10 Sabrina": {
+        "Leader 10 Sabrina (Level 53)": {
             "level": "53",
             "ability": "0",
             "item": "Sitrus Berry",
@@ -25400,7 +28788,7 @@ var SETDEX_SV = {
         }
     },
     "Camerupt": {
-        "Leader 11 Blaine": {
+        "Leader 11 Blaine (Level 57)": {
             "level": "57",
             "ability": "32",
             "item": "None",
