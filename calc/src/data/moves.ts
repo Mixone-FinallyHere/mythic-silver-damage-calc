@@ -854,7 +854,7 @@ const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
     isPunch: true,
     category: 'Physical',
   },
-  Embargo: {bp: 65, type: 'Dark', category: 'Special'},
+  Taxation: {bp: 65, type: 'Dark', category: 'Special'},
   Feint: {
     bp: 50,
     type: 'Normal',
