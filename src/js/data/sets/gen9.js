@@ -22,7 +22,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "U Turn",
+                "U-turn",
                 "Ominous Wind",
                 "Ancient Power",
                 "Silver Wind"
@@ -143,7 +143,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Fly",
-                "U Turn",
+                "U-turn",
                 "Secret Power",
                 "Roost"
             ]
@@ -171,7 +171,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Fly",
-                "Double Edge",
+                "Double-Edge",
                 "Roost",
                 "Steel Wing"
             ]
@@ -258,38 +258,8 @@ var SETDEX_SV = {
             "moves": [
                 "Fake Out",
                 "Giga Impact",
-                "None",
-                "None"
-            ]
-        }
-    },
-    "Growlithe,": {
-        "Policeman Cole (Level 20)": {
-            "level": "20",
-            "ability": "Intimidate",
-            "item": "Shuca Berry",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Bite",
-                "Rock Tomb",
-                "Flame Charge",
-                "Smart Strike"
+                "-",
+                "-"
             ]
         }
     },
@@ -344,7 +314,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Electric Terrain",
+                "",
                 "Crunch",
                 "Ice Fang",
                 "Fire Fang"
@@ -404,8 +374,8 @@ var SETDEX_SV = {
             "moves": [
                 "Covet",
                 "Assurance",
-                "None",
-                "None"
+                "-",
+                "-"
             ]
         }
     },
@@ -465,7 +435,7 @@ var SETDEX_SV = {
                 "Powder Snow",
                 "Bug Bite",
                 "String Shot",
-                "None"
+                "-"
             ]
         }
     },
@@ -495,7 +465,7 @@ var SETDEX_SV = {
                 "Thunder Shock",
                 "Thunder Wave",
                 "Fake Out",
-                "None"
+                "-"
             ]
         },
         "Pokefan M Derek (Level 18)": {
@@ -607,7 +577,7 @@ var SETDEX_SV = {
                 "Shock Wave",
                 "Nuzzle",
                 "Fake Out",
-                "Feint"
+                "Swift Strike"
             ]
         },
         "Pkmn Trainer 9 Red (Level 45)": {
@@ -721,7 +691,7 @@ var SETDEX_SV = {
                 "Block",
                 "String Shot",
                 "Spider Web",
-                "None"
+                "-"
             ]
         }
     },
@@ -749,9 +719,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Quick Attack",
-                "Mud Slap",
+                "Mud-Slap",
                 "Peck",
-                "None"
+                "-"
             ]
         }
     },
@@ -781,7 +751,7 @@ var SETDEX_SV = {
                 "Razor Leaf",
                 "Headbutt",
                 "Leech Seed",
-                "None"
+                "-"
             ]
         },
         "Ace Trainer F Megan (Level 32)": {
@@ -841,7 +811,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mimejr": {
+    "Mime Jr.": {
         "Team Rocket G-101 (Level 7)": {
             "level": "7",
             "ability": "Technician",
@@ -867,7 +837,7 @@ var SETDEX_SV = {
                 "Confusion",
                 "Fake Out",
                 "Supersonic",
-                "None"
+                "-"
             ]
         }
     },
@@ -894,10 +864,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Sweet Scent",
+                "Fairy Breeze",
                 "Flail",
                 "Growl",
-                "None"
+                "-"
             ]
         }
     },
@@ -927,7 +897,7 @@ var SETDEX_SV = {
                 "Double Slap",
                 "Aqua Jet",
                 "Acid Armor",
-                "None"
+                "-"
             ]
         }
     },
@@ -991,7 +961,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Flabebe": {
+    "Flab\u00e9b\u00e9": {
         "Team Rocket 1 G-114 (Level 7)": {
             "level": "7",
             "ability": "Flower Veil",
@@ -1014,7 +984,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Sweet Scent",
+                "Fairy Breeze",
                 "Covet",
                 "Magical Leaf",
                 "Flash"
@@ -1244,10 +1214,38 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
+                "Rain Dance",
+                "Surf",
+                "Yawn",
+                "-"
+            ]
+        },
+        "Twins Kay & Tia (Level 41) 2": {
+            "level": "41",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
                 "Amnesia",
                 "Surf",
                 "Yawn",
-                "None"
+                "-"
             ]
         },
         "Twins Kay & Tia (Level 48)": {
@@ -1272,13 +1270,69 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
+                "Rain Dance",
+                "Surf",
+                "Earthquake",
+                "-"
+            ]
+        },
+        "Twins Kay & Tia (Level 48) 2": {
+            "level": "48",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
                 "Amnesia",
                 "Surf",
                 "Yawn",
-                "None"
+                "-"
             ]
         },
         "Twins Kay & Tia (Level 53)": {
+            "level": "53",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Rain Dance",
+                "Surf",
+                "Muddy Water",
+                "Earthquake"
+            ]
+        },
+        "Twins Kay & Tia (Level 53) 2": {
             "level": "53",
             "ability": "0",
             "item": "",
@@ -1307,6 +1361,34 @@ var SETDEX_SV = {
             ]
         },
         "Twins Kay & Tia (Level 55)": {
+            "level": "55",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Amnesia",
+                "Surf",
+                "Yawn",
+                "Protect"
+            ]
+        },
+        "Twins Kay & Tia (Level 55) 2": {
             "level": "55",
             "ability": "0",
             "item": "",
@@ -1417,7 +1499,7 @@ var SETDEX_SV = {
                 "Raging Fury",
                 "Sunny Day",
                 "Thunder Fang",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         },
         "Burglar Orson (Level 26)": {
@@ -1502,8 +1584,8 @@ var SETDEX_SV = {
             "moves": [
                 "Rock Throw",
                 "Peck",
-                "Mud Slap",
-                "None"
+                "Mud-Slap",
+                "-"
             ]
         }
     },
@@ -1533,7 +1615,7 @@ var SETDEX_SV = {
                 "Bullet Seed",
                 "Barrage",
                 "Leech Seed",
-                "None"
+                "-"
             ]
         },
         "Ace Trainer M Blake (Level 31)": {
@@ -1674,8 +1756,8 @@ var SETDEX_SV = {
             "moves": [
                 "Flail",
                 "Water Gun",
-                "None",
-                "None"
+                "-",
+                "-"
             ]
         },
         "Fisherman Marvin (Level 10)": {
@@ -1702,8 +1784,8 @@ var SETDEX_SV = {
             "moves": [
                 "Splash",
                 "Tackle",
-                "None",
-                "None"
+                "-",
+                "-"
             ]
         },
         "Fisherman Marvin (Level 15)": {
@@ -1730,8 +1812,8 @@ var SETDEX_SV = {
             "moves": [
                 "Splash",
                 "Tackle",
-                "None",
-                "None"
+                "-",
+                "-"
             ]
         },
         "Leader 12 Blue (Level 25)": {
@@ -1756,7 +1838,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Self Destruct",
+                "Self-Destruct",
                 "Flail",
                 "Scald",
                 "Rain Dance"
@@ -1816,180 +1898,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Wildbolt Storm",
+                "",
                 "Swagger",
                 "Thunder Wave",
                 "Hidden Power"
-            ]
-        }
-    },
-    "Rotom,": {
-        "Leader M Volkner (Level 65)": {
-            "level": "65",
-            "ability": "Levitate",
-            "item": "Life Orb",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 252,
-                "sd": 0
-            },
-            "moves": [
-                "Hydro Pump",
-                "Thunderbolt",
-                "Rain Dance",
-                "Protect"
-            ]
-        },
-        "Scientist 1 Ross (Level 63)": {
-            "level": "63",
-            "ability": "Levitate",
-            "item": "Sitrus Berry",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Overheat",
-                "Discharge",
-                "Will O Wisp",
-                "Volt Switch"
-            ]
-        },
-        "Executive Jupiter (Level 75)": {
-            "level": "75",
-            "ability": "Levitate",
-            "item": "Charti Berry",
-            "nature": "Timid",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Overheat",
-                "Foul Play",
-                "Nasty Plot",
-                "Volt Switch"
-            ]
-        },
-        "Executive Jupiter (Level 27)": {
-            "level": "27",
-            "ability": "Levitate",
-            "item": "Focus Band",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Leaf Storm",
-                "Volt Switch",
-                "Shadow Ball",
-                "Will O Wisp"
-            ]
-        },
-        "Executive 1 Saturn (Level 75)": {
-            "level": "75",
-            "ability": "Levitate",
-            "item": "Rindo Berry",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Scald",
-                "Thunderbolt",
-                "Shadow Ball",
-                "Nasty Plot"
-            ]
-        },
-        "Executive 1 Saturn (Level 52)": {
-            "level": "52",
-            "ability": "Levitate",
-            "item": "Rindo Berry",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 252,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Scald",
-                "Volt Switch",
-                "Will O Wisp",
-                "Protect"
             ]
         }
     },
@@ -2049,7 +1961,7 @@ var SETDEX_SV = {
                 "Wild Charge",
                 "Play Rough",
                 "Brave Bird",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -2307,7 +2219,7 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Thunderbolt",
                 "Scorching Sands",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         },
         "Leader 11 Blaine (Level 62)": {
@@ -2392,7 +2304,7 @@ var SETDEX_SV = {
             "moves": [
                 "Counter",
                 "Endeavor",
-                "U Turn",
+                "U-turn",
                 "Fake Out"
             ]
         }
@@ -2423,7 +2335,7 @@ var SETDEX_SV = {
                 "Fake Out",
                 "Flare Blitz",
                 "Sunny Day",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -2511,7 +2423,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Leaf Blade",
-                "U Turn",
+                "U-turn",
                 "Crunch",
                 "Dig"
             ]
@@ -2541,7 +2453,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Giga Drain",
-                "U Turn",
+                "U-turn",
                 "Stun Spore",
                 "Bug Buzz"
             ]
@@ -2629,7 +2541,7 @@ var SETDEX_SV = {
                 "Giga Drain",
                 "Spore",
                 "Attract",
-                "X Scissor"
+                "X-Scissor"
             ]
         }
     },
@@ -2663,6 +2575,34 @@ var SETDEX_SV = {
             ]
         },
         "Hiker Anthony (Level 23)": {
+            "level": "23",
+            "ability": "Storm Drain",
+            "item": "Rindo Berry",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Recover",
+                "Mud Bomb",
+                "Scald",
+                "Icy Wind"
+            ]
+        },
+        "Hiker Anthony (Level 23) 4": {
             "level": "23",
             "ability": "Storm Drain",
             "item": "Rindo Berry",
@@ -2946,154 +2886,6 @@ var SETDEX_SV = {
                 "Aqua Jet",
                 "Endure",
                 "Giga Drain"
-            ]
-        }
-    },
-    "Braviary,": {
-        "Camper Roland (Level 57)": {
-            "level": "57",
-            "ability": "Tinted Lens",
-            "item": "Sitrus Berry",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 252,
-                "sd": 0
-            },
-            "moves": [
-                "Psychic",
-                "Air Slash",
-                "Heat Wave",
-                "Dazzling Gleam"
-            ]
-        }
-    },
-    "Rapidash,": {
-        "Camper Roland (Level 56)": {
-            "level": "56",
-            "ability": "Anticipation",
-            "item": "Babiri Berry",
-            "nature": "Timid",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Moonblast",
-                "Lunar Dance",
-                "Psyshock",
-                "Calm Mind"
-            ]
-        },
-        "Team Rocket G-559 (Level 37)": {
-            "level": "37",
-            "ability": "Pixilate",
-            "item": "Babiri Berry",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 152,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Drill Run",
-                "Wild Charge",
-                "Spirit Break",
-                "Smart Strike"
-            ]
-        }
-    },
-    "Exeggutor,": {
-        "Picnicker Liz (Level 56)": {
-            "level": "56",
-            "ability": "Harvest",
-            "item": "Yache Berry",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Sunny Day",
-                "Solar Beam",
-                "Draco Meteor",
-                "Psychic"
-            ]
-        }
-    },
-    "Sawsbuck,": {
-        "Picnicker Liz (Level 55)": {
-            "level": "55",
-            "ability": "Chlorophyll",
-            "item": "Life Orb",
-            "nature": "Jolly",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Horn Leech",
-                "High Jump Kick",
-                "High Horsepower",
-                "Wild Charge"
             ]
         }
     },
@@ -3430,7 +3222,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Last Resort",
+                "Star Prayer",
                 "Surf",
                 "Quick Attack",
                 "Aurora Beam"
@@ -3517,8 +3309,8 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Sky Attack",
-                "U Turn",
-                "Double Edge",
+                "U-turn",
+                "Double-Edge",
                 "Roost"
             ]
         },
@@ -3545,8 +3337,8 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Sky Attack",
-                "U Turn",
-                "Double Edge",
+                "U-turn",
+                "Double-Edge",
                 "Roost"
             ]
         }
@@ -3718,8 +3510,8 @@ var SETDEX_SV = {
             "moves": [
                 "Thrash",
                 "Surf",
-                "None",
-                "None"
+                "-",
+                "-"
             ]
         },
         "Champion Lance (Level 70)": {
@@ -3861,35 +3653,33 @@ var SETDEX_SV = {
                 "Waterfall",
                 "Dragon Dance"
             ]
-        }
-    },
-    "Indeedee,": {
-        "Leader Whitney (Level 41)": {
-            "level": "41",
-            "ability": "Psychic Surge",
-            "item": "Sitrus Berry",
-            "nature": "Bold",
+        },
+        "Champion Lance (Level 68) 5": {
+            "level": "68",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
             "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
             },
             "evs": {
-                "hp": 252,
+                "hp": 0,
                 "at": 0,
-                "df": 252,
+                "df": 0,
                 "sp": 0,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Psychic",
-                "Follow Me",
-                "Trick Room",
-                "Dazzling Gleam"
+                "Thunder Wave",
+                "Ice Fang",
+                "Waterfall",
+                "Dragon Dance"
             ]
         }
     },
@@ -3923,7 +3713,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Porygon Z": {
+    "Porygon-Z": {
         "Leader Whitney (Level 41)": {
             "level": "41",
             "ability": "Adaptability",
@@ -4011,36 +3801,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Audino,": {
-        "Leader Whitney (Level 41)": {
-            "level": "41",
-            "ability": "Healer",
-            "item": "Leftovers",
-            "nature": "Calm",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Protect",
-                "Wish",
-                "Toxic",
-                "Flamethrower"
-            ]
-        }
-    },
     "Regigigas": {
         "Leader Whitney (Level 42)": {
             "level": "42",
@@ -4124,70 +3884,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Self Destruct",
+                "Self-Destruct",
                 "Air Cutter",
                 "Ominous Wind",
                 "Destiny Bond"
-            ]
-        }
-    },
-    "Zoroark,": {
-        "Leader 0 Morty (Level 19)": {
-            "level": "19",
-            "ability": "Illusion",
-            "item": "Colbur Berry",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Shadow Claw",
-                "Facade",
-                "U Turn",
-                "Night Daze"
-            ]
-        }
-    },
-    "Corsola,": {
-        "Leader 0 Morty (Level 19)": {
-            "level": "19",
-            "ability": "Cursed Body",
-            "item": "Quick Claw",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Pain Split",
-                "Will O Wisp",
-                "Whirlpool",
-                "Giga Drain"
             ]
         }
     },
@@ -4215,12 +3915,40 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Sludge",
-                "Memento",
+                "Shadow Shift",
                 "Shock Wave",
                 "Toxic Spikes"
             ]
         },
         "Rival Silver (Level 37)": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mean Look",
+                "Curse",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
+        "Rival Silver (Level 37) 5": {
             "level": "37",
             "ability": "0",
             "item": "",
@@ -4276,7 +4004,63 @@ var SETDEX_SV = {
                 "Shadow Ball"
             ]
         },
+        "Rival Silver (Level 37) 8": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mean Look",
+                "Curse",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
         "Rival Silver (Level 32)": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Confuse Ray",
+                "Mean Look",
+                "Curse",
+                "Shadow Ball"
+            ]
+        },
+        "Rival Silver (Level 32) 6": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -4329,39 +4113,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Rock Tomb",
-                "Sheer Cold",
+                "Permafrost",
                 "Reflect",
                 "Light Screen"
-            ]
-        }
-    },
-    "Sandslash,": {
-        "Leader 1 Pryce (Level 11)": {
-            "level": "11",
-            "ability": "Slush Rush",
-            "item": "Jaboca Berry",
-            "nature": "Impish",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Metal Claw",
-                "Icicle Spear",
-                "Hone Claws",
-                "Rock Throw"
             ]
         }
     },
@@ -4389,7 +4143,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Avalanche",
-                "Whirlpool",
+                "Aqua Vortex",
                 "Yawn",
                 "Bulldoze"
             ]
@@ -4421,7 +4175,7 @@ var SETDEX_SV = {
                 "Fling",
                 "Icicle Spear",
                 "Headbutt",
-                "Power Up Punch"
+                "Power-Up Punch"
             ]
         },
         "Pokefan M Colin (Level 40)": {
@@ -4449,7 +4203,7 @@ var SETDEX_SV = {
                 "Present",
                 "Aerial Ace",
                 "Avalanche",
-                "None"
+                "-"
             ]
         }
     },
@@ -4629,36 +4383,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Dugtrio,": {
-        "Leader 2 Jasmine (Level 22)": {
-            "level": "22",
-            "ability": "Sand Force",
-            "item": "Focus Sash",
-            "nature": "Jolly",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Bulldoze",
-                "Iron Head",
-                "Rock Slide",
-                "Reversal"
-            ]
-        }
-    },
     "Kingambit": {
         "Leader 2 Jasmine (Level 23)": {
             "level": "23",
@@ -4689,36 +4413,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Sneasler,": {
-        "Leader 3 Chuck (Level 29)": {
-            "level": "29",
-            "ability": "Unburden",
-            "item": "Focus Sash",
-            "nature": "Jolly",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Poison Jab",
-                "Take Down",
-                "Reversal",
-                "U Turn"
-            ]
-        }
-    },
     "Passimian": {
         "Leader 3 Chuck (Level 29)": {
             "level": "29",
@@ -4744,12 +4438,12 @@ var SETDEX_SV = {
             "moves": [
                 "Low Kick",
                 "Rock Slide",
-                "U Turn",
+                "U-turn",
                 "Bullet Punch"
             ]
         }
     },
-    "Sirfetchd": {
+    "Sirfetch\u2019d": {
         "Leader 3 Chuck (Level 29)": {
             "level": "29",
             "ability": "Scrappy",
@@ -4781,6 +4475,34 @@ var SETDEX_SV = {
     },
     "Dragonair": {
         "Leader 4 Clair (Level 38)": {
+            "level": "38",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Fire Blast",
+                "Slam",
+                "Dragon Pulse"
+            ]
+        },
+        "Leader 4 Clair (Level 38) 3": {
             "level": "38",
             "ability": "0",
             "item": "None",
@@ -4975,12 +4697,96 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Transform",
-                "None",
-                "None",
-                "None"
+                "-",
+                "-",
+                "-"
             ]
         },
         "Pkmn Breeder M Coppy (Level 20)": {
+            "level": "20",
+            "ability": "Imposter",
+            "item": "Sitrus Berry",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Transform",
+                "-",
+                "-",
+                "-"
+            ]
+        },
+        "Pkmn Breeder M Coppy (Level 20) 2": {
+            "level": "20",
+            "ability": "Imposter",
+            "item": "Focus Sash",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Transform",
+                "-",
+                "-",
+                "-"
+            ]
+        },
+        "Pkmn Breeder M Coppy (Level 20) 3": {
+            "level": "20",
+            "ability": "Imposter",
+            "item": "Choice Scarf",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Transform",
+                "-",
+                "-",
+                "-"
+            ]
+        },
+        "Pkmn Breeder M Coppy (Level 20) 4": {
             "level": "20",
             "ability": "Imposter",
             "item": "Life Orb",
@@ -5003,9 +4809,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Transform",
-                "None",
-                "None",
-                "None"
+                "-",
+                "-",
+                "-"
             ]
         },
         "School Kid M Ricky (Level 40)": {
@@ -5060,7 +4866,7 @@ var SETDEX_SV = {
                 "sd": 252
             },
             "moves": [
-                "Soft Boiled",
+                "Soft-Boiled",
                 "Zap Cannon",
                 "Fire Blast",
                 "Blizzard"
@@ -5088,7 +4894,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Soft Boiled",
+                "Soft-Boiled",
                 "Counter",
                 "Psychic",
                 "Toxic"
@@ -5181,7 +4987,7 @@ var SETDEX_SV = {
                 "High Horsepower",
                 "Heavy Slam",
                 "Revenge",
-                "Stealth Rock"
+                "Accelerock"
             ]
         },
         "Ace Trainer M Kevin (Level 44)": {
@@ -5244,6 +5050,34 @@ var SETDEX_SV = {
         },
         "Swimmer M Randall (Level 18)": {
             "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Supersonic",
+                "Icicle Spear",
+                "Withdraw",
+                "Tackle"
+            ]
+        },
+        "Swimmer M Randall (Level 18) 2": {
+            "level": "18",
             "ability": "32",
             "item": "",
             "nature": "",
@@ -5295,7 +5129,7 @@ var SETDEX_SV = {
                 "Icicle Spear",
                 "Spike Cannon",
                 "Ice Shard",
-                "Whirlpool"
+                "Aqua Vortex"
             ]
         },
         "Boarder Gerardo (Level 25)": {
@@ -5439,7 +5273,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Karate Chop",
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Payback",
                 "Rock Tomb"
             ]
@@ -5497,7 +5331,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Bite",
-                "Sand Tomb",
+                "Sand Vortex",
                 "Hone Claws",
                 "Thunder Fang"
             ]
@@ -5529,7 +5363,7 @@ var SETDEX_SV = {
                 "Hail",
                 "Icy Wind",
                 "Glare",
-                "Self Destruct"
+                "Self-Destruct"
             ]
         }
     },
@@ -5763,7 +5597,7 @@ var SETDEX_SV = {
                 "Snowscape",
                 "Blizzard",
                 "Shadow Ball",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         },
         "Leader 1 Pryce (Level 52)": {
@@ -5913,64 +5747,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Ponyta,": {
-        "Elder Guide Gent (Level 5)": {
-            "level": "5",
-            "ability": "Pixilate",
-            "item": "None",
-            "nature": "Timid",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Confusion",
-                "Sweet Scent",
-                "Stomp",
-                "None"
-            ]
-        },
-        "Team Rocket G-152 (Level 7)": {
-            "level": "7",
-            "ability": "Synchronize",
-            "item": "Rowap Berry",
-            "nature": "Sassy",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Stomp",
-                "Sweet Scent",
-                "Confusion",
-                "Protect"
-            ]
-        }
-    },
     "Wooloo": {
         "Elder Guide Gent (Level 6)": {
             "level": "6",
@@ -5997,65 +5773,7 @@ var SETDEX_SV = {
                 "Rollout",
                 "Tackle",
                 "Double Kick",
-                "None"
-            ]
-        }
-    },
-    "Zorua,": {
-        "Elder Guide Gent (Level 6)": {
-            "level": "6",
-            "ability": "Illusion",
-            "item": "None",
-            "nature": "Jolly",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Quick Attack",
-                "Astonish",
-                "Thief",
-                "None"
-            ]
-        },
-        "Medium Grace (Level 16)": {
-            "level": "16",
-            "ability": "Illusion",
-            "item": "None",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 80,
-                "sd": 0
-            },
-            "moves": [
-                "Headbutt",
-                "Will O Wisp",
-                "Memento",
-                "Shadow Sneak"
+                "-"
             ]
         }
     },
@@ -6085,7 +5803,7 @@ var SETDEX_SV = {
                 "Vine Whip",
                 "Headbutt",
                 "Leech Seed",
-                "None"
+                "-"
             ]
         }
     },
@@ -6141,7 +5859,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Phantom Force",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Shadow Sneak",
                 "Knock Off"
             ]
@@ -6172,7 +5890,7 @@ var SETDEX_SV = {
             "moves": [
                 "Ancient Power",
                 "Ominous Wind",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Revenge"
             ]
         }
@@ -6232,8 +5950,8 @@ var SETDEX_SV = {
             "moves": [
                 "Quick Attack",
                 "Sand Attack",
-                "None",
-                "None"
+                "-",
+                "-"
             ]
         }
     },
@@ -6374,7 +6092,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Double Edge",
+                "Double-Edge",
                 "Fire Blast",
                 "Psychic Fangs",
                 "Ice Ball"
@@ -6406,7 +6124,7 @@ var SETDEX_SV = {
             "moves": [
                 "Quick Attack",
                 "Endeavor",
-                "Double Edge",
+                "Double-Edge",
                 "Close Combat"
             ]
         }
@@ -6725,7 +6443,7 @@ var SETDEX_SV = {
                 "Rock Slide",
                 "Bounce",
                 "Dragon Claw",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -6755,7 +6473,7 @@ var SETDEX_SV = {
                 "Fly",
                 "Take Down",
                 "Body Slam",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -6785,7 +6503,7 @@ var SETDEX_SV = {
                 "Air Slash",
                 "Heat Wave",
                 "Roost",
-                "U Turn"
+                "U-turn"
             ]
         },
         "Champion Lance (Level 73)": {
@@ -7015,7 +6733,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Low Kick",
-                "X Scissor",
+                "X-Scissor",
                 "Rock Slide",
                 "Knock Off"
             ]
@@ -7163,7 +6881,7 @@ var SETDEX_SV = {
                 "Dragon Claw",
                 "Scorching Sands",
                 "Crunch",
-                "U Turn"
+                "U-turn"
             ]
         },
         "Team Rocket G-980 (Level 71)": {
@@ -7222,64 +6940,6 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Leech Seed",
                 "Iron Defense"
-            ]
-        }
-    },
-    "Goodra,": {
-        "Sage Neal (Level 46)": {
-            "level": "46",
-            "ability": "Sap Sipper",
-            "item": "Maranga Berry",
-            "nature": "Calm",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 88,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Flash Cannon",
-                "Acid Armor",
-                "Muddy Water",
-                "Ice Beam"
-            ]
-        },
-        "Leader 4 Clair (Level 70)": {
-            "level": "70",
-            "ability": "Shell Armor",
-            "item": "Leftovers",
-            "nature": "Calm",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Rain Dance",
-                "Gyro Ball",
-                "Breaking Swipe",
-                "Curse"
             ]
         }
     },
@@ -7454,6 +7114,34 @@ var SETDEX_SV = {
                 "Poison Jab"
             ]
         },
+        "Swimmer F Briana (Level 46) 2": {
+            "level": "46",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Water Pulse",
+                "Aqua Ring",
+                "Supersonic",
+                "Poison Jab"
+            ]
+        },
         "Fisherman Mickey (Level 39)": {
             "level": "39",
             "ability": "0",
@@ -7594,6 +7282,34 @@ var SETDEX_SV = {
             "moves": [
                 "Acrobatics",
                 "Bulldoze",
+                "Toxic",
+                "Breaking Swipe"
+            ]
+        },
+        "Hiker Anthony (Level 23) 3": {
+            "level": "23",
+            "ability": "Hyper Cutter",
+            "item": "Yache Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 204,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Acrobatics",
+                "Bulldoze",
                 "Toxic Spikes",
                 "Breaking Swipe"
             ]
@@ -7601,6 +7317,34 @@ var SETDEX_SV = {
     },
     "Clodsire": {
         "Hiker Anthony (Level 24)": {
+            "level": "24",
+            "ability": "Water Absorb",
+            "item": "Shuca Berry",
+            "nature": "Quiet",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Attract",
+                "Venoshock",
+                "Brutal Swing",
+                "Mud Bomb"
+            ]
+        },
+        "Hiker Anthony (Level 24) 2": {
             "level": "24",
             "ability": "Water Absorb",
             "item": "Shuca Berry",
@@ -8325,7 +8069,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Drill Peck",
-                "U Turn",
+                "U-turn",
                 "Flamethrower",
                 "Bulk Up"
             ]
@@ -8615,7 +8359,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Curse",
-                "Embargo",
+                "Taxation",
                 "Trick",
                 "Shock Wave"
             ]
@@ -8648,36 +8392,6 @@ var SETDEX_SV = {
                 "Hone Claws",
                 "Covet",
                 "Aerial Ace"
-            ]
-        }
-    },
-    "Rattata,": {
-        "Medium Grace (Level 16)": {
-            "level": "16",
-            "ability": "Hustle",
-            "item": "None",
-            "nature": "Hardy",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 52,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Bite",
-                "Feint",
-                "Me First",
-                "U Turn"
             ]
         }
     },
@@ -8884,6 +8598,34 @@ var SETDEX_SV = {
     "Horsea": {
         "Swimmer F Wendy (Level 21)": {
             "level": "21",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bubble",
+                "Smokescreen",
+                "Leer",
+                "Bubble Beam"
+            ]
+        },
+        "Swimmer F Wendy (Level 21) 2": {
+            "level": "21",
             "ability": "32",
             "item": "",
             "nature": "",
@@ -8963,9 +8705,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Cosmic Power",
-                "Memento",
+                "Shadow Shift",
                 "Confusion",
-                "None"
+                "-"
             ]
         },
         "Psychic M Mark (Level 14)": {
@@ -8992,8 +8734,36 @@ var SETDEX_SV = {
             "moves": [
                 "Teleport",
                 "Flash",
-                "None",
-                "None"
+                "-",
+                "-"
+            ]
+        },
+        "Psychic M Mark (Level 14) 2": {
+            "level": "14",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Teleport",
+                "Flash",
+                "-",
+                "-"
             ]
         },
         "Scientist 1 Mitch (Level 6)": {
@@ -9051,7 +8821,7 @@ var SETDEX_SV = {
                 "Draining Kiss",
                 "Aromatherapy",
                 "Light Screen",
-                "None"
+                "-"
             ]
         }
     },
@@ -9081,7 +8851,7 @@ var SETDEX_SV = {
                 "Draining Kiss",
                 "Pound",
                 "Focus Energy",
-                "None"
+                "-"
             ]
         }
     },
@@ -9117,7 +8887,7 @@ var SETDEX_SV = {
         "Leader 8 Erika (Level 56)": {
             "level": "56",
             "ability": "0",
-            "item": "Kelpsy Berry",
+            "item": "None",
             "nature": "",
             "ivs": {
                 "hp": 0,
@@ -9136,10 +8906,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Natural Gift",
-                "Sludge Bomb",
-                "Leaf Storm",
-                "Leaf Blade"
+                "Sunny Day",
+                "Synthesis",
+                "Grass Knot",
+                "Leaf Storm"
             ]
         },
         "Twins Jo & Zoe (Level 47)": {
@@ -9281,6 +9051,34 @@ var SETDEX_SV = {
                 "Acid",
                 "Leaf Blade"
             ]
+        },
+        "Leader 8 Erika (Level 56) 3": {
+            "level": "56",
+            "ability": "0",
+            "item": "Kelpsy Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Natural Gift",
+                "Sludge Bomb",
+                "Leaf Storm",
+                "Leaf Blade"
+            ]
         }
     },
     "Kingler": {
@@ -9364,7 +9162,7 @@ var SETDEX_SV = {
             "moves": [
                 "Brine",
                 "Stomp",
-                "X Scissor",
+                "X-Scissor",
                 "Protect"
             ]
         },
@@ -9392,7 +9190,7 @@ var SETDEX_SV = {
             "moves": [
                 "Brine",
                 "Crabhammer",
-                "X Scissor",
+                "X-Scissor",
                 "Protect"
             ]
         }
@@ -9448,10 +9246,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Last Resort",
+                "Star Prayer",
                 "Fire Blast",
                 "Quick Attack",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         },
         "Ace Trainer M Gaven (Level 34)": {
@@ -9507,7 +9305,7 @@ var SETDEX_SV = {
                 "Fire Blast",
                 "Quick Attack",
                 "Sand Attack",
-                "Fire Spin"
+                "Fire Vortex"
             ]
         },
         "Sage Mickey (Level 32)": {
@@ -9562,7 +9360,7 @@ var SETDEX_SV = {
             "moves": [
                 "Overheat",
                 "Quick Attack",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Attract"
             ]
         },
@@ -9708,7 +9506,119 @@ var SETDEX_SV = {
                 "Magnet Bomb"
             ]
         },
+        "Rival Silver (Level 37) 4": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Spark",
+                "Supersonic",
+                "Thunder Wave",
+                "Magnet Bomb"
+            ]
+        },
+        "Rival Silver (Level 37) 7": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Spark",
+                "Supersonic",
+                "Thunder Wave",
+                "Magnet Bomb"
+            ]
+        },
         "Rival Silver (Level 46)": {
+            "level": "46",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Discharge",
+                "Supersonic",
+                "Thunder Wave",
+                "Magnet Bomb"
+            ]
+        },
+        "Rival Silver (Level 46) 4": {
+            "level": "46",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Discharge",
+                "Supersonic",
+                "Thunder Wave",
+                "Magnet Bomb"
+            ]
+        },
+        "Rival Silver (Level 46) 6": {
             "level": "46",
             "ability": "0",
             "item": "",
@@ -9816,7 +9726,7 @@ var SETDEX_SV = {
             "moves": [
                 "Zap Cannon",
                 "Thunder Wave",
-                "Lock On",
+                "Lock-On",
                 "Swift"
             ]
         }
@@ -9962,7 +9872,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Sheer Cold",
+                "Permafrost",
                 "Double Team",
                 "Mirror Coat",
                 "Mirror Shot"
@@ -10026,6 +9936,34 @@ var SETDEX_SV = {
                 "Fury Swipes"
             ]
         },
+        "Rival Silver (Level 36) 2": {
+            "level": "36",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Icy Wind",
+                "Feint Attack",
+                "Fury Swipes"
+            ]
+        },
         "Rival Silver (Level 32)": {
             "level": "32",
             "ability": "0",
@@ -10052,6 +9990,34 @@ var SETDEX_SV = {
                 "Quick Attack",
                 "Fury Swipes",
                 "Feint Attack"
+            ]
+        },
+        "Rival Silver (Level 36) 3": {
+            "level": "36",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Icy Wind",
+                "Feint Attack",
+                "Fury Swipes"
             ]
         },
         "Rival Silver (Level 46)": {
@@ -10082,7 +10048,91 @@ var SETDEX_SV = {
                 "Shadow Claw"
             ]
         },
+        "Rival Silver (Level 46) 3": {
+            "level": "46",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Icy Wind",
+                "Feint Attack",
+                "Shadow Claw"
+            ]
+        },
+        "Rival Silver (Level 46) 5": {
+            "level": "46",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Icy Wind",
+                "Feint Attack",
+                "Shadow Claw"
+            ]
+        },
         "Rival Silver (Level 34)": {
+            "level": "34",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Icy Wind",
+                "Quick Attack",
+                "Fury Swipes",
+                "Feint Attack"
+            ]
+        },
+        "Rival Silver (Level 34) 3": {
             "level": "34",
             "ability": "0",
             "item": "",
@@ -10167,7 +10217,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Hakamo O": {
+    "Hakamo-o": {
         "Ace Trainer M Paulo (Level 24)": {
             "level": "24",
             "ability": "Bulletproof",
@@ -10192,7 +10242,7 @@ var SETDEX_SV = {
             "moves": [
                 "Take Down",
                 "Dual Chop",
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Dragon Dance"
             ]
         }
@@ -10220,8 +10270,8 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "First Impression",
-                "Outrage",
+                "",
+                "Supernova",
                 "Dragon Dance",
                 "Bulldoze"
             ]
@@ -10280,7 +10330,7 @@ var SETDEX_SV = {
             "moves": [
                 "Dragon Rage",
                 "Scorching Sands",
-                "Fire Spin",
+                "Fire Vortex",
                 "Slack Off"
             ]
         },
@@ -10337,8 +10387,8 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Stomp",
-                "Fire Spin",
-                "Will O Wisp",
+                "Fire Vortex",
+                "Will-O-Wisp",
                 "Agility"
             ]
         },
@@ -10421,7 +10471,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Stomp",
-                "Fire Spin",
+                "Fire Vortex",
                 "Flame Wheel",
                 "Ember"
             ]
@@ -10449,7 +10499,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Stomp",
-                "Fire Spin",
+                "Fire Vortex",
                 "Fire Blast",
                 "Ember"
             ]
@@ -10477,7 +10527,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Bounce",
-                "Fire Spin",
+                "Fire Vortex",
                 "Flare Blitz",
                 "Ember"
             ]
@@ -10564,7 +10614,7 @@ var SETDEX_SV = {
             "moves": [
                 "Discharge",
                 "Fire Punch",
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Dazzling Gleam"
             ]
         },
@@ -10733,7 +10783,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Solar Beam",
-                "Double Edge",
+                "Double-Edge",
                 "Synthesis",
                 "Sludge Bomb"
             ]
@@ -10764,7 +10814,7 @@ var SETDEX_SV = {
             "moves": [
                 "Petal Dance",
                 "Sleep Powder",
-                "Double Edge",
+                "Double-Edge",
                 "Leech Seed"
             ]
         },
@@ -10821,7 +10871,7 @@ var SETDEX_SV = {
                 "Solar Beam",
                 "Razor Leaf",
                 "Headbutt",
-                "Mud Slap"
+                "Mud-Slap"
             ]
         }
     },
@@ -10879,7 +10929,7 @@ var SETDEX_SV = {
                 "Nasty Plot",
                 "Fire Blast",
                 "Confuse Ray",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         },
         "Scientist 1 Daniel (Level 50)": {
@@ -10905,7 +10955,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Overheat",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Quick Attack",
                 "Roar"
             ]
@@ -10937,7 +10987,7 @@ var SETDEX_SV = {
                 "Swords Dance",
                 "Shadow Sneak",
                 "Play Rough",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         }
     },
@@ -10995,102 +11045,42 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Ice Shard",
-                "Sand Tomb",
+                "Sand Vortex",
                 "Protect",
                 "Charm"
             ]
         }
     },
-    "Vulpix,": {
-        "Ace Trainer F Kelly (Level 10)": {
-            "level": "10",
-            "ability": "Clear Body",
-            "item": "None",
-            "nature": "Quirky",
+    "Remoraid": {
+        "Fisherman Edgar (Level 28)": {
+            "level": "28",
+            "ability": "0",
+            "item": "",
+            "nature": "",
             "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
+                "hp": 0,
                 "at": 0,
                 "df": 0,
                 "sp": 0,
                 "sa": 0,
                 "sd": 0
-            },
-            "moves": [
-                "Draining Kiss",
-                "Icy Wind",
-                "Calm Mind",
-                "Confuse Ray"
-            ]
-        },
-        "Skier Teresa (Level 15)": {
-            "level": "15",
-            "ability": "Snow Warning",
-            "item": "None",
-            "nature": "Timid",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
             },
             "evs": {
                 "hp": 0,
                 "at": 0,
                 "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Draining Kiss",
-                "Powder Snow",
-                "Disable",
-                "Fake Tears"
-            ]
-        }
-    },
-    "Sandshrew,": {
-        "Ace Trainer F Kelly (Level 9)": {
-            "level": "9",
-            "ability": "Snow Cloak",
-            "item": "None",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
                 "sp": 0,
                 "sa": 0,
                 "sd": 0
             },
             "moves": [
-                "Blizzard",
-                "Flash Cannon",
-                "Super Fang",
-                "Bulldoze"
+                "Lock-On",
+                "Psybeam",
+                "Aurora Beam",
+                "Bubble Beam"
             ]
-        }
-    },
-    "Remoraid": {
-        "Fisherman Edgar (Level 28)": {
+        },
+        "Fisherman Edgar (Level 28) 2": {
             "level": "28",
             "ability": "32",
             "item": "",
@@ -11112,7 +11102,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Lock On",
+                "Lock-On",
                 "Psybeam",
                 "Aurora Beam",
                 "Bubble Beam"
@@ -11352,7 +11342,7 @@ var SETDEX_SV = {
             "moves": [
                 "Fire Punch",
                 "Scorching Sands",
-                "U Turn",
+                "U-turn",
                 "Jump Kick"
             ]
         }
@@ -11467,7 +11457,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Seed Bomb",
-                "Double Edge",
+                "Double-Edge",
                 "Rock Slide",
                 "Dual Chop"
             ]
@@ -11503,36 +11493,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Lilligant,": {
-        "Black Belt Lung (Level 29)": {
-            "level": "29",
-            "ability": "Rough Skin",
-            "item": "Focus Sash",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 108,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Seed Bomb",
-                "Jump Kick",
-                "Sunny Day",
-                "Stun Spore"
-            ]
-        }
-    },
     "Espeon": {
         "Kimono Girl Naoko (Level 38)": {
             "level": "38",
@@ -11556,7 +11516,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Last Resort",
+                "Star Prayer",
                 "Psychic",
                 "Psych Up",
                 "Swift"
@@ -11614,7 +11574,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Last Resort",
+                "Star Prayer",
                 "Thunderbolt",
                 "Double Team",
                 "Thunder Wave"
@@ -11784,7 +11744,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Last Resort",
+                "Star Prayer",
                 "Dark Pulse",
                 "Confuse Ray",
                 "Shadow Ball"
@@ -11900,7 +11860,7 @@ var SETDEX_SV = {
             "moves": [
                 "Toxic",
                 "Sludge Bomb",
-                "Sweet Scent",
+                "Fairy Breeze",
                 "Drain Punch"
             ]
         },
@@ -12213,9 +12173,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Thunder Wave",
-                "Sweet Scent",
+                "Fairy Breeze",
                 "Thunder Shock",
-                "None"
+                "-"
             ]
         },
         "Team Rocket G-547 (Level 35)": {
@@ -12273,7 +12233,7 @@ var SETDEX_SV = {
                 "Confusion",
                 "Trick Room",
                 "Charm",
-                "None"
+                "-"
             ]
         }
     },
@@ -12303,7 +12263,7 @@ var SETDEX_SV = {
                 "Confusion",
                 "Hidden Power",
                 "Astonish",
-                "None"
+                "-"
             ]
         }
     },
@@ -12361,7 +12321,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Stun Spore",
-                "Sweet Scent",
+                "Fairy Breeze",
                 "Sleep Powder",
                 "Mega Drain"
             ]
@@ -12420,7 +12380,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Mud Slap",
+                "Mud-Slap",
                 "Water Gun",
                 "Icy Wind",
                 "Headbutt"
@@ -12450,8 +12410,8 @@ var SETDEX_SV = {
                 "sd": 252
             },
             "moves": [
-                "Sand Tomb",
-                "Whirlpool",
+                "Sand Vortex",
+                "Aqua Vortex",
                 "Aqua Ring",
                 "Swagger"
             ]
@@ -12480,7 +12440,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Vice Grip",
+                "Vise Grip",
                 "Bubble Beam",
                 "Hone Claws",
                 "Metal Claw"
@@ -12510,7 +12470,7 @@ var SETDEX_SV = {
             "moves": [
                 "Bubble Beam",
                 "Leer",
-                "Vice Grip",
+                "Vise Grip",
                 "Harden"
             ]
         },
@@ -12538,7 +12498,7 @@ var SETDEX_SV = {
             "moves": [
                 "Bubble Beam",
                 "Mud Shot",
-                "Vice Grip",
+                "Vise Grip",
                 "Harden"
             ]
         }
@@ -12566,7 +12526,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Vice Grip",
+                "Vise Grip",
                 "Aqua Jet",
                 "Cut",
                 "Hone Claws"
@@ -12596,7 +12556,7 @@ var SETDEX_SV = {
                 "sd": 196
             },
             "moves": [
-                "Vice Grip",
+                "Vise Grip",
                 "Water Pulse",
                 "Protect",
                 "Taunt"
@@ -12656,8 +12616,8 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Mud Slap",
-                "Whirlpool",
+                "Mud-Slap",
+                "Aqua Vortex",
                 "Yawn",
                 "Rock Smash"
             ]
@@ -12686,7 +12646,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Stealth Rock",
+                "Accelerock",
                 "Aqua Jet",
                 "Rock Tomb",
                 "Flail"
@@ -12716,7 +12676,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Whirlpool",
+                "Aqua Vortex",
                 "Aqua Ring",
                 "Amnesia",
                 "Rain Dance"
@@ -12746,7 +12706,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Whirlpool",
+                "Aqua Vortex",
                 "Poison Sting",
                 "Water Gun",
                 "Toxic"
@@ -12865,7 +12825,7 @@ var SETDEX_SV = {
                 "Tackle",
                 "Growl",
                 "Water Gun",
-                "None"
+                "-"
             ]
         },
         "Psychic M Nelson (Level 20)": {
@@ -12950,7 +12910,7 @@ var SETDEX_SV = {
             "moves": [
                 "Bite",
                 "Aqua Jet",
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Slash"
             ]
         }
@@ -13038,7 +12998,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Bubble Beam",
                 "Aerial Ace",
                 "Focus Energy"
@@ -13070,7 +13030,7 @@ var SETDEX_SV = {
             "moves": [
                 "Fake Out",
                 "Fire Punch",
-                "U Turn",
+                "U-turn",
                 "Bite"
             ]
         }
@@ -13100,38 +13060,8 @@ var SETDEX_SV = {
             "moves": [
                 "Fake Out",
                 "Poison Jab",
-                "U Turn",
+                "U-turn",
                 "Lava Plume"
-            ]
-        }
-    },
-    "Muk,": {
-        "Team Rocket G-370 (Level 19)": {
-            "level": "19",
-            "ability": "Poison Touch",
-            "item": "Black Sludge",
-            "nature": "Hardy",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Venoshock",
-                "Dark Pulse",
-                "Drain Punch",
-                "Toxic Spikes"
             ]
         }
     },
@@ -13339,94 +13269,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Voltorb,": {
-        "Team Rocket G-420 (Level 22)": {
-            "level": "22",
-            "ability": "Volt Absorb",
-            "item": "None",
-            "nature": "Hardy",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 30,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 100,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Self Destruct",
-                "Grass Knot",
-                "Discharge",
-                "Volt Switch"
-            ]
-        },
-        "Skier Diana (Level 16)": {
-            "level": "16",
-            "ability": "Static",
-            "item": "Magnet",
-            "nature": "Calm",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Grass Knot",
-                "Shock Wave",
-                "Sonic Boom",
-                "Stun Spore"
-            ]
-        }
-    },
-    "Geodude,": {
-        "Team Rocket G-420 (Level 23)": {
-            "level": "23",
-            "ability": "Sturdy",
-            "item": "None",
-            "nature": "Impish",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 100,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Rock Slide",
-                "Wild Charge",
-                "Swagger",
-                "Magnet Rise"
-            ]
-        }
-    },
     "Helioptile": {
         "Team Rocket G-420 (Level 24)": {
             "level": "24",
@@ -13453,7 +13295,7 @@ var SETDEX_SV = {
                 "Sunny Day",
                 "Grass Knot",
                 "Hidden Power",
-                "Parabolic Charge"
+                ""
             ]
         }
     },
@@ -13629,7 +13471,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Discharge",
-                "Gravity",
+                "Black Hole",
                 "Grass Knot",
                 "Ice Punch"
             ]
@@ -13746,7 +13588,7 @@ var SETDEX_SV = {
             "moves": [
                 "Discharge",
                 "Ice Punch",
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Dual Chop"
             ]
         },
@@ -13949,9 +13791,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Explosion",
-                "None",
-                "None",
-                "None"
+                "-",
+                "-",
+                "-"
             ]
         },
         "Ace Trainer F Salma (Level 53)": {
@@ -14007,39 +13849,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Fake Out",
-                "Double Edge",
+                "Double-Edge",
                 "Reversal",
                 "Thunder Punch"
-            ]
-        }
-    },
-    "Sliggoo,": {
-        "Lass Connie (Level 22)": {
-            "level": "22",
-            "ability": "Gooey",
-            "item": "Shuca Berry",
-            "nature": "Hardy",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 0,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Breaking Swipe",
-                "Sludge Bomb",
-                "Iron Head",
-                "Recover"
             ]
         }
     },
@@ -14098,94 +13910,6 @@ var SETDEX_SV = {
                 "Gyro Ball",
                 "Zen Headbutt",
                 "Ice Punch"
-            ]
-        }
-    },
-    "Electrode,": {
-        "Team Rocket G-495 (Level 27)": {
-            "level": "27",
-            "ability": "Aftermath",
-            "item": "Miracle Seed",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 192,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Energy Ball",
-                "Explosion",
-                "Thunderbolt",
-                "Electroweb"
-            ]
-        },
-        "Scientist 1 Ross (Level 63)": {
-            "level": "63",
-            "ability": "Aftermath",
-            "item": "Life Orb",
-            "nature": "Hasty",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Explosion",
-                "Zap Cannon",
-                "Leaf Storm",
-                "Foul Play"
-            ]
-        }
-    },
-    "Raichu,": {
-        "Team Rocket G-495 (Level 26)": {
-            "level": "26",
-            "ability": "Surge Surfer",
-            "item": "Magnet",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 244,
-                "sd": 0
-            },
-            "moves": [
-                "Thunder",
-                "Moonblast",
-                "Psyshock",
-                "Zap Cannon"
             ]
         }
     },
@@ -14279,7 +14003,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mr Mime": {
+    "Mr. Mime": {
         "Team Rocket G-504 (Level 34)": {
             "level": "34",
             "ability": "Filter",
@@ -14560,7 +14284,7 @@ var SETDEX_SV = {
             "moves": [
                 "Water Pulse",
                 "Aqua Ring",
-                "Double Edge",
+                "Double-Edge",
                 "Aqua Tail"
             ]
         },
@@ -14796,6 +14520,62 @@ var SETDEX_SV = {
                 "Psychic"
             ]
         },
+        "Rival Silver (Level 48) 4": {
+            "level": "48",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Disable",
+                "Recover",
+                "Reflect",
+                "Psychic"
+            ]
+        },
+        "Rival Silver (Level 48) 6": {
+            "level": "48",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Disable",
+                "Recover",
+                "Reflect",
+                "Psychic"
+            ]
+        },
         "School Kid M Tommy (Level 43)": {
             "level": "43",
             "ability": "32",
@@ -14986,7 +14766,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Gravity",
+                "Black Hole",
                 "Focus Blast",
                 "Energy Ball",
                 "Psychic"
@@ -15049,7 +14829,7 @@ var SETDEX_SV = {
                 "Fire Punch",
                 "Crunch",
                 "Spirit Break",
-                "Power Up Punch"
+                "Power-Up Punch"
             ]
         }
     },
@@ -15166,7 +14946,7 @@ var SETDEX_SV = {
             "moves": [
                 "Psychic",
                 "Shadow Ball",
-                "Lunar Dance",
+                "New Moon",
                 "Destiny Bond"
             ]
         },
@@ -15314,6 +15094,62 @@ var SETDEX_SV = {
                 "Confuse Ray"
             ]
         },
+        "Rival Silver (Level 48) 3": {
+            "level": "48",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mean Look",
+                "Curse",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
+        "Rival Silver (Level 48) 5": {
+            "level": "48",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mean Look",
+                "Curse",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
         "Rival Jupiter (Level 56)": {
             "level": "56",
             "ability": "0",
@@ -15392,6 +15228,34 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
+                "Hypnosis",
+                "Confuse Ray",
+                "Shadow Ball",
+                "Focus Blast"
+            ]
+        },
+        "Leader 0 Morty (Level 57) 2": {
+            "level": "57",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
                 "Substitute",
                 "Shadow Ball",
                 "Thunderbolt",
@@ -15399,6 +15263,62 @@ var SETDEX_SV = {
             ]
         },
         "Rival Silver (Level 56)": {
+            "level": "56",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Dark Pulse",
+                "Sludge Bomb",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
+        "Rival Silver (Level 56) 2": {
+            "level": "56",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Dark Pulse",
+                "Sludge Bomb",
+                "Shadow Ball",
+                "Confuse Ray"
+            ]
+        },
+        "Rival Silver (Level 56) 3": {
             "level": "56",
             "ability": "0",
             "item": "None",
@@ -15547,36 +15467,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Meowstic,": {
-        "Psychic M Franklin (Level 34)": {
-            "level": "34",
-            "ability": "Competitive",
-            "item": "Eject Button",
-            "nature": "Timid",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 100,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Fake Out",
-                "Psyshock",
-                "Dazzling Gleam",
-                "Sucker Punch"
-            ]
-        }
-    },
     "Spiritomb": {
         "Psychic M Franklin (Level 34)": {
             "level": "34",
@@ -15600,7 +15490,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Shadow Ball",
                 "Pain Split",
                 "Snarl"
@@ -15694,6 +15584,34 @@ var SETDEX_SV = {
         },
         "Juggler Irwin (Level 40)": {
             "level": "40",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Rollout",
+                "Spark",
+                "Sonic Boom",
+                "Charge"
+            ]
+        },
+        "Juggler Irwin (Level 40) 2": {
+            "level": "40",
             "ability": "32",
             "item": "",
             "nature": "",
@@ -15778,6 +15696,62 @@ var SETDEX_SV = {
                 "Sonic Boom"
             ]
         },
+        "Rival Silver (Level 18) 2": {
+            "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunder Shock",
+                "Supersonic",
+                "Sonic Boom"
+            ]
+        },
+        "Rival Silver (Level 18) 3": {
+            "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Thunder Shock",
+                "Supersonic",
+                "Sonic Boom"
+            ]
+        },
         "Rival Silver (Level 28)": {
             "level": "28",
             "ability": "0",
@@ -15834,7 +15808,63 @@ var SETDEX_SV = {
                 "Thunder Wave"
             ]
         },
+        "Rival Silver (Level 30) 4": {
+            "level": "30",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Supersonic",
+                "Spark",
+                "Sonic Boom",
+                "Thunder Wave"
+            ]
+        },
         "Super Nerd Shawn (Level 39)": {
+            "level": "39",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "Super Nerd Shawn (Level 39) 2": {
             "level": "39",
             "ability": "0",
             "item": "None",
@@ -16030,7 +16060,7 @@ var SETDEX_SV = {
             "moves": [
                 "Giga Impact",
                 "Close Combat",
-                "Outrage",
+                "Supernova",
                 "High Horsepower"
             ]
         },
@@ -16087,7 +16117,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Thunder",
-                "Self Destruct",
+                "Self-Destruct",
                 "Swift",
                 "Rain Dance"
             ]
@@ -16114,13 +16144,97 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
+                "Thunder Wave",
+                "Double Team",
+                "Shock Wave",
+                "Light Screen"
+            ]
+        },
+        "Leader 7 Lt. Surge (Level 47) 3": {
+            "level": "47",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
                 "Screech",
                 "Double Team",
-                "Self Destruct",
+                "Self-Destruct",
                 "Charge Beam"
             ]
         },
         "Juggler Horton (Level 43)": {
+            "level": "43",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Swift",
+                "Shock Wave",
+                "Screech",
+                "Explosion"
+            ]
+        },
+        "Juggler Horton (Level 43) 2": {
+            "level": "43",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Swift",
+                "Shock Wave",
+                "Double Team",
+                "Light Screen"
+            ]
+        },
+        "Juggler Horton (Level 43) 3": {
             "level": "43",
             "ability": "32",
             "item": "",
@@ -16396,6 +16510,62 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
+                "Thunderbolt",
+                "Surf",
+                "Ice Beam",
+                "Recover"
+            ]
+        },
+        "Swimmer F Lori (Level 42) 2": {
+            "level": "42",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunderbolt",
+                "Surf",
+                "Ice Beam",
+                "Recover"
+            ]
+        },
+        "Swimmer F Lori (Level 42) 3": {
+            "level": "42",
+            "ability": "32",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
                 "Recover",
                 "Water Pulse",
                 "Thunder",
@@ -16569,7 +16739,7 @@ var SETDEX_SV = {
                 "Sunny Day",
                 "Flamethrower",
                 "Confuse Ray",
-                "Fire Spin"
+                "Fire Vortex"
             ]
         },
         "Scientist 1 Linden (Level 50)": {
@@ -16712,7 +16882,7 @@ var SETDEX_SV = {
             "moves": [
                 "Head Smash",
                 "Earthquake",
-                "Stealth Rock",
+                "Accelerock",
                 "Dragon Dance"
             ]
         }
@@ -16747,6 +16917,34 @@ var SETDEX_SV = {
             ]
         },
         "Champion Lance (Level 75)": {
+            "level": "75",
+            "ability": "0",
+            "item": "Sitrus Berry",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Fire Blast",
+                "Safeguard",
+                "Draco Meteor",
+                "Hyper Beam"
+            ]
+        },
+        "Champion Lance (Level 75) 2": {
             "level": "75",
             "ability": "0",
             "item": "None",
@@ -16944,7 +17142,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "U Turn",
+                "U-turn",
                 "Me First",
                 "Confuse Ray",
                 "Psychic"
@@ -17466,6 +17664,34 @@ var SETDEX_SV = {
         },
         "Leader 9 Janine (Level 47)": {
             "level": "47",
+            "ability": "32",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Scary Face",
+                "Poison Jab",
+                "Pin Missile",
+                "Psychic"
+            ]
+        },
+        "Leader 9 Janine (Level 47) 3": {
+            "level": "47",
             "ability": "0",
             "item": "None",
             "nature": "",
@@ -17942,7 +18168,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "U Turn",
+                "U-turn",
                 "Tailwind",
                 "Cross Poison",
                 "Air Slash"
@@ -18057,10 +18283,66 @@ var SETDEX_SV = {
                 "Heat Wave",
                 "Cross Poison",
                 "Confuse Ray",
-                "U Turn"
+                "U-turn"
             ]
         },
         "Rival Silver (Level 58)": {
+            "level": "58",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Toxic",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 58) 2": {
+            "level": "58",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Toxic",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 58) 3": {
             "level": "58",
             "ability": "0",
             "item": "None",
@@ -18259,9 +18541,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Rock Blast",
-                "Mud Slap",
+                "Mud-Slap",
                 "Defense Curl",
-                "None"
+                "-"
             ]
         }
     },
@@ -18291,7 +18573,7 @@ var SETDEX_SV = {
                 "Tackle",
                 "Harden",
                 "Sandstorm",
-                "None"
+                "-"
             ]
         }
     },
@@ -18321,7 +18603,7 @@ var SETDEX_SV = {
                 "Rock Throw",
                 "Fury Cutter",
                 "Sharpen",
-                "None"
+                "-"
             ]
         }
     },
@@ -18351,7 +18633,7 @@ var SETDEX_SV = {
                 "Headbutt",
                 "Focus Energy",
                 "Rock Polish",
-                "None"
+                "-"
             ]
         }
     },
@@ -18522,7 +18804,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "U Turn",
+                "U-turn",
                 "Leech Seed",
                 "Sunny Day",
                 "Giga Drain"
@@ -18551,12 +18833,40 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Giga Drain",
-                "U Turn",
+                "U-turn",
                 "Sleep Powder",
                 "Sunny Day"
             ]
         },
         "Picnicker Mickey (Level 33)": {
+            "level": "33",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Stun Spore",
+                "Sunny Day",
+                "Leech Seed",
+                "Cotton Spore"
+            ]
+        },
+        "Picnicker Mickey (Level 33) 2": {
             "level": "33",
             "ability": "0",
             "item": "",
@@ -18606,8 +18916,8 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "U Turn",
-                "Memento",
+                "U-turn",
+                "Shadow Shift",
                 "Sleep Powder",
                 "Giga Drain"
             ]
@@ -18617,7 +18927,7 @@ var SETDEX_SV = {
         "Leader 8 Erika (Level 56)": {
             "level": "56",
             "ability": "0",
-            "item": "None",
+            "item": "Sitrus Berry",
             "nature": "",
             "ivs": {
                 "hp": 0,
@@ -18637,9 +18947,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Sunny Day",
-                "Solar Beam",
+                "Synthesis",
                 "Giga Drain",
-                "Attract"
+                "Solar Beam"
             ]
         },
         "Lass Laura (Level 41)": {
@@ -18668,6 +18978,34 @@ var SETDEX_SV = {
                 "",
                 "",
                 ""
+            ]
+        },
+        "Leader 8 Erika (Level 56) 4": {
+            "level": "56",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Sunny Day",
+                "Solar Beam",
+                "Giga Drain",
+                "Attract"
             ]
         }
     },
@@ -18811,7 +19149,7 @@ var SETDEX_SV = {
                 "Reflect",
                 "Light Screen",
                 "Breaking Swipe",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         }
     },
@@ -19122,7 +19460,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Outrage",
+                "Supernova",
                 "Earthquake",
                 "Rock Slide",
                 "Swords Dance"
@@ -19150,7 +19488,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Fissure",
+                "EarthShatter",
                 "Dragon Rush",
                 "Poison Jab",
                 "Swords Dance"
@@ -19179,7 +19517,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Swords Dance",
-                "Outrage",
+                "Supernova",
                 "Earthquake",
                 "Roar"
             ]
@@ -19440,6 +19778,34 @@ var SETDEX_SV = {
                 "Whirlwind"
             ]
         },
+        "Bug Catcher Wade (Level 29) 2": {
+            "level": "29",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Psybeam",
+                "Silver Wind",
+                "Supersonic",
+                "Whirlwind"
+            ]
+        },
         "Bug Catcher Wade (Level 36)": {
             "level": "36",
             "ability": "0",
@@ -19462,10 +19828,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Stun Spore",
-                "Sleep Powder",
-                "Captivate",
-                "Tailwind"
+                "Bug Bite",
+                "Gust",
+                "Supersonic",
+                "Whirlwind"
             ]
         },
         "Bug Catcher Wade (Level 52)": {
@@ -19496,7 +19862,63 @@ var SETDEX_SV = {
                 "Tailwind"
             ]
         },
+        "Bug Catcher Wade (Level 36) 2": {
+            "level": "36",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Stun Spore",
+                "Sleep Powder",
+                "Captivate",
+                "Tailwind"
+            ]
+        },
         "Bug Catcher Mickey (Level 30)": {
+            "level": "30",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Confusion",
+                "Poison Powder",
+                "Supersonic",
+                "Gust"
+            ]
+        },
+        "Bug Catcher Mickey (Level 30) 2": {
             "level": "30",
             "ability": "0",
             "item": "",
@@ -19578,7 +20000,7 @@ var SETDEX_SV = {
             "moves": [
                 "Aerial Ace",
                 "Headbutt",
-                "U Turn",
+                "U-turn",
                 "Tailwind"
             ]
         },
@@ -19756,6 +20178,62 @@ var SETDEX_SV = {
                 "Reflect"
             ]
         },
+        "Rival Silver (Level 37) 6": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Disable",
+                "Psybeam",
+                "Recover",
+                "Reflect"
+            ]
+        },
+        "Rival Silver (Level 37) 9": {
+            "level": "37",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Disable",
+                "Psybeam",
+                "Recover",
+                "Reflect"
+            ]
+        },
         "Psychic M Mark (Level 16)": {
             "level": "16",
             "ability": "0",
@@ -19781,7 +20259,7 @@ var SETDEX_SV = {
                 "Teleport",
                 "Kinesis",
                 "Confusion",
-                "None"
+                "-"
             ]
         },
         "Young Couple Tim & Sue (Level 48)": {
@@ -19899,10 +20377,94 @@ var SETDEX_SV = {
                 "Dragon Claw",
                 "Hyper Beam"
             ]
+        },
+        "Champion Lance (Level 68) 6": {
+            "level": "68",
+            "ability": "0",
+            "item": "None",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Flamethrower",
+                "Air Slash",
+                "Dragon Claw",
+                "Hyper Beam"
+            ]
         }
     },
     "Gastly": {
         "Rival Silver (Level 20)": {
+            "level": "20",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Lick",
+                "Confuse Ray",
+                "Mean Look",
+                "Curse"
+            ]
+        },
+        "Rival Silver (Level 20) 3": {
+            "level": "20",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Lick",
+                "Confuse Ray",
+                "Mean Look",
+                "Curse"
+            ]
+        },
+        "Rival Silver (Level 20) 5": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -19955,12 +20517,68 @@ var SETDEX_SV = {
                 "Fling",
                 "Poison Gas",
                 "Protect",
-                "Self Destruct"
+                "Self-Destruct"
             ]
         }
     },
     "Zubat": {
         "Rival Silver (Level 20)": {
+            "level": "20",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Astonish",
+                "Supersonic",
+                "Bite",
+                "Wing Attack"
+            ]
+        },
+        "Rival Silver (Level 20) 4": {
+            "level": "20",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Astonish",
+                "Supersonic",
+                "Bite",
+                "Wing Attack"
+            ]
+        },
+        "Rival Silver (Level 20) 6": {
             "level": "20",
             "ability": "0",
             "item": "",
@@ -20048,8 +20666,64 @@ var SETDEX_SV = {
                 "Air Cutter"
             ]
         },
+        "Rival Silver (Level 38) 2": {
+            "level": "38",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Astonish",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
         "Rival Silver (Level 30)": {
             "level": "30",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Astonish",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 38) 3": {
+            "level": "38",
             "ability": "0",
             "item": "",
             "nature": "",
@@ -20104,7 +20778,91 @@ var SETDEX_SV = {
                 "Air Cutter"
             ]
         },
+        "Rival Silver (Level 47) 2": {
+            "level": "47",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Poison Fang",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 47) 3": {
+            "level": "47",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Poison Fang",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
         "Rival Silver (Level 32)": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Astonish",
+                "Bite",
+                "Confuse Ray",
+                "Air Cutter"
+            ]
+        },
+        "Rival Silver (Level 32) 5": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -20272,7 +21030,7 @@ var SETDEX_SV = {
             "moves": [
                 "Rollout",
                 "Flamethrower",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Swift"
             ]
         }
@@ -20884,9 +21642,9 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "X Scissor",
+                "X-Scissor",
                 "Stone Edge",
-                "U Turn",
+                "U-turn",
                 "Leaf Blade"
             ]
         }
@@ -20945,7 +21703,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Giga Drain",
-                "U Turn",
+                "U-turn",
                 "Leech Seed",
                 "Sunny Day"
             ]
@@ -21003,7 +21761,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Giga Drain",
-                "U Turn",
+                "U-turn",
                 "Stun Spore",
                 "Bounce"
             ]
@@ -21062,7 +21820,7 @@ var SETDEX_SV = {
             "moves": [
                 "Flamethrower",
                 "Shadow Ball",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Giga Drain"
             ]
         },
@@ -21089,9 +21847,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Heat Wave",
-                "None",
-                "None",
-                "None"
+                "-",
+                "-",
+                "-"
             ]
         }
     },
@@ -21297,7 +22055,7 @@ var SETDEX_SV = {
                 "Hypnosis",
                 "Disable",
                 "Dream Eater",
-                "None"
+                "-"
             ]
         }
     },
@@ -21327,7 +22085,7 @@ var SETDEX_SV = {
                 "Lick",
                 "Supersonic",
                 "Cut",
-                "None"
+                "-"
             ]
         }
     },
@@ -21382,9 +22140,9 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Gravity",
+                "Black Hole",
                 "Sing",
-                "Wake Up Slap",
+                "Wake-Up Slap",
                 "Metronome"
             ]
         }
@@ -21673,7 +22431,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Corviknight": {
+    "Corviknite": {
         "Team Rocket 1 G-967 (Level 71)": {
             "level": "71",
             "ability": "Unnerve",
@@ -21758,8 +22516,8 @@ var SETDEX_SV = {
             "moves": [
                 "Aqua Jet",
                 "Icicle Spear",
-                "Power Up Punch",
-                "Mud Slap"
+                "Power-Up Punch",
+                "Mud-Slap"
             ]
         }
     },
@@ -21786,7 +22544,7 @@ var SETDEX_SV = {
                 "sd": 252
             },
             "moves": [
-                "Sheer Cold",
+                "Permafrost",
                 "Brine",
                 "Snarl",
                 "Yawn"
@@ -21818,36 +22576,6 @@ var SETDEX_SV = {
                 "Aqua Ring",
                 "Encore",
                 "Icy Wind"
-            ]
-        }
-    },
-    "Darumaka,": {
-        "Poke Maniac Zach (Level 9)": {
-            "level": "9",
-            "ability": "Hustle",
-            "item": "Jaboca Berry",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Ice Fang",
-                "Bite",
-                "Rock Tomb",
-                "Bulk Up"
             ]
         }
     },
@@ -21932,40 +22660,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Self Destruct",
-                "Sweet Scent",
+                "Self-Destruct",
+                "Fairy Breeze",
                 "Rock Blast",
                 "Trick Room"
-            ]
-        }
-    },
-    "Wooper,": {
-        "Ace Trainer M Allen (Level 15)": {
-            "level": "15",
-            "ability": "Poison Point",
-            "item": "Shuca Berry",
-            "nature": "Serious",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 100,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Mud Slap",
-                "Whirlpool",
-                "Poison Tail",
-                "Recover"
             ]
         }
     },
@@ -21992,10 +22690,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Headbutt",
                 "Mud Shot",
-                "Feint"
+                "Swift Strike"
             ]
         },
         "Battle Girl Jessica (Level 6)": {
@@ -22078,7 +22776,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Aerial Ace",
                 "Rock Tomb",
                 "Bulk Up"
@@ -22141,7 +22839,7 @@ var SETDEX_SV = {
                 "Air Cutter",
                 "Leech Seed",
                 "Mega Drain",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -22229,9 +22927,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Muddy Water",
-                "None",
-                "None",
-                "None"
+                "-",
+                "-",
+                "-"
             ]
         },
         "Executive 1 Saturn (Level 75)": {
@@ -22256,7 +22954,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Fissure",
+                "EarthShatter",
                 "Aqua Tail",
                 "Low Kick",
                 "Bulk Up"
@@ -22293,7 +22991,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Kommo O": {
+    "Kommo-o": {
         "Team Rocket 1 G-982 (Level 73)": {
             "level": "73",
             "ability": "Bulletproof",
@@ -22320,36 +23018,6 @@ var SETDEX_SV = {
                 "Close Combat",
                 "Dual Chop",
                 "Rock Polish"
-            ]
-        }
-    },
-    "Typhlosion,": {
-        "Team Rocket G-991 (Level 71)": {
-            "level": "71",
-            "ability": "Blaze",
-            "item": "Shuca Berry",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Shadow Ball",
-                "Blast Burn",
-                "Scorching Sands",
-                "Eruption"
             ]
         }
     },
@@ -22610,7 +23278,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Stealth Rock",
+                "Accelerock",
                 "Rock Slide",
                 "Rock Polish",
                 "Sandstorm"
@@ -22984,8 +23652,92 @@ var SETDEX_SV = {
             "moves": [
                 "Bug Bite",
                 "String Shot",
-                "None",
-                "None"
+                "-",
+                "-"
+            ]
+        },
+        "Bug Catcher Wade (Level 18) 2": {
+            "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bug Bite",
+                "String Shot",
+                "-",
+                "-"
+            ]
+        },
+        "Bug Catcher Wade (Level 18) 3": {
+            "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bug Bite",
+                "String Shot",
+                "-",
+                "-"
+            ]
+        },
+        "Bug Catcher Wade (Level 18) 4": {
+            "level": "18",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bug Bite",
+                "String Shot",
+                "-",
+                "-"
             ]
         }
     },
@@ -23015,7 +23767,35 @@ var SETDEX_SV = {
                 "Bug Bite",
                 "Poison Sting",
                 "String Shot",
-                "None"
+                "-"
+            ]
+        },
+        "Bug Catcher Wade (Level 22) 4": {
+            "level": "22",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bug Bite",
+                "Poison Sting",
+                "String Shot",
+                "-"
             ]
         }
     },
@@ -23042,9 +23822,9 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Gravity",
+                "Black Hole",
                 "Sing",
-                "Wake Up Slap",
+                "Wake-Up Slap",
                 "Moonlight"
             ]
         },
@@ -23070,7 +23850,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Gravity",
+                "Black Hole",
                 "Metronome",
                 "Blizzard",
                 "Thunder"
@@ -23160,36 +23940,6 @@ var SETDEX_SV = {
                 "Mud Shot",
                 "Double Kick",
                 "Curse"
-            ]
-        }
-    },
-    "Grimer,": {
-        "Scientist 1 Mitch (Level 5)": {
-            "level": "5",
-            "ability": "Poison Touch",
-            "item": "Black Sludge",
-            "nature": "Hardy",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Poison Fang",
-                "Shadow Sneak",
-                "Payback",
-                "Disable"
             ]
         }
     },
@@ -23301,7 +24051,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Zap Cannon",
-                "Lock On",
+                "Lock-On",
                 "Mirror Coat",
                 "Metal Sound"
             ]
@@ -23390,36 +24140,6 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Energy Ball",
                 "Flash Cannon"
-            ]
-        }
-    },
-    "Golem,": {
-        "Scientist 1 Gregg (Level 65)": {
-            "level": "65",
-            "ability": "Sturdy",
-            "item": "Custap Berry",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 252,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Explosion",
-                "Wild Charge",
-                "Stone Edge",
-                "Body Press"
             ]
         }
     },
@@ -23562,9 +24282,9 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Embargo",
+                "Taxation",
                 "Drill Peck",
-                "U Turn",
+                "U-turn",
                 "Roost"
             ]
         },
@@ -23593,7 +24313,7 @@ var SETDEX_SV = {
                 "Night Slash",
                 "Air Slash",
                 "Roost",
-                "U Turn"
+                "U-turn"
             ]
         },
         "Rocket Boss Giovanni (Level 43)": {
@@ -23683,36 +24403,6 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Persian,": {
-        "Executive Jupiter (Level 22)": {
-            "level": "22",
-            "ability": "Fur Coat",
-            "item": "Chople Berry",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 196,
-                "sp": 108,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Double Edge",
-                "U Turn",
-                "Embargo",
-                "Fake Out"
-            ]
-        }
-    },
     "Heliolisk": {
         "Executive Jupiter (Level 75)": {
             "level": "75",
@@ -23794,40 +24484,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Precipice Blades",
+                "",
                 "Heat Crash",
                 "Rock Slide",
                 "Solar Beam"
-            ]
-        }
-    },
-    "Graveler,": {
-        "Skier Diana (Level 17)": {
-            "level": "17",
-            "ability": "Sturdy",
-            "item": "Passho Berry",
-            "nature": "Impish",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 188,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Spark",
-                "Rock Tomb",
-                "Thunder Wave",
-                "Bulldoze"
             ]
         }
     },
@@ -23854,9 +24514,9 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Embargo",
-                "Memento",
-                "Will O Wisp",
+                "Taxation",
+                "Shadow Shift",
+                "Will-O-Wisp",
                 "Disable"
             ]
         },
@@ -23882,7 +24542,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Recover",
                 "Shadow Ball",
                 "Confuse Ray"
@@ -23911,7 +24571,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Foul Play",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Recover",
                 "Fake Out"
             ]
@@ -24030,7 +24690,7 @@ var SETDEX_SV = {
             "moves": [
                 "Aerial Ace",
                 "Water Gun",
-                "U Turn",
+                "U-turn",
                 "Steel Wing"
             ]
         }
@@ -24121,7 +24781,7 @@ var SETDEX_SV = {
                 "Confusion",
                 "Metronome",
                 "Thunder Wave",
-                "None"
+                "-"
             ]
         }
     },
@@ -24151,7 +24811,7 @@ var SETDEX_SV = {
                 "Trick Room",
                 "Metronome",
                 "Payback",
-                "None"
+                "-"
             ]
         }
     },
@@ -24210,8 +24870,8 @@ var SETDEX_SV = {
             "moves": [
                 "Ember",
                 "Quick Attack",
-                "Will O Wisp",
-                "Power Up Punch"
+                "Will-O-Wisp",
+                "Power-Up Punch"
             ]
         }
     },
@@ -24239,9 +24899,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Water Pulse",
-                "None",
-                "None",
-                "None"
+                "-",
+                "-",
+                "-"
             ]
         },
         "Executive 1 Saturn (Level 75)": {
@@ -24329,7 +24989,7 @@ var SETDEX_SV = {
                 "Flamethrower",
                 "Psyshock",
                 "Foul Play",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         },
         "Executive 2 Mars (Level 75)": {
@@ -24357,7 +25017,7 @@ var SETDEX_SV = {
                 "Fire Blast",
                 "Psyshock",
                 "Grass Knot",
-                "Will O Wisp"
+                "Will-O-Wisp"
             ]
         }
     },
@@ -24503,7 +25163,7 @@ var SETDEX_SV = {
                 "Wicked Blow",
                 "Close Combat",
                 "Sucker Punch",
-                "U Turn"
+                "U-turn"
             ]
         },
         "Executive 0 Cyrus (Level 75)": {
@@ -24531,7 +25191,7 @@ var SETDEX_SV = {
                 "Wicked Blow",
                 "Close Combat",
                 "Sucker Punch",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -24644,7 +25304,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Outrage",
+                "Supernova",
                 "Iron Tail",
                 "Earthquake",
                 "Aqua Tail"
@@ -24732,7 +25392,7 @@ var SETDEX_SV = {
             "moves": [
                 "Meteor Mash",
                 "Bullet Punch",
-                "Gravity",
+                "Black Hole",
                 "Explosion"
             ]
         }
@@ -24823,7 +25483,7 @@ var SETDEX_SV = {
                 "Draco Meteor",
                 "Hurricane",
                 "Hydro Pump",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -24910,10 +25570,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Mud Bomb",
                 "Focus Punch",
-                "Stealth Rock"
+                "Accelerock"
             ]
         }
     },
@@ -24941,7 +25601,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Night Shade",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Curse",
                 "Pain Split"
             ]
@@ -24972,7 +25632,7 @@ var SETDEX_SV = {
             "moves": [
                 "Leech Seed",
                 "Mega Drain",
-                "Memento",
+                "Shadow Shift",
                 "Feint Attack"
             ]
         }
@@ -25086,7 +25746,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Whirlpool",
+                "Aqua Vortex",
                 "Rain Dance",
                 "Body Slam",
                 "Perish Song"
@@ -25118,126 +25778,6 @@ var SETDEX_SV = {
                 "Scald",
                 "Bounce",
                 "Wish"
-            ]
-        }
-    },
-    "Kyurem,": {
-        "Executive 0 Cyrus (Level 75)": {
-            "level": "75",
-            "ability": "Teravolt",
-            "item": "Life Orb",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Bolt Strike",
-                "Icicle Crash",
-                "Earthquake",
-                "Iron Head"
-            ]
-        }
-    },
-    "Blastoise,": {
-        "Pkmn Trainer 9 Red (Level 75)": {
-            "level": "75",
-            "ability": "Mega Launcher",
-            "item": "Blastoisinite",
-            "nature": "Timid",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Fake Out",
-                "Shell Smash",
-                "Water Pulse",
-                "Ice Beam"
-            ]
-        }
-    },
-    "Charizard,": {
-        "Pkmn Trainer 9 Red (Level 75)": {
-            "level": "75",
-            "ability": "Drought",
-            "item": "Charizardite Y",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 0,
-                "df": 0,
-                "sp": 252,
-                "sa": 252,
-                "sd": 0
-            },
-            "moves": [
-                "Flamethrower",
-                "Air Slash",
-                "Solar Beam",
-                "Scorching Sands"
-            ]
-        }
-    },
-    "Venusaur,": {
-        "Pkmn Trainer 9 Red (Level 75)": {
-            "level": "75",
-            "ability": "Thick Fat",
-            "item": "Venusaurite",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Giga Drain",
-                "Earth Power",
-                "Leech Seed",
-                "Sleep Powder"
             ]
         }
     },
@@ -25326,128 +25866,8 @@ var SETDEX_SV = {
             "moves": [
                 "Guillotine",
                 "Sandstorm",
-                "Fissure",
+                "EarthShatter",
                 "Aerial Ace"
-            ]
-        }
-    },
-    "Necrozma,": {
-        "Tower Tycoon Darkrai (Level 75)": {
-            "level": "75",
-            "ability": "Neuroforce",
-            "item": "None",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Prismatic Laser",
-                "Light Screen",
-                "Reflect",
-                "Morning Sun"
-            ]
-        }
-    },
-    "Zacian,": {
-        "Tower Tycoon Darkrai (Level 75)": {
-            "level": "75",
-            "ability": "Intrepid Sword",
-            "item": "Rusted Sword",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Behemoth Blade",
-                "Play Rough",
-                "Close Combat",
-                "Protect"
-            ]
-        }
-    },
-    "Mewtwo,": {
-        "Tower Tycoon Darkrai (Level 75)": {
-            "level": "75",
-            "ability": "Insomnia",
-            "item": "Mewtwonite Y",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 252,
-                "sd": 0
-            },
-            "moves": [
-                "Psystrike",
-                "Shadow Ball",
-                "Aura Sphere",
-                "Protect"
-            ]
-        }
-    },
-    "Rayquaza,": {
-        "Tower Tycoon Darkrai (Level 75)": {
-            "level": "75",
-            "ability": "Delta Stream",
-            "item": "Yache Berry",
-            "nature": "Adamant",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 252,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Dragon Ascent",
-                "Earthquake",
-                "Outrage",
-                "Dragon Dance"
             ]
         }
     },
@@ -25594,11 +26014,67 @@ var SETDEX_SV = {
             "moves": [
                 "Thunder Wave",
                 "Twister",
+                "Thunderbolt",
+                "Headbutt"
+            ]
+        },
+        "Twins Clea & Gil (Level 35) 2": {
+            "level": "35",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Twister",
                 "Surf",
                 "Headbutt"
             ]
         },
         "Twins Mickey (Level 38)": {
+            "level": "38",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder Wave",
+                "Twister",
+                "Ice Beam",
+                "Headbutt"
+            ]
+        },
+        "Twins Mickey (Level 38) 2": {
             "level": "38",
             "ability": "0",
             "item": "",
@@ -25770,7 +26246,7 @@ var SETDEX_SV = {
             "moves": [
                 "Dig",
                 "Metal Claw",
-                "Mud Slap",
+                "Mud-Slap",
                 "Leech Life"
             ]
         }
@@ -25829,7 +26305,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Magnitude",
-                "Self Destruct",
+                "Self-Destruct",
                 "Defense Curl",
                 "Rollout"
             ]
@@ -25856,7 +26332,35 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Self Destruct",
+                "Self-Destruct",
+                "Rock Throw",
+                "Harden",
+                "Magnitude"
+            ]
+        },
+        "Camper Mickey (Level 33) 2": {
+            "level": "33",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Self-Destruct",
                 "Rock Throw",
                 "Harden",
                 "Magnitude"
@@ -25887,7 +26391,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Magnitude",
-                "Self Destruct",
+                "Self-Destruct",
                 "Defense Curl",
                 "Rollout"
             ]
@@ -25914,7 +26418,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Double Edge",
+                "Double-Edge",
                 "Rock Slide",
                 "Sandstorm",
                 "Roar"
@@ -25951,6 +26455,62 @@ var SETDEX_SV = {
     },
     "Noctowl": {
         "Sage Mickey (Level 32)": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Foresight",
+                "Hypnosis",
+                "Take Down",
+                "Psychic"
+            ]
+        },
+        "Sage Mickey (Level 32) 3": {
+            "level": "32",
+            "ability": "0",
+            "item": "",
+            "nature": "",
+            "ivs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Foresight",
+                "Hypnosis",
+                "Take Down",
+                "Psychic"
+            ]
+        },
+        "Sage Mickey (Level 32) 5": {
             "level": "32",
             "ability": "0",
             "item": "",
@@ -26203,7 +26763,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Cross Chop",
-                "X Scissor",
+                "X-Scissor",
                 "Swagger",
                 "Gunk Shot"
             ]
@@ -26556,10 +27116,10 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "First Impression",
+                "",
                 "Liquidation",
                 "Drill Run",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -26589,7 +27149,7 @@ var SETDEX_SV = {
                 "Iron Tail",
                 "Earthquake",
                 "Stone Edge",
-                "X Scissor"
+                "X-Scissor"
             ]
         }
     },
@@ -26619,7 +27179,7 @@ var SETDEX_SV = {
                 "Fake Out",
                 "Acrobatics",
                 "Close Combat",
-                "U Turn"
+                "U-turn"
             ]
         },
         "Leader 3 Chuck (Level 30)": {
@@ -26645,7 +27205,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Fake Out",
-                "U Turn",
+                "U-turn",
                 "Knock Off",
                 "Close Combat"
             ]
@@ -26765,7 +27325,7 @@ var SETDEX_SV = {
                 "Pyro Ball",
                 "Sucker Punch",
                 "Scorching Sands",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -26794,7 +27354,7 @@ var SETDEX_SV = {
             "moves": [
                 "Dragon Rush",
                 "Seed Bomb",
-                "U Turn",
+                "U-turn",
                 "Air Slash"
             ]
         }
@@ -26825,7 +27385,7 @@ var SETDEX_SV = {
                 "Fake Out",
                 "Seed Bomb",
                 "High Horsepower",
-                "U Turn"
+                "U-turn"
             ]
         }
     },
@@ -27116,7 +27676,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "X Scissor",
+                "X-Scissor",
                 "Aerial Ace",
                 "Swords Dance",
                 "Slash"
@@ -27323,7 +27883,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Earthquake",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Eruption",
                 "Protect"
             ]
@@ -27437,7 +27997,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Pain Split",
-                "Will O Wisp",
+                "Will-O-Wisp",
                 "Substitute",
                 "Payback"
             ]
@@ -27498,7 +28058,7 @@ var SETDEX_SV = {
             "moves": [
                 "Magnet Bomb",
                 "Heavy Slam",
-                "Power Up Punch",
+                "Power-Up Punch",
                 "Scorching Sands"
             ]
         }
@@ -27617,7 +28177,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Dual Chop",
-                "Sand Tomb",
+                "Sand Vortex",
                 "Fire Fang",
                 "Protect"
             ]
@@ -27767,7 +28327,7 @@ var SETDEX_SV = {
                 "Psybeam",
                 "Brine",
                 "Flip Turn",
-                "None"
+                "-"
             ]
         }
     },
@@ -27827,7 +28387,7 @@ var SETDEX_SV = {
                 "Dizzy Punch",
                 "Sucker Punch",
                 "Leer",
-                "Outrage"
+                "Supernova"
             ]
         }
     },
@@ -27856,7 +28416,7 @@ var SETDEX_SV = {
             "moves": [
                 "Reflect",
                 "Payback",
-                "Gravity",
+                "Black Hole",
                 "Psychic"
             ]
         },
@@ -27885,7 +28445,7 @@ var SETDEX_SV = {
                 "Gyro Ball",
                 "Hypnosis",
                 "Dream Eater",
-                "Gravity"
+                "Black Hole"
             ]
         }
     },
@@ -28120,7 +28680,7 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "Fire Spin",
+                "Fire Vortex",
                 "Smog",
                 "Feint Attack",
                 "Sunny Day"
@@ -28240,8 +28800,8 @@ var SETDEX_SV = {
                 "sd": 0
             },
             "moves": [
-                "U Turn",
-                "Double Edge",
+                "U-turn",
+                "Double-Edge",
                 "Iron Tail",
                 "Dragon Rush"
             ]
@@ -28361,7 +28921,7 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Dive",
-                "Sheer Cold",
+                "Permafrost",
                 "Sleep Talk",
                 "Rest"
             ]
@@ -28421,39 +28981,9 @@ var SETDEX_SV = {
             },
             "moves": [
                 "Stone Edge",
-                "Stealth Rock",
+                "Accelerock",
                 "Roar",
                 "Iron Tail"
-            ]
-        }
-    },
-    "Decidueye,": {
-        "Leader 3 Chuck (Level 32)": {
-            "level": "32",
-            "ability": "Overgrow",
-            "item": "Coba Berry",
-            "nature": "Careful",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 0,
-                "at": 252,
-                "df": 0,
-                "sp": 0,
-                "sa": 0,
-                "sd": 252
-            },
-            "moves": [
-                "Seed Bomb",
-                "Submission",
-                "U Turn",
-                "Sucker Punch"
             ]
         }
     },
@@ -28484,66 +29014,6 @@ var SETDEX_SV = {
                 "High Jump Kick",
                 "Crunch",
                 "Dragon Dance"
-            ]
-        }
-    },
-    "Latios,": {
-        "Leader 4 Clair (Level 70)": {
-            "level": "70",
-            "ability": "Levitate",
-            "item": "Latiosite",
-            "nature": "Modest",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 0,
-                "sp": 0,
-                "sa": 252,
-                "sd": 0
-            },
-            "moves": [
-                "Luster Purge",
-                "Draco Meteor",
-                "Ice Beam",
-                "Mystical Fire"
-            ]
-        }
-    },
-    "Latias,": {
-        "Leader 4 Clair (Level 70)": {
-            "level": "70",
-            "ability": "Levitate",
-            "item": "Latiasite",
-            "nature": "Bold",
-            "ivs": {
-                "hp": 31,
-                "at": 31,
-                "df": 31,
-                "sp": 31,
-                "sa": 31,
-                "sd": 31
-            },
-            "evs": {
-                "hp": 252,
-                "at": 0,
-                "df": 252,
-                "sp": 0,
-                "sa": 0,
-                "sd": 0
-            },
-            "moves": [
-                "Mist Ball",
-                "Icy Wind",
-                "Light Screen",
-                "Reflect"
             ]
         }
     },
