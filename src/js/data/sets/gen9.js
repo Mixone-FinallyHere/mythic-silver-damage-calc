@@ -263,6 +263,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Growlithe-Hisui": {
+        "Policeman Cole (Level 20)": {
+            "level": "20",
+            "ability": "Intimidate",
+            "item": "Shuca Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bite",
+                "Rock Tomb",
+                "Flame Charge",
+                "Smart Strike"
+            ]
+        }
+    },
     "Luxio": {
         "Policeman Cole (Level 21)": {
             "level": "21",
@@ -1905,6 +1935,92 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Rotom-Wash": {
+        "Leader M Volkner (Level 65)": {
+            "level": "65",
+            "ability": "Levitate",
+            "item": "Life Orb",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Hydro Pump",
+                "Thunderbolt",
+                "Rain Dance",
+                "Protect"
+            ]
+        },
+        "Executive 1 Saturn (Level 75)": {
+            "level": "75",
+            "ability": "Levitate",
+            "item": "Rindo Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Scald",
+                "Thunderbolt",
+                "Shadow Ball",
+                "Nasty Plot"
+            ]
+        },
+        "Executive 1 Saturn (Level 52)": {
+            "level": "52",
+            "ability": "Levitate",
+            "item": "Rindo Berry",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Scald",
+                "Volt Switch",
+                "Will-O-Wisp",
+                "Protect"
+            ]
+        }
+    },
     "Eelektross": {
         "Leader M Volkner (Level 65)": {
             "level": "65",
@@ -2889,6 +3005,154 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Braviary-Hisui": {
+        "Camper Roland (Level 57)": {
+            "level": "57",
+            "ability": "Tinted Lens",
+            "item": "Sitrus Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Psychic",
+                "Air Slash",
+                "Heat Wave",
+                "Dazzling Gleam"
+            ]
+        }
+    },
+    "Rapidash-Galar": {
+        "Camper Roland (Level 56)": {
+            "level": "56",
+            "ability": "Anticipation",
+            "item": "Babiri Berry",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Moonblast",
+                "New Moon",
+                "Psyshock",
+                "Calm Mind"
+            ]
+        },
+        "Team Rocket G-559 (Level 37)": {
+            "level": "37",
+            "ability": "Pixilate",
+            "item": "Babiri Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 152,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Drill Run",
+                "Wild Charge",
+                "Spirit Break",
+                "Smart Strike"
+            ]
+        }
+    },
+    "Exeggutor-Alola": {
+        "Picnicker Liz (Level 56)": {
+            "level": "56",
+            "ability": "Harvest",
+            "item": "Yache Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Sunny Day",
+                "Solar Beam",
+                "Draco Meteor",
+                "Psychic"
+            ]
+        }
+    },
+    "Sawsbuck-Autumn": {
+        "Picnicker Liz (Level 55)": {
+            "level": "55",
+            "ability": "Chlorophyll",
+            "item": "Life Orb",
+            "nature": "Jolly",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Horn Leech",
+                "High Jump Kick",
+                "High Horsepower",
+                "Wild Charge"
+            ]
+        }
+    },
     "Golduck": {
         "Picnicker Liz (Level 56)": {
             "level": "56",
@@ -3683,6 +3947,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Indeedee-F": {
+        "Leader Whitney (Level 41)": {
+            "level": "41",
+            "ability": "Psychic Surge",
+            "item": "Sitrus Berry",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Psychic",
+                "Follow Me",
+                "Trick Room",
+                "Dazzling Gleam"
+            ]
+        }
+    },
     "Wyrdeer": {
         "Leader Whitney (Level 42)": {
             "level": "42",
@@ -3801,6 +4095,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Mega-Audino": {
+        "Leader Whitney (Level 41)": {
+            "level": "41",
+            "ability": "Healer",
+            "item": "Leftovers",
+            "nature": "Calm",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Protect",
+                "Wish",
+                "Toxic",
+                "Flamethrower"
+            ]
+        }
+    },
     "Regigigas": {
         "Leader Whitney (Level 42)": {
             "level": "42",
@@ -3888,6 +4212,66 @@ var SETDEX_SV = {
                 "Air Cutter",
                 "Ominous Wind",
                 "Destiny Bond"
+            ]
+        }
+    },
+    "Zoroark-Hisui": {
+        "Leader 0 Morty (Level 19)": {
+            "level": "19",
+            "ability": "Illusion",
+            "item": "Colbur Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Shadow Claw",
+                "Facade",
+                "U-turn",
+                "Night Daze"
+            ]
+        }
+    },
+    "Corsola-Galar": {
+        "Leader 0 Morty (Level 19)": {
+            "level": "19",
+            "ability": "Cursed Body",
+            "item": "Quick Claw",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Pain Split",
+                "Will-O-Wisp",
+                "Aqua Vortex",
+                "Giga Drain"
             ]
         }
     },
@@ -4116,6 +4500,36 @@ var SETDEX_SV = {
                 "Permafrost",
                 "Reflect",
                 "Light Screen"
+            ]
+        }
+    },
+    "Sandslash-Alola": {
+        "Leader 1 Pryce (Level 11)": {
+            "level": "11",
+            "ability": "Slush Rush",
+            "item": "Jaboca Berry",
+            "nature": "Impish",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Metal Claw",
+                "Icicle Spear",
+                "Hone Claws",
+                "Rock Throw"
             ]
         }
     },
@@ -4383,6 +4797,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Dugtrio-Alola": {
+        "Leader 2 Jasmine (Level 22)": {
+            "level": "22",
+            "ability": "Sand Force",
+            "item": "Focus Sash",
+            "nature": "Jolly",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bulldoze",
+                "Iron Head",
+                "Rock Slide",
+                "Reversal"
+            ]
+        }
+    },
     "Kingambit": {
         "Leader 2 Jasmine (Level 23)": {
             "level": "23",
@@ -4410,6 +4854,36 @@ var SETDEX_SV = {
                 "Iron Head",
                 "Swords Dance",
                 "Reversal"
+            ]
+        }
+    },
+    "Sneasler": {
+        "Leader 3 Chuck (Level 29)": {
+            "level": "29",
+            "ability": "Unburden",
+            "item": "Focus Sash",
+            "nature": "Jolly",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Poison Jab",
+                "Take Down",
+                "Reversal",
+                "U-turn"
             ]
         }
     },
@@ -5747,6 +6221,64 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Ponyta-Galar": {
+        "Elder Guide Gent (Level 5)": {
+            "level": "5",
+            "ability": "Pixilate",
+            "item": "None",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Confusion",
+                "Fairy Breeze",
+                "Stomp",
+                "-"
+            ]
+        },
+        "Team Rocket G-152 (Level 7)": {
+            "level": "7",
+            "ability": "Synchronize",
+            "item": "Rowap Berry",
+            "nature": "Sassy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Stomp",
+                "Fairy Breeze",
+                "Confusion",
+                "Protect"
+            ]
+        }
+    },
     "Wooloo": {
         "Elder Guide Gent (Level 6)": {
             "level": "6",
@@ -5774,6 +6306,64 @@ var SETDEX_SV = {
                 "Tackle",
                 "Double Kick",
                 "-"
+            ]
+        }
+    },
+    "Zorua-Hisui": {
+        "Elder Guide Gent (Level 6)": {
+            "level": "6",
+            "ability": "Illusion",
+            "item": "None",
+            "nature": "Jolly",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Quick Attack",
+                "Astonish",
+                "Thief",
+                "-"
+            ]
+        },
+        "Medium Grace (Level 16)": {
+            "level": "16",
+            "ability": "Illusion",
+            "item": "None",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 80,
+                "sd": 0
+            },
+            "moves": [
+                "Headbutt",
+                "Will-O-Wisp",
+                "Shadow Shift",
+                "Shadow Sneak"
             ]
         }
     },
@@ -6940,6 +7530,64 @@ var SETDEX_SV = {
                 "Dragon Pulse",
                 "Leech Seed",
                 "Iron Defense"
+            ]
+        }
+    },
+    "Goodra-Hisui": {
+        "Sage Neal (Level 46)": {
+            "level": "46",
+            "ability": "Sap Sipper",
+            "item": "Maranga Berry",
+            "nature": "Calm",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 88,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Flash Cannon",
+                "Acid Armor",
+                "Muddy Water",
+                "Ice Beam"
+            ]
+        },
+        "Leader 4 Clair (Level 70)": {
+            "level": "70",
+            "ability": "Shell Armor",
+            "item": "Leftovers",
+            "nature": "Calm",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Rain Dance",
+                "Gyro Ball",
+                "Breaking Swipe",
+                "Curse"
             ]
         }
     },
@@ -8392,6 +9040,36 @@ var SETDEX_SV = {
                 "Hone Claws",
                 "Covet",
                 "Aerial Ace"
+            ]
+        }
+    },
+    "Rattata-Alola": {
+        "Medium Grace (Level 16)": {
+            "level": "16",
+            "ability": "Hustle",
+            "item": "None",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 52,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bite",
+                "Swift Strike",
+                "Me First",
+                "U-turn"
             ]
         }
     },
@@ -11051,6 +11729,94 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Vulpix-Alola": {
+        "Ace Trainer F Kelly (Level 10)": {
+            "level": "10",
+            "ability": "Clear Body",
+            "item": "None",
+            "nature": "Quirky",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Draining Kiss",
+                "Icy Wind",
+                "Calm Mind",
+                "Confuse Ray"
+            ]
+        },
+        "Skier Teresa (Level 15)": {
+            "level": "15",
+            "ability": "Snow Warning",
+            "item": "None",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Draining Kiss",
+                "Powder Snow",
+                "Disable",
+                "Fake Tears"
+            ]
+        }
+    },
+    "Sandshrew-Alola": {
+        "Ace Trainer F Kelly (Level 9)": {
+            "level": "9",
+            "ability": "Snow Cloak",
+            "item": "None",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Blizzard",
+                "Flash Cannon",
+                "Super Fang",
+                "Bulldoze"
+            ]
+        }
+    },
     "Remoraid": {
         "Fisherman Edgar (Level 28)": {
             "level": "28",
@@ -11490,6 +12256,36 @@ var SETDEX_SV = {
                 "Seed Bomb",
                 "Spore",
                 "Leech Seed"
+            ]
+        }
+    },
+    "Lilligant-Hisui": {
+        "Black Belt Lung (Level 29)": {
+            "level": "29",
+            "ability": "Rough Skin",
+            "item": "Focus Sash",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 108,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Seed Bomb",
+                "Jump Kick",
+                "Sunny Day",
+                "Stun Spore"
             ]
         }
     },
@@ -13065,6 +13861,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Muk-Alola": {
+        "Team Rocket G-370 (Level 19)": {
+            "level": "19",
+            "ability": "Poison Touch",
+            "item": "Black Sludge",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Venoshock",
+                "Dark Pulse",
+                "Drain Punch",
+                "Toxic Spikes"
+            ]
+        }
+    },
     "Cacturne": {
         "Team Rocket G-370 (Level 20)": {
             "level": "20",
@@ -13266,6 +14092,94 @@ var SETDEX_SV = {
                 "Mega Drain",
                 "Acid Spray",
                 "Charge"
+            ]
+        }
+    },
+    "Voltorb-Hisui": {
+        "Team Rocket G-420 (Level 22)": {
+            "level": "22",
+            "ability": "Volt Absorb",
+            "item": "None",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 30,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 100,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Self-Destruct",
+                "Grass Knot",
+                "Discharge",
+                "Volt Switch"
+            ]
+        },
+        "Skier Diana (Level 16)": {
+            "level": "16",
+            "ability": "Static",
+            "item": "Magnet",
+            "nature": "Calm",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Grass Knot",
+                "Shock Wave",
+                "Sonic Boom",
+                "Stun Spore"
+            ]
+        }
+    },
+    "Geodude-Alola": {
+        "Team Rocket G-420 (Level 23)": {
+            "level": "23",
+            "ability": "Sturdy",
+            "item": "None",
+            "nature": "Impish",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 100,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Rock Slide",
+                "Wild Charge",
+                "Swagger",
+                "Magnet Rise"
             ]
         }
     },
@@ -13855,6 +14769,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Sliggoo-Hisui": {
+        "Lass Connie (Level 22)": {
+            "level": "22",
+            "ability": "Gooey",
+            "item": "Shuca Berry",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 0,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Breaking Swipe",
+                "Sludge Bomb",
+                "Iron Head",
+                "Recover"
+            ]
+        }
+    },
     "Metang": {
         "Lass Connie (Level 22)": {
             "level": "22",
@@ -13910,6 +14854,94 @@ var SETDEX_SV = {
                 "Gyro Ball",
                 "Zen Headbutt",
                 "Ice Punch"
+            ]
+        }
+    },
+    "Electrode-Hisui": {
+        "Team Rocket G-495 (Level 27)": {
+            "level": "27",
+            "ability": "Aftermath",
+            "item": "Miracle Seed",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 192,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Energy Ball",
+                "Explosion",
+                "Thunderbolt",
+                "Electroweb"
+            ]
+        },
+        "Scientist 1 Ross (Level 63)": {
+            "level": "63",
+            "ability": "Aftermath",
+            "item": "Life Orb",
+            "nature": "Hasty",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Explosion",
+                "Zap Cannon",
+                "Leaf Storm",
+                "Foul Play"
+            ]
+        }
+    },
+    "Raichu-Alola": {
+        "Team Rocket G-495 (Level 26)": {
+            "level": "26",
+            "ability": "Surge Surfer",
+            "item": "Magnet",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 244,
+                "sd": 0
+            },
+            "moves": [
+                "Thunder",
+                "Moonblast",
+                "Psyshock",
+                "Zap Cannon"
             ]
         }
     },
@@ -15464,6 +16496,36 @@ var SETDEX_SV = {
                 "Sludge Wave",
                 "Ice Beam",
                 "Dazzling Gleam"
+            ]
+        }
+    },
+    "Meowstic-F": {
+        "Psychic M Franklin (Level 34)": {
+            "level": "34",
+            "ability": "Competitive",
+            "item": "Eject Button",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 100,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Fake Out",
+                "Psyshock",
+                "Dazzling Gleam",
+                "Sucker Punch"
             ]
         }
     },
@@ -22579,6 +23641,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Darumaka-Galar": {
+        "Poke Maniac Zach (Level 9)": {
+            "level": "9",
+            "ability": "Hustle",
+            "item": "Jaboca Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Ice Fang",
+                "Bite",
+                "Rock Tomb",
+                "Bulk Up"
+            ]
+        }
+    },
     "Honedge": {
         "Ace Trainer M Allen (Level 14)": {
             "level": "14",
@@ -22664,6 +23756,36 @@ var SETDEX_SV = {
                 "Fairy Breeze",
                 "Rock Blast",
                 "Trick Room"
+            ]
+        }
+    },
+    "Wooper-Paldea": {
+        "Ace Trainer M Allen (Level 15)": {
+            "level": "15",
+            "ability": "Poison Point",
+            "item": "Shuca Berry",
+            "nature": "Serious",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 100,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mud-Slap",
+                "Aqua Vortex",
+                "Poison Tail",
+                "Recover"
             ]
         }
     },
@@ -23018,6 +24140,36 @@ var SETDEX_SV = {
                 "Close Combat",
                 "Dual Chop",
                 "Rock Polish"
+            ]
+        }
+    },
+    "Typhlosion-Hisui": {
+        "Team Rocket G-991 (Level 71)": {
+            "level": "71",
+            "ability": "Blaze",
+            "item": "Shuca Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Shadow Ball",
+                "Blast Burn",
+                "Scorching Sands",
+                "Eruption"
             ]
         }
     },
@@ -23913,6 +25065,92 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Rotom-Heat": {
+        "Scientist 1 Ross (Level 63)": {
+            "level": "63",
+            "ability": "Levitate",
+            "item": "Sitrus Berry",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Overheat",
+                "Discharge",
+                "Will-O-Wisp",
+                "Volt Switch"
+            ]
+        },
+        "Executive Jupiter (Level 75)": {
+            "level": "75",
+            "ability": "Levitate",
+            "item": "Charti Berry",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Overheat",
+                "Foul Play",
+                "Nasty Plot",
+                "Volt Switch"
+            ]
+        },
+        "Executive Jupiter (Level 27)": {
+            "level": "27",
+            "ability": "Levitate",
+            "item": "Sitrus Berry",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Overheat",
+                "Thunder Wave",
+                "Volt Switch",
+                "Sunny Day"
+            ]
+        }
+    },
     "Mudbray": {
         "Scientist 1 Mitch (Level 5)": {
             "level": "5",
@@ -23940,6 +25178,36 @@ var SETDEX_SV = {
                 "Mud Shot",
                 "Double Kick",
                 "Curse"
+            ]
+        }
+    },
+    "Grimer-Alola": {
+        "Scientist 1 Mitch (Level 5)": {
+            "level": "5",
+            "ability": "Poison Touch",
+            "item": "Black Sludge",
+            "nature": "Hardy",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Poison Fang",
+                "Shadow Sneak",
+                "Payback",
+                "Disable"
             ]
         }
     },
@@ -24140,6 +25408,36 @@ var SETDEX_SV = {
                 "Volt Switch",
                 "Energy Ball",
                 "Flash Cannon"
+            ]
+        }
+    },
+    "Golem-Alola": {
+        "Scientist 1 Gregg (Level 65)": {
+            "level": "65",
+            "ability": "Sturdy",
+            "item": "Custap Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 252,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Explosion",
+                "Wild Charge",
+                "Stone Edge",
+                "Body Press"
             ]
         }
     },
@@ -24403,6 +25701,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Persian-Alola": {
+        "Executive Jupiter (Level 22)": {
+            "level": "22",
+            "ability": "Fur Coat",
+            "item": "Chople Berry",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 196,
+                "sp": 108,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Double-Edge",
+                "U-turn",
+                "Taxation",
+                "Fake Out"
+            ]
+        }
+    },
     "Heliolisk": {
         "Executive Jupiter (Level 75)": {
             "level": "75",
@@ -24488,6 +25816,36 @@ var SETDEX_SV = {
                 "Heat Crash",
                 "Rock Slide",
                 "Solar Beam"
+            ]
+        }
+    },
+    "Graveler-Alola": {
+        "Skier Diana (Level 17)": {
+            "level": "17",
+            "ability": "Sturdy",
+            "item": "Passho Berry",
+            "nature": "Impish",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 188,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Spark",
+                "Rock Tomb",
+                "Thunder Wave",
+                "Bulldoze"
             ]
         }
     },
@@ -24872,6 +26230,36 @@ var SETDEX_SV = {
                 "Quick Attack",
                 "Will-O-Wisp",
                 "Power-Up Punch"
+            ]
+        }
+    },
+    "Rotom-Mow": {
+        "Executive Jupiter (Level 27)": {
+            "level": "27",
+            "ability": "Levitate",
+            "item": "Focus Band",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Leaf Storm",
+                "Volt Switch",
+                "Shadow Ball",
+                "Will-O-Wisp"
             ]
         }
     },
@@ -25781,6 +27169,126 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Kyurem-Black": {
+        "Executive 0 Cyrus (Level 75)": {
+            "level": "75",
+            "ability": "Teravolt",
+            "item": "Life Orb",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Bolt Strike",
+                "Icicle Crash",
+                "Earthquake",
+                "Iron Head"
+            ]
+        }
+    },
+    "Mega-Blastoise": {
+        "Pkmn Trainer 9 Red (Level 75)": {
+            "level": "75",
+            "ability": "Mega Launcher",
+            "item": "Blastoisinite",
+            "nature": "Timid",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Fake Out",
+                "Shell Smash",
+                "Water Pulse",
+                "Ice Beam"
+            ]
+        }
+    },
+    "Mega-Charizard": {
+        "Pkmn Trainer 9 Red (Level 75)": {
+            "level": "75",
+            "ability": "Drought",
+            "item": "Charizardite Y",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 0,
+                "df": 0,
+                "sp": 252,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Flamethrower",
+                "Air Slash",
+                "Solar Beam",
+                "Scorching Sands"
+            ]
+        }
+    },
+    "Mega-Venusaur": {
+        "Pkmn Trainer 9 Red (Level 75)": {
+            "level": "75",
+            "ability": "Thick Fat",
+            "item": "Venusaurite",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Giga Drain",
+                "Earth Power",
+                "Leech Seed",
+                "Sleep Powder"
+            ]
+        }
+    },
     "Sandaconda": {
         "Team Rocket G-630 (Level 50)": {
             "level": "50",
@@ -25868,6 +27376,126 @@ var SETDEX_SV = {
                 "Sandstorm",
                 "EarthShatter",
                 "Aerial Ace"
+            ]
+        }
+    },
+    "Necrozma-Ultra": {
+        "Tower Tycoon Darkrai (Level 75)": {
+            "level": "75",
+            "ability": "Neuroforce",
+            "item": "None",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Prismatic Laser",
+                "Light Screen",
+                "Reflect",
+                "Morning Sun"
+            ]
+        }
+    },
+    "Zacian-Crowned": {
+        "Tower Tycoon Darkrai (Level 75)": {
+            "level": "75",
+            "ability": "Intrepid Sword",
+            "item": "Rusted Sword",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Behemoth Blade",
+                "Play Rough",
+                "Close Combat",
+                "Protect"
+            ]
+        }
+    },
+    "Mega-Mewtwo": {
+        "Tower Tycoon Darkrai (Level 75)": {
+            "level": "75",
+            "ability": "Insomnia",
+            "item": "Mewtwonite Y",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Psystrike",
+                "Shadow Ball",
+                "Aura Sphere",
+                "Protect"
+            ]
+        }
+    },
+    "Mega-Rayquaza": {
+        "Tower Tycoon Darkrai (Level 75)": {
+            "level": "75",
+            "ability": "Delta Stream",
+            "item": "Yache Berry",
+            "nature": "Adamant",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 252,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Dragon Ascent",
+                "Earthquake",
+                "Supernova",
+                "Dragon Dance"
             ]
         }
     },
@@ -28987,6 +30615,36 @@ var SETDEX_SV = {
             ]
         }
     },
+    "Decidueye-Hisui": {
+        "Leader 3 Chuck (Level 32)": {
+            "level": "32",
+            "ability": "Overgrow",
+            "item": "Coba Berry",
+            "nature": "Careful",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 0,
+                "at": 252,
+                "df": 0,
+                "sp": 0,
+                "sa": 0,
+                "sd": 252
+            },
+            "moves": [
+                "Seed Bomb",
+                "Submission",
+                "U-turn",
+                "Sucker Punch"
+            ]
+        }
+    },
     "Scrafty": {
         "Leader 3 Chuck (Level 31)": {
             "level": "31",
@@ -29014,6 +30672,66 @@ var SETDEX_SV = {
                 "High Jump Kick",
                 "Crunch",
                 "Dragon Dance"
+            ]
+        }
+    },
+    "Mega-Latios": {
+        "Leader 4 Clair (Level 70)": {
+            "level": "70",
+            "ability": "Levitate",
+            "item": "Latiosite",
+            "nature": "Modest",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 0,
+                "sp": 0,
+                "sa": 252,
+                "sd": 0
+            },
+            "moves": [
+                "Luster Purge",
+                "Draco Meteor",
+                "Ice Beam",
+                "Mystical Fire"
+            ]
+        }
+    },
+    "Mega-Latias": {
+        "Leader 4 Clair (Level 70)": {
+            "level": "70",
+            "ability": "Levitate",
+            "item": "Latiasite",
+            "nature": "Bold",
+            "ivs": {
+                "hp": 31,
+                "at": 31,
+                "df": 31,
+                "sp": 31,
+                "sa": 31,
+                "sd": 31
+            },
+            "evs": {
+                "hp": 252,
+                "at": 0,
+                "df": 252,
+                "sp": 0,
+                "sa": 0,
+                "sd": 0
+            },
+            "moves": [
+                "Mist Ball",
+                "Icy Wind",
+                "Light Screen",
+                "Reflect"
             ]
         }
     },
