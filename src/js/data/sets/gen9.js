@@ -4095,7 +4095,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Audino": {
+    "Audino-Mega": {
         "Leader Whitney (Level 41)": {
             "level": "41",
             "ability": "Healer",
@@ -27199,7 +27199,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Blastoise": {
+    "Blastoise-Mega": {
         "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Mega Launcher",
@@ -27229,7 +27229,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Charizard": {
+    "Charizard-Mega": {
         "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Drought",
@@ -27259,7 +27259,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Venusaur": {
+    "Venusaur-Mega": {
         "Pkmn Trainer 9 Red (Level 75)": {
             "level": "75",
             "ability": "Thick Fat",
@@ -27439,7 +27439,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Mewtwo": {
+    "Mewtwo-Mega": {
         "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Insomnia",
@@ -27469,7 +27469,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Rayquaza": {
+    "Rayquaza-Mega": {
         "Tower Tycoon Darkrai (Level 75)": {
             "level": "75",
             "ability": "Delta Stream",
@@ -30675,7 +30675,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Latios": {
+    "Latios-Mega": {
         "Leader 4 Clair (Level 70)": {
             "level": "70",
             "ability": "Levitate",
@@ -30705,7 +30705,7 @@ var SETDEX_SV = {
             ]
         }
     },
-    "Mega-Latias": {
+    "Latias-Mega": {
         "Leader 4 Clair (Level 70)": {
             "level": "70",
             "ability": "Levitate",
